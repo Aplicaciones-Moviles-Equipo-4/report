@@ -20,13 +20,13 @@ Nuestra visión es consolidarnos como una startup de referencia en la creación 
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Apellidos y Nombres              | Carrera                | Acerca de |
-|------|----------------------------------|------------------------|-----------|
-|      | Armestar Heredia, Matias Gabriel | Ingeniería de Software |           |
-|      | Crisanto Calle, Deybbi Anderson  | Ingeniería de Software |           |
-|      | Duran Diaz, Antonio Rodrigo      | Ingeniería de Software |           |
-|      | Nakasone Gomes, Marco Antonio    | Ingeniería de Software |           |
-|      | Teves Samaniego, Joan Fernando   | Ingeniería de Software |           |
+| Foto                                                                            | Apellidos y Nombres              | Carrera                | Acerca de                                                                                                                                     |
+|---------------------------------------------------------------------------------|----------------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| ![profile-armestar-matias](../../assets/chapter-1/profile-armestar-matias.jpeg) | Armestar Heredia, Matias Gabriel | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo. |
+|                                                                                 | Crisanto Calle, Deybbi Anderson  | Ingeniería de Software |                                                                                                                                               |
+|                                                                                 | Duran Diaz, Antonio Rodrigo      | Ingeniería de Software |                                                                                                                                               |
+|                                                                                 | Nakasone Gomes, Marco Antonio    | Ingeniería de Software |                                                                                                                                               |
+|                                                                                 | Teves Samaniego, Joan Fernando   | Ingeniería de Software |                                                                                                                                               |
 
 ## 1.2. Solution Profile
 
