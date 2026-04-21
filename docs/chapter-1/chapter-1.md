@@ -4,9 +4,19 @@
 
 ### 1.1.1. Descripción de la Startup
 
-**Misión**:
+<div style="text-align: justify">
 
-**Visión**:
+**RealTec** es una startup tecnológica enfocada en crear soluciones digitales innovadoras para modernizar la industria tradicional de eventos a través de su plataforma digital, **OrganiX**. Este aplicativo conecta de manera eficiente a organizadores de eventos profesionales o independientes con clientes que requieren sus servicios ya sea para bodas, fiestas, cumpleaños y otras ocasiones. OrganiX simplifica la búsqueda, contratación y coordinación entre ambas partes, ofreciendoles a los clientes herramientas para hallar organizadores de eventos según sus necesidades específicas, mientras que a los profesionales se les brindan sistemas para la gestión de eventos, comunicación directa, cotizaciones, contrataciones, calendario y notas personalizadas. Con una cultura basada en metodologías ágiles y centrada en la experiencia del usuario, **RealTec** busca expandirse a nivel regional , consolidándose como un referente en el desarrollo de productos tecnológicos con propósito.
+
+**Misión:**
+
+Nuestra misión es modernizar el sector de eventos a través de soluciones tecnológicas que prioricen la experiencia de las personas y la optimización de los procesos. Nos motiva desarrollar herramientas que fomenten el trabajo conjunto, resuelvan necesidades reales y generen un beneficio tangible en la sociedad.
+
+**Visión:**
+
+Nuestra visión es consolidarnos como una startup de referencia en la creación de tecnología con sentido social, expandiendo nuestro alcance en la región. Promovemos un entorno de trabajo dinámico y creativo que busca la mejora constante, guiados siempre por la innovación, la empatía y un compromiso con nuestros usuarios y la comunidad.
+
+</div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
