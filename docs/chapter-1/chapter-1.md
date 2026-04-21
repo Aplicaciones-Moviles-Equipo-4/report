@@ -229,3 +229,19 @@ El Lean UX Canvas de OrganiX identifica los problemas de los clientes para encon
 | - Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma. <br>- La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones. <br>- Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente. | - Aprender si los organizadores realmente necesitan herramientas centralizadas para gestionar eventos, pagos y tareas en un solo lugar. Esto nos ayudará a saber si la integración de estas funciones mejora la productividad de los organizadores y reduce los errores en la planificación de eventos. <br>- Aprender si los clientes realmente pueden encontrar organizadores adecuados de manera eficiente al utilizar los filtros avanzados y perfiles detallados. Esto nos ayudará a saber si nuestras soluciones de búsqueda realmente mejoran la experiencia del usuario y aumentan las reservas. | - Desarrollaremos una versión básica del sistema de búsqueda con filtros avanzados y perfiles detallados de organizadores. Luego, realizaremos pruebas con usuarios para medir si se reduce el tiempo de búsqueda en un 25% y se aumentan las reservas exitosas en un 20%. <br>- Integraremos una función básica que permita a los organizadores gestionar sus horarios, pagos y tareas en un solo lugar. A continuación, observaremos si los organizadores aumentan su productividad en un 20% y si la retención de organizadores mejora en un 10%. <br>- Implementaremos una función simple de mensajería en la plataforma, y evaluaremos si la herramienta mejora las confirmaciones de eventos en un 25% y reduce las cancelaciones en un 15%. |
 
 ## 1.3. Segmentos objetivo
+
+### Segmento objetivo 1: Anfitriones de Eventos  
+- **Descripcion**: Este segmento incluye a personas y organizaciones que necesitan contratar servicios profesionales para planificar y ejecutar sus eventos.
+- **Sexo:** Masculino y femenino
+- **Edades:** Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+- **Nivel socioeconómico**: Clases A, B y C (alta, media-alta y media)
+- **Necesidades por satisfacer:** Permitir a estos usuarios encontrar organizadores calificados según el tipo de evento, visualizar perfiles detallados con experiencia previa y reseñas, y establecer comunicación directa para personalizar sus eventos. Esto les ahorra tiempo, reduce el estrés de la búsqueda y les brinda confianza en la contratación.
+
+### Segmento objetivo 2: Organizadores de Eventos
+- **Descripción:** Este segmento incluye a profesionales y empresas dedicadas a la planificación y ejecución de eventos que buscan ampliar su cartera de clientes.
+- **Sexo:** Masculino y Femenino
+- **Edades:** Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+- **Nivel socioeconómico:** Clases A, B y C (alta, media-alta y media)
+- **Necesidades por satisfacer:** Facilitar la captación de nuevos clientes, gestión eficiente de comunicaciones, elaboración de cotizaciones personalizadas y administración de contratos. Además, proporciona herramientas especializadas como calendario de eventos y sistema de notas para optimizar sus operaciones diarias. Esto les permite profesionalizar su trabajo, aumentar su visibilidad y mejorar la organización de sus servicios.
+
+<div style="page-break-after: always;"></div>
