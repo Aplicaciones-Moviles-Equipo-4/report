@@ -2,143 +2,797 @@
 
 ## 2.1. Competidores
 
-## 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
-Esta sección tiene como objetivo profundizar en el conocimiento de los competidores, contrastando la percepción inicial con un análisis más detallado.
+<table border="1px">
+        <thead>
+            <th colspan="11">Competitive Analysis Landscepe</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2" colspan="2">¿Por qué llevar a
+                    cabo este análisis?</td>
+                <td colspan="9">Escriba en el recuadro la pregunta que busca responder o el objetivo de
+                    este análisis.</td>
+            </tr>
+            <tr>
+                <td colspan="9">El objetivo de este análisis es comprender el funcionamiento y las características que presentan los productos de nuestros competidores, para posteriormente planificar estrategias y tácticas para aprovechar las fortalezas de nuestro producto y las debilidades de nuestros competidores.   </td> 
+            </tr>
+            <tr>
+                <tr>
+                    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+                    <td colspan="2">Eventify</td>
+                    <td colspan="2"><img src="/assets/chapter-2/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
+                    <td colspan="2"><img src="/assets/chapter-2/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
+                    <td colspan="2"><img src="/assets/chapter-2/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
+                </tr>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil</td>
+                <td colspan="2">Overview</td>
+                <td colspan="2">Plataforma que brinda herramientas de gestion para organizadores y los conecta con anfitriones que desean contratar sus servicios</td>
+                <td colspan="2">Plataforma para la gestión de eventos corporativos, especializada en conferencias y experiencias presenciales, virtuales e híbridas </td>
+                <td colspan="2">Plataforma donde organizadores de eventos pueden publicar sus servicios mediante portafolios visuales para atraer la atención de los anfitriones que buscan sus servicios.</td>
+                <td colspan="2">Plataforma para buscar y contratar proveedores de servicios para eventos (locales, catering, etc.)</td>
+            </tr>
+            <tr>
+                <td colspan="2"> Ventaja competitiva <br></br> ¿Qué valor ofrece a los clientes?</td>
+                <td colspan="2">Los organizadores tienen herramientas que facilitan la gestion de eventos. Mientras que los anfitriones pueden encontrar, cotizar y analizar distintas propuestas desde un mismo lugar.</td>
+                <td colspan="2">Permite crear y gestionar eventos(presencial, virtual o hibrido). Además presenta sección de networking para cada evento, permitiendo a los participantes interactuar entre ellos. </td>
+                <td colspan="2">Ofrece a los organizadores presentar sus servicios mediante experiencias visuales basadas en portafolios de fotos y videos de eventos anteriores.</td>
+                <td colspan="2">Ofrece facilidad para encontrar servicios para eventos (locales, catering, etc.), gracias a su amplia variedad de proveedores</td>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil de Marketing</td>
+                <td colspan="2">Mercado Objetivo</td>
+                <td colspan="2">Organizadores de eventos y anfitriones ubicados en Lima, Perú</td>
+                <td colspan="2">Empresas medianas y grandes que organizan conferencias, cumbres o lanzamientos de productos</td>
+                <td colspan="2">Organizadores de eventos, proveedores (catering, musica, fotografos, etc.) y anfitriones, mayormente de EE.UU.</td>
+                <td colspan="2">Proveedores de servicios para eventos (locales, catering, etc) y anfitriones que desean contratar sus servicios en EE.UU. y Canada</td>
+            </tr>
+            <tr>
+                <td colspan="2">Estrategia de Marketing</td>
+                <td colspan="2">Posicionamiento del Landing page del producto. <br><br>Campañas en Google Ads. <br><br>Publicidad en redes sociales.<br><br>Colaboración con organizadores de eventos</td>
+                <td colspan="2">Posicionamiento del Landing page del producto. <br><br>Publicidad en redes sociales. <br><br>Organización de eventos propios para mostrar las caracteristicas de su plataforma</td>
+                <td colspan="2">Publicidad en redes sociales <br><br> Posicionamiento de su plataforma</td>
+                <td colspan="2">Publicidad en redes sociales <br><br> Posicionamiento de su plataforma</td>
+            </tr>
+            <tr>
+                <td rowspan="3" colspan="1">Perfil de Producto</td>
+                <td colspan="2">Producto & Servicio</td>
+                <td colspan="2">Es una aplicación web que conecta a organizadores de eventos con anfitriones que necesitan contratar sus servicios. Además, ofrece herramientas para los organizadores, como calendarios de eventos, notas internas, comunicación directa con los anfitriones, entre otros.  </td>
+                <td colspan="2">Es una aplicación web y movil que ofrece herramientas para gestion de eventos como registro de asistentes, gestión de entradas, networking y analiticas en tiempo real </td>
+                <td colspan="2">Es una aplicación web que ofrece servicios de organizadores de eventos mediante portafolios visuales </td>
+                <td colspan="2">Es una aplicación web que permite realizar busquedas de servicios de proveedores para eventos, como locales, catering, musica, etc.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Precio & Costos  </td>
+                <td colspan="2">El registro a la aplicación sera de forma gratuita, sin embargo, para acceder a las herramientas de gestión, los organizadores deberan pagar una suscripción mensual.</td>
+                <td colspan="2">La aplicación ofrece una tarifa de $17,999 por año</td>
+                <td colspan="2">Publicación gratuida ilimitada y planes desde $195 a $695 mensuales para mayor visibilidad</td>
+                <td colspan="2">Pago por leads o suscripción mensual de $100 a $170</td>
+            </tr>
+            <tr>
+                <td colspan="2">Canales de distribucion (web y/o Movil)</td>
+                <td colspan="2">Aplicación web</td>
+                <td colspan="2">Aplicación web y Móvil</td>
+                <td colspan="2">Aplicación web</td>
+                <td colspan="2">Aplicación web</td>
+            </tr>
+            <tr>
+                <td rowspan="5">Analisis SWOT</td>
+                <td colspan="10">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus
+                    oportunidades y contribuir a lo que ustedes definen como su posible ventaja
+                    competitiva</td>
+            </tr>
+            <tr>
+                <td colspan="2">Fortalezas</td>
+                <td colspan="2">Ofrecemos herramientas de gestión, como calendarios para organizar eventos, comunicación de organizadores y anfitriones</td>
+                <td colspan="2"> Solución potente y robusta para eventos corporativos grandes. Además, se puede integrar con herramientas empresariales</td>
+                <td colspan="2"> Permite a los organizadores y proveedores a crear portafolios visuales de sus servicios para captar la atención de los anfitriones</td>
+                <td colspan="2"> Presenta una amplia variedad de proveedores registrados y es accesible para proveedores pequeños que inician en el rubro.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Debilidades</td>
+                <td colspan="2">Nuestra aplicación es nueva en el mercado nacional, lo que podria complicar atraer nuevos usuarios</td>
+                <td colspan="2">Es compleja y costosa para organizadores de eventos no masivos</td>
+                <td colspan="2">Ofrece pocas opciones para el mercado nacional, ya que esta centrado mayormente para EE.UU. Además no ofrece herramientas de gestión</td>
+                <td colspan="2">Presenta una interfaz muy simple y poco atractiva. Además, los servicios que ofrece solo estan disponibles en EE.UU. y Canada</td>
+            </tr>
+            <tr>
+                <td colspan="2">Oportunidades</td>
+                <td colspan="2">Es una solución escalable para nivel nacional e inclusive para todo latinoamerica.</td>
+                <td colspan="2">Tiene la posibilidad de liderar el sector de eventos híbridos y virtuales, integrando tecnologías como IA para automatizar procesos de gestión.</td>
+                <td colspan="2">Puede expandirse a nuevos países y fortalecer su red de organizadores mediante alianzas estratégicas</td>
+                <td colspan="2">Puede mejorar su interfaz para dale mejor visibilidad a sus proveedores, además de integrar herramientas de gestión</td>
+            </tr>
+            <tr>
+                <td colspan="2">Amenazas</td>
+                <td colspan="2">Al ser una aplicación nueva, el exito depende tener una amplia cantidad de organizadores y anfitriones simultaneamente, ya que si hay poca oferta o demanda en la aplicación, los usuarios no tendrán motivos para permanecer activos.</td>
+                <td colspan="2">La mayor parte de sus clientes son grandes empresas que requieren soluciones personalizadas. Si no cumplen con las expectativas, podrían perder contratos importantes </td>
+                <td colspan="2">Competencia con redes sociales visuales, como Instragram</td>
+                <td colspan="2">Puede quedar obsoleta frente a nuevas soluciones más modernas </td>
+            </tr>
+        </tbody>
+    </table>
 
-<div align="center">
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-<table>
-  <tr>
-    <th colspan="6">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td><b>¿Por qué llevar a cabo este análisis?</b></td>
-    <td colspan="5">  </td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td><b>  </b></td>
-    <td><b>  </b></td>
-    <td><b>  </b></td>
-    <td><b>  </b></td>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Perfil</b></td>
-    <td>Overview</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td rowspan="2"><b>Perfil de Marketing</b></td>
-    <td>Mercado objetivo</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Estrategias de marketing</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td rowspan="3"><b>Perfil de Producto</b></td>
-    <td>Productos & Servicios</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Precios & Costos</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Canales de distribución (Web y/o Móvil)</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>Análisis SWOT</b></td>
-    <td>Fortalezas</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Debilidades</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
-</table>
+**Estrategia de diferenciación:**
+<br><br>
+- La estrategia de diferenciación se basa en ofrecer una solución de software única que se distinga de la competencia. En este caso, la propuesta es crear una aplicación web que conecte a organizadores de eventos con anfitriones, brindando herramientas de gestión para facilitar la planificación y ejecución de eventos. Esto permitirá a los organizadores optimizar su trabajo y a los anfitriones encontrar fácilmente el servicio que necesitan.
+  <br><br>
 
-</div>
+* **Tácticas:**
+- Incluir funcionalidades como calendario, chat directo, cotizaciones, notas personalizadas y seguimiento por pasos.
+- Diseñar una interfaz intuitiva, clara y amigable desde el primer uso.
 
-## 2.1.2. Estrategias y tácticas frente a competidores
+**Estrategia de liderazgo en costos:**
+<br><br>
+- La estrategia de liderazgo en costos implica ofrecer una solución a un precio más bajo que la competencia. En este caso, se propone ofrecer una suscripción mensual asequible para los organizadores de eventos, lo que les permitirá acceder a herramientas de gestión sin incurrir en altos costos iniciales.
+  <br><br>
+
+* **Tácticas:**
+- Implementar un modelo freemium: registro gratuito y herramientas básicas sin costo.
+- Ofrecer una suscripción mensual accesible para funciones avanzadas, en contraste con los altos precios de aplicaciones como Bizzabo.
+- No cobrar comisiones por contratos gestionados dentro de la app.
+
+**Estrategia de diferenciación enfocada:**
+<br><br>
+- La propuesta se enfoca en atender a nichos específicos del mercado de eventos sociales (como cumpleaños, bodas y celebraciones familiares), evitando la complejidad de plataformas orientadas a eventos corporativos de gran escala.
+  <br><br>
+
+* **Tácticas:**
+- Simplificar las funcionalidades para que se adapten a las necesidades reales de los eventos sociales.
+- Ajustar la comunicación visual y verbal al tono cercano, emocional y personal que estos eventos suelen tener.
+
+**Estrategias competitivas adicionales:**
+<br><br>
+
+* **Tácticas:**
+- Permitir a los usuarios dejar reseñas y calificaciones de los organizadores.
+- Implementar notificaciones automáticas sobre el avance de cada evento (como recordatorios o pendientes).
+
+**Estrategia de construcción de marca:**
+<br><br>
+- Apostar por una identidad visual cálida, cercana y profesional, que conecte emocionalmente con el público objetivo y genere confianza.
+  <br><br>
+
+* **Tácticas:**
+- Desarrollar una identidad visual con colores amigables y un logo simple pero memorable.
+- Utilizar redes sociales como Instagram, TikTok y Facebook para mostrar casos reales de uso de la app (antes y después de eventos organizados con Eventify).
+- Fomentar una comunidad activa alrededor de la marca, compartiendo consejos y experiencias sobre organización de eventos.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
+Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se redactaron las siguientes preguntas:
+<br>
+
+**Organizadores de eventos no masivos:**
+
+
+**Preguntas Demográficas:**
+
+* ¿Cuál es su nombre?
+* ¿Qué edad tiene?
+* ¿Cómo se definiría usando solo 3 adjetivos?
+* ¿Cuál es su estado civil?
+* ¿A qué se dedica? (freelance o como organización)
+* ¿En qué distrito/provincia reside?
+* ¿Hace cuánto tiempo lleva trabajando como organizador de eventos?
+* ¿Porque decidió trabajar en el rubro de organizador de eventos?
+
+**Preguntas de Hábitos Digitales:**
+
+* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+* ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
+
+**Preguntas Principales:**
+
+* ¿Qué tipo de eventos organiza con mayor frecuencia?
+* ¿Cuántos eventos gestiona por mes (promedio)?
+* ¿Qué diferencia nota de organizar un evento sencillo de uno complejo?
+* ¿Cuál es el rango salarial para organizar un evento (quinceañero, boda, bautizo, etc.)?
+* ¿Podría contarnos paso a paso, como es su proceso para organizar un evento, desde que un cliente lo contacta hasta el día del evento?
+* ¿Como gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuales y cuánto?
+
+* ¿Qué desafíos encuentra al comunicarse con sus clientes?
+* ¿Como ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cual y cómo?
+* ¿Qué aspecto del trabajo considera que los clientes menos comprenden? ¿Hay términos técnicos en la organización de eventos?
+* ¿Como gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
+* ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
+* ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
+* ¿Qué le gustaría automatizar o simplificar de su trabajo?
+
+
+**Preguntas Complementarias:**
+
+* ¿Qué es lo que más valoran sus clientes en relación a sus servicios según su experiencia?
+* ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
+* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Cómo las resolvió?
+
+ <br/>
+
+**Anfitriones de Eventos**
+
+**Preguntas Demográficas**
+
+* ¿Cuál es su nombre?
+* ¿Qué edad tiene?
+* ¿Como se definiría usando solo 3 adjetivos?
+* ¿Cuál es su estado civil?
+* ¿A qué se dedicas?
+* ¿En qué distrito/provincia reside?
+
+**Preguntas de Hábitos Digitales**
+
+* ¿Por medio de que navegador web contacto con el organizador?
+* ¿Cuál es el dispositivo que utiliza con mayor frecuencia (laptop, Tablet, celular, computadora)?
+
+**Preguntas Principales**
+
+* ¿Alguna vez has contratado a algún organizador de eventos?
+* ¿Cuál fue el último evento que contrato?
+* ¿Con cuánto tiempo de anticipación comenzó a planearlo?
+* ¿Como encontró al organizador de eventos? (Redes sociales, contactos, página web).
+* ¿Qué factores considero para contratar a un organizador de eventos?
+* ¿Solicito cotizaciones a diversos organizadores antes de decidir?
+* ¿Hubo algo que le costó entender o comparar entre los diferentes servicios? ¿Si es así cuáles?
+* ¿Cómo considera que fue la comunicación con el organizador y con qué frecuencia?
+* ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
+* ¿Hubo algo que le hubiera gustado que le expliquen mejor?
+* ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
+* ¿Cómo fue el proceso de cotización y pagos? ¿Por qué medios fue realizado el pago?
+* ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
+
+**Preguntas Complementarias**
+
+* ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
+* ¿Qué fue lo más satisfactorio de todo el proceso?
+* ¿Qué fue lo más frustrante/estresante de todo el proceso de planificación junto con su organizador?
+* ¿Le pareció correcto el costo del evento?
+* ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
+* ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
+* ¿Pudo hacer seguimiento al estado de pagos fácilmente?
+
 ### 2.2.2. Registro de entrevistas
+
+A continuación, se presentará un resumen de cada entrevista realizada a los segmentos objetivo. Además, cada entrevista contará una captura de pantalla como evidencia y el intervalo de tiempo de duración que tienen en el video realizado, para que sea más sencillo ubicarlos.
+
+ <br>
+
+**Segmento Objetivo: Anfitriones de Evento**
+<br><br>
+
+**Entrevista 1: John Rafael Cutiri Chinchay**
+
+![Anfitrion 1](../assets/chapter-2/entrevista-anfitrion-1.png)
+*_Evidencia en fotografía de Entrevista 1 hacia John Rafael Cutiri Chinchay - Segmento Anfitriones_*
+
+**Datos del entrevistado**
+* **Nombre:** John Rafael Cutiri Chinchay
+* **Edad:** 52 años
+* **Estado civil:** Casado
+* **Ocupación:** Comerciante
+* **Distrito de Residencia:** Chorrillos
+
+* **Duración de la entrevista:** [00:00:08 - 00:16:12]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+El entrevistado se llama John Rafael Cutiri Chinchay, es una persona sobria, directa y de pocas palabras. Actualmente se encuentra casado, reside en Chorrillos y trabaja como comerciante. El navegador que utiliza con frecuencia es Google Chrome y su dispositivo preferido es el celular.
+
+Durante la entrevista, el señor John relató su experiencia al contratar a un organizador de eventos para la fiesta de quince años de su hija. La planificación del evento duró aproximadamente 10 meses. Como anfitrión, demostró pensamiento crítico al solicitar varias cotizaciones con diferentes proveedores antes de tomar una decisión. Finalmente, optó por contratar al organizador recomendado por un familiar, valorando la confianza que este le generaba y considerando que las propuestas recibidas eran similares. Además, evaluó cuidadosamente los videos de eventos anteriores publicados por el organizador en redes sociales, lo cual reforzó su elección.
+
+Durante la planificación, aunque la comunicación inicial con el organizador fue limitada, supo adaptarse y mantener una comunicación efectiva a medida que se acercaba la fecha del evento, utilizando WhatsApp como canal principal. Esta disposición muestra su capacidad para colaborar activamente en momentos clave del proceso. También comentó que lo más estresante fue el periodo cercano al evento, ya que sentía presión por la posibilidad de que algo pudiera faltar. Esta preocupación evidencia una actitud empática hacia los invitados y hacia el éxito general del evento.
+
+Respecto al desarrollo del evento, señaló que le hubiera gustado que se explicara con mayor claridad el tema del volumen de la música, debido a las restricciones del local ubicado en una zona de condominios. También expresó cierta insatisfacción con la atención a los invitados, ya que notó que algunas mesas eran atendidas mientras otras no. Estas observaciones reflejan su pensamiento crítico al identificar áreas de mejora y su empatía hacia los asistentes, al preocuparse por su experiencia durante la celebración.
+
+En cuanto al pago, se estableció un adelanto del 30% y el resto a cancelar el día del evento. No obstante, el entrevistado optó por realizar pagos periódicos, mostrando así iniciativa y colaboración para facilitar la gestión económica. Todos los pagos se efectuaron mediante transferencia bancaria y no se presentaron gastos imprevistos. Aunque no recibió boletas ni facturas, conservó las capturas de pantalla como comprobantes de pago, lo que demuestra una actitud responsable y organizada.
+
+A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resultado final. Consideró que el evento cumplió sus expectativas y que el organizador logró plasmar su visión. Asimismo, afirmó que no habría pagado más por un servicio de mayor calidad, ya que lo recibido le pareció adecuado. Finalmente, mencionó que recomendaría al organizador por haber cumplido con lo prometido.
+
+**Entrevista 2: Cenith Luque García**
+
+![Anfitrion 2](../../assets/chapter-2/entrevista-anfitri%C3%B3n-2.png)
+*_Evidencia en fotografía de Entrevista 2 hacia Cenith Luque García - Segmento Anfitriones_*
+
+**Datos del entrevistado**
+* **Nombre:** Cenith Luque García
+* **Edad:** 39 años
+* **Estado civil:** Casada
+* **Ocupación:** Militar del ejército peruano
+* **Distrito de Residencia:** Lima - Chorrillos
+
+* **Duración de la entrevista:** [00:16:14 - 00:21:49]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+La entrevistada se llama Cenith Luque García. Se describe como una mujer comprometida y responsable, cualidades que considera fundamentales para el éxito en la organización de eventos. Durante la entrevista, compartió su experiencia al organizar un evento para el Ejército Peruano, específicamente un almuerzo conmemorativo por el 145 aniversario del arma de ingeniería. Actualmente, Cenith utiliza redes sociales como Facebook e Instagram para establecer contactos profesionales, lo cual le permitió comunicarse inicialmente con el cliente.
+
+La planificación del evento se desarrolló con anticipación y requirió un trabajo constante de coordinación. Desde el inicio, la comunicación con el cliente se dio por mensajes, para luego pasar a reuniones presenciales con el objetivo de alinear expectativas y definir detalles. Uno de los temas que generó confusión fue el de la decoración, por lo que se necesitó mayor explicación para evitar malentendidos. Cenith resaltó la importancia de contar con una buena comunicación para que tanto el organizador como el cliente estén en sintonía.
+
+En cuanto a los aspectos formales, se firmó un contrato que detallaba los servicios acordados, y los pagos se realizaron mediante transferencias bancarias. Este procedimiento, según la entrevistada, brindó seguridad a ambas partes. Además, se llevó un seguimiento ordenado de los pagos, lo cual contribuyó a generar confianza en el proceso.
+
+Durante el desarrollo del evento, Cenith sintió cierta frustración por los tiempos de ejecución, ya que no se cumplieron tal como habían sido planeados. A pesar de ello, se mostró satisfecha con el resultado final, pues la organización comprendió correctamente la visión general del evento. Consideró que el costo fue razonable y que lo más importante era lograr una experiencia de calidad, sin enfocarse exclusivamente en el presupuesto.
+
+Finalmente, la entrevistada afirmó que recomendaría al organizador del evento, destacando su profesionalismo y cumplimiento. También subrayó que una planificación adecuada, una comunicación constante y una buena gestión financiera son claves para llevar a cabo un evento exitoso.
+
+
+**Entrevista 3: Anacristina Reymundo Mamani**
+
+![Anfitrion_3](../assets/chapter-2/entrevista-anfitrión-3.png)
+
+*_Evidencia en fotografía de Entrevista 3 hacia Anacristina Reymundo Mamani - Segmento Anfitriones_*
+
+**Datos del entrevistado**
+* **Nombre:** Anacristina Reymundo Mamani
+* **Edad:** 22 años
+* **Estado civil:** Soltera
+* **Ocupación:** Estudiante de Medicina veterinaria
+* **Distrito de Residencia:** Lima - Santiago de Surco
+
+* **Duración de la entrevista:** [00:21:50 - 00:30:15]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+La entrevistada se llama Anacristina Reymundo Mamani, una joven de 22 años, género femenino, soltera, que reside en el distrito de Surco, Lima, Perú.
+
+Es estudiante de Medicina Veterinaria, cursando actualmente el 5to ciclo de su carrera, sin ocupación laboral adicional. Se define a sí misma con tres adjetivos principales: empática, responsable y proactiva.
+
+Anacristina utiliza un dispositivo móvil con sistema operativo Android como su principal herramienta tecnológica y para navegación web emplea Google Chrome como navegador predeterminado, no contando con otros dispositivos como laptop, PC o tablet. Durante la entrevista, compartió su experiencia organizando un evento familiar para celebrar los 80 años de su abuela.
+
+Aunque la familia fue quien contrató al organizador, Anacristina asumió el rol de contacto principal y coordinación. Descubrió al organizador de eventos a través de TikTok, estableciendo el contacto inicial por la misma plataforma social y posteriormente migrando la comunicación a WhatsApp para el seguimiento del proyecto. Los factores determinantes para elegir al organizador fueron su creatividad y aparente responsabilidad demostrada en sus contenidos de TikTok.
+
+Realizó un proceso de comparación consultando con otros organizadores antes de tomar la decisión final, aunque mencionó dificultades para entender las diferencias de precios entre proveedores que ofrecían servicios aparentemente similares.
+
+La planificación del evento se extendió aproximadamente dos meses y medio. La comunicación con el organizador fue calificada como regular, manteniéndose principalmente a través de WhatsApp y ocasionalmente por llamadas telefónicas. Sin embargo, experimentó frustración debido a la falta de respuestas oportunas del organizador, quien no era lo suficientemente comunicativo para sus expectativas.
+
+El esquema de pagos incluyó un adelanto del 25% al inicio del proyecto y el 75% restante al finalizar el evento, realizando todas las transacciones mediante transferencias bancarias. Este método le facilitó el seguimiento de pagos, aunque surgieron gastos inesperados por daños (vasos y copas rotos) durante la celebración.
+
+Anacristina no recomendaría contratar nuevamente al mismo organizador debido a su inexperiencia y comunicación deficiente, factores que afectaron la ejecución del evento. Aunque valoró no tener que preocuparse por la planificación general, sintió que su visión del evento no fue adecuadamente comprendida ni ejecutada. Consideró que el precio no fue proporcional a la calidad recibida y que otros organizadores habrían ofrecido mejores resultados.
+
+Los aspectos más frustrantes fueron la falta de comunicación oportuna y algunos detalles de ejecución como el posicionamiento inadecuado de las mesas, tema que no se discutió suficientemente durante la planificación.
+
+**Segmento Objetivo 2: Organizadores de Evento**
+<br><br>
+
+**Entrevista 1: Teodoro Paico Sernaqué**
+
+![Organizador-1](../assets/chapter-2/entrevista-organizador-1.png)
+*_Evidencia en fotografía de Entrevista 1 hacia Teodoro Paico Sernaqué - Segmento Organizadores_*
+
+**Datos del entrevistado:**
+* **Nombre:** Teodoro Paico Sernaqué
+* **Edad:** 54 años
+* **Estado civil:** Conviviente
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** La Unión - Piura
+
+* **Duración de la entrevista:** [00:30:16 - 00:54:35]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una empresa formalmente constituida y con razón social, respaldado por 12 años de experiencia en el rubro. Se describe como una persona responsable, entusiasta y apasionada por su trabajo.  El navegador web que menciona ser de su preferencia es Google Chrome y el dispositivo que más utiliza es su celular móvil, ya que mantiene comunicación con sus clientes por redes sociales y necesita sentirse conectado.
+
+Durante la entrevista, compartió cómo ha sido su desarrollo profesional en el ámbito de la organización de eventos. Todo comenzó en el año 2012, cuando ofrecía servicios de alquiler de equipos de sonido. Al notar que el negocio era rentable y contribuía significativamente a su economía familiar, decidió expandirse y dedicarse de lleno al rubro de eventos.
+
+Actualmente, mantiene comunicación con sus clientes principalmente a través de redes sociales como WhatsApp y Messenger, así como por llamadas telefónicas. Señaló que la publicidad por radio ha sido de gran ayuda para generar interacción con nuevos clientes.
+
+Dentro de los eventos que organiza con mayor frecuencia destacan las bodas y los bautizos, aunque también presta servicios para fiestas infantiles, quinceañeros, baby showers, serenatas públicas y aniversarios. Ofrece distintos tipos de paquetes, los cuales varían según los servicios incluidos y los recursos requeridos. Desde el momento en que un cliente lo contacta, comienza a organizar su agenda de acuerdo a los requerimientos solicitados. A lo largo del proceso, mantiene una comunicación constante con el cliente para asegurar que todos los detalles se cumplan hasta el día del evento.
+
+En cuanto a la gestión de pagos, indicó que trabaja bajo contrato: solicita un abono del 50% por adelantado y el saldo restante al finalizar el evento. Los medios de pago más utilizados son transferencias bancarias y efectivo.
+
+Un aspecto que considera importante mejorar es la automatización del control y gestión de materiales e insumos. A pesar de los desafíos, se siente orgulloso de poder cumplir con las expectativas de sus clientes y brindarles una experiencia satisfactoria. Sin embargo, también ha enfrentado dificultades, como clientes que no cumplen con los pagos a tiempo o que solicitan más servicios de los previamente acordados. Ante estas situaciones, procura mantener una actitud positiva y aprender de cada experiencia para seguir mejorando en su labor.
+
+**Entrevista 2: Jaicob Diaz**
+
+![Organizador-2](/assets/chapter-2/entrevista-organizador-2.png)
+
+*_Evidencia en fotografía de Entrevista 2 hacia Jaicob Diaz - Segmento Organizadores_*
+
+**Datos del entrevistado:**
+* **Nombre:** Jaicob Emmir Diaz Zubiate
+* **Edad:** 22 años
+* **Estado civil:** Solter
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** Villa el Salvador
+
+* **Duración de la entrevista:** [00:54:36 - 01:13:31]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+El entrevistado es un organizador de eventos con una productora que se especializa en el rubro audiovisual. Se describe como una persona creativo, apasionado y responsable. Tiene preferencias por utilizar Whatsapp, una laptop, y Safari como navegador web.
+
+Durante la entrevista, compartió como entró al mundo de la organización de eventos desde hace 3 años por un familiar, su tío, quien lo llamó para que lo apoye. Desde entonces ha seguido en este negocio y actualmente tiene su propia productora.
+
+Actualmente, con mayor frecuencia suele organizar eventos como bodas y quinceañeros, llegando a gestionar en promedio 3 eventos mensuales.
+
+En los eventos que organiza, ofrece lo que son paquetes de servicios que se incluirán en el evento para tener más facilidad de manejo y contratación de servicios de terceros. Además luego mantiene comunicación con el cliente para dar a conocer los procesos que se están siguiendo con la organización del evento.
+
+Para la gestión de pagos, usualmente trabaja con un 50% de adelanto, y un 50% al final del evento. Tiene una cuenta bancaria específica para su trabajo así que generalmente lo maneja con depósitos, y alternativas como Yape si el presupuesto lo permite.
+
+Considera que un aspecto para automatizar es la organización de los contactos o una agenda, porque lo tiene muy desordenado. A causa de esto le dificulta trabajar con terceros y prefiere manejar el todo, por ello llegó a abrir su productora audiovisual.
+
+
+**Entrevista 3: Sara Goveya**
+
+![Organizador-3](/assets/chapter-2/entrevista-organizador-3.jpeg)
+*_Evidencia en fotografía de Entrevista 3 hacia Sara Goveya - Segmento Organizadores_*
+
+**Datos del entrevistado:**
+* **Nombre:** Sara Goveya
+* **Edad:** 34 años
+* **Estado civil:** Casada
+* **Ocupación:** Organizador de eventos.
+* **Distrito de Residencia:** Surco
+
+* **Duración de la entrevista:** [1:13:32 - 1:35:23]
+* **Video de las entrevistas:** [Needfinding - Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914181_upc_edu_pe/EXks3gNtzrFPh8mlpqOnP4oBJkIS1VjexgiBtpRkFu_wow)
+
+**Resumen de la entrevista:**
+
+La entrevistada, de actualmente 34 años, es dueña de una empresa de publicidad y eventos con 18 años de experiencia en el rubro y 4 años liderando su propia empresa. Su nombre es Sara Goveya, y se describe como una persona perseverante, capaz y disruptiva, destacando su enfoque innovador en la organización de eventos. Está casada y su negocio se enfoca tanto en eventos corporativos como sociales.
+
+Sara identificó una gran demanda en el sector, ya que muchas empresas suelen tercerizar la planificación de eventos. Al notar esta necesidad, decidió especializarse y cubrir ese nicho de mercado. Captar clientes no ha sido un problema para ella: su principal canal de contacto es Facebook Marketplace, aunque también usa el boca a boca, contactos directos y redes como WhatsApp. Incluso ha trabajado con marcas grandes.
+
+La mayoría de los eventos que organiza son corporativos, incluyendo activaciones de marca y algunos eventos sociales. Su empresa desarrolla aproximadamente dos eventos grandes por mes, manteniendo así una carga de trabajo equilibrada. Ha realizado celebraciones que van desde 20 hasta 200 personas, con presupuestos que oscilan entre los S/15,000 y S/25,000 para eventos sociales, y hasta S/100,000 para eventos corporativos.El proceso de organización comienza con un primer contacto en el que se recogen datos clave como tipo de evento, presupuesto y fecha. Una vez aceptada la propuesta, se solicita un adelanto del 50% para iniciar la producción. La etapa de preproducción suele durar entre dos a cuatro días.
+
+Los clientes valoran principalmente su atención personalizada y la calidad del servicio. Ha recibido comentarios positivos sobre su dedicación y la excelencia del producto final. Sin embargo, señala que la falta de organización por parte de algunos clientes puede ser frustrante, especialmente cuando hay varias personas involucradas en la toma de decisiones.
+
+Finalmente, Sara reconoce que no está del todo satisfecha con su flujo actual de ventas. Cree firmemente que su servicio es de alta calidad, pero menciona la falta de personal y las barreras de comunicación como obstáculos para llegar a más clientes.
 
 ### 2.2.3. Análisis de entrevistas
 
-### 2.3. Needfinding
+En esta sección, se presenta el análisis de las entrevistas realizadas, según los segmentos obejtivos. La finalidad es identificar las principales necesidades, preferencias y desafíos del mercado.
+
+A través de gráficos estadísticos, se muestran los resultados más relevantes, que servirán como base para definir las funcionalidades y características de la plataforma.
+
+- Segmento Objetivo 1: Anfitriones de Eventos
+
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+  <br> Los resultados muestran que el 60% de anfitriones utilizan celular para comunicarse con su organizador, mientras que el 40% restante se equilibra en Pc y laptop <br>
+
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+    <br> Gráfico acerca del tipo de evento que contrataron <br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+  <br> Gráfico acerca de cómo encontraron a su organizador de eventos <br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+<br> Gráfico acerca de servicios que les costó entender o comparar <br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+<br> Gráfico acerca la valoración de la comunicación con su organizador durante el proceso. <br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+<br> Gráfico acerca de los medios de comunicación con la que interactuaron con su organizador <br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+
+<br>
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
+</p><p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
+</p>
+
+- Segmento Objetivo 2: Oreganizadores de Eventos
+
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
+</p>
+<p align="center">
+  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
+</p>
+
+## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+En esta sección se presentarán los User Personas de cada segmento objetivo. Estos artefactos fueron diseñados a partir de la información obtenida en las entrevistas.
+<br>
+
+**Segmento Objetivo: Organizadores de eventos sociales no masivos**
+
+![user-persona-organizador.png](../../assets/chapter-2/user-persona-organizador.png)
+
+ <br>
+
+**Segmento Objetivo: Anfitriones de eventos**
+![user-persona-host](../../assets/chapter-2/user-persona-anfitrion.png)
+
 ### 2.3.2. User Task Matrix
 
+En este análisis, estamos considerando dos segmentos de usuarios: Organizadores de eventos sociales no masivos y Anfitriones de eventos.
+
+## Indicadores de Importancia y Frecuencia
+
+**Indicadores de Importancia:**
+- ALTA
+- MEDIA
+- BAJA
+
+**Indicadores de Frecuencia:**
+- ALTA
+- MEDIA
+- BAJA
+
+## Tabla de Matriz de Tareas de Usuario
+
+| Tareas | Organizadores de eventos sociales no masivos | | Anfitriones de eventos | |
+|-------|---------------------|------------|-------------|------------|
+| | **Frecuencia** | **Importancia** | **Frecuencia** | **Importancia** |
+| Planificación del evento | Alta | Alta | Alta | Alta |
+| Coordinación con proveedores | Alta | Alta | Media | Alta |
+| Gestión de invitados | Alta | Alta | Alta | Alta |
+| Promoción del evento | Media | Alta | Baja | Baja |
+| Supervisión durante el evento | Alta | Alta | Alta | Alta |
+| Post-evento | Media | Media | Alta | Media |
+
+## Análisis de Tareas
+
+### Tareas con mayor frecuencia e importancia:
+
+Ambos segmentos de usuarios muestran alta frecuencia e importancia para **Planificación del evento** y **Gestión de invitados**. Para los Organizadores de eventos sociales no masivos, la **Coordinación con proveedores** también tiene alta frecuencia e importancia, mientras que para los Anfitriones de eventos esta tarea tiene frecuencia media pero alta importancia.
+
+### Principales diferencias entre segmentos de usuarios:
+
+1. **Promoción del evento**: Para los Organizadores, esto tiene frecuencia media y alta importancia, mientras que para los Anfitriones tiene baja frecuencia e importancia.
+2. **Post-evento**: Los Anfitriones de eventos realizan esto con alta frecuencia, mientras que los Organizadores lo hacen con frecuencia media. Ambos segmentos lo consideran de importancia media.
+
+### Principales similitudes:
+
+Ambos segmentos coinciden en la alta frecuencia e importancia de la **Planificación del evento**, **Gestión de invitados** y **Supervisión durante el evento**.
+
+### Enfoques de los segmentos:
+
+Los Organizadores de eventos sociales no masivos se concentran principalmente en la **planificación y logística** del evento, garantizando que todo funcione correctamente y según lo esperado. Su enfoque está más relacionado con la ejecución técnica y la coordinación de recursos.
+
+Los Anfitriones de eventos se centran en la **experiencia de los invitados** y en la **gestión del ambiente** durante el evento, asegurándose de que los asistentes se sientan cómodos, atendidos y disfruten del evento.
+
+Aunque las tareas varían, ambos segmentos coinciden en la importancia de la **organización eficiente** y el **bienestar de los participantes**. Sin embargo, los Organizadores tienen un enfoque más técnico y operativo, mientras que los Anfitriones se enfocan en la interacción social y la satisfacción personal de los invitados.
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta.
+
+#### User Journey Mapping - Segmento Organizador de eventos no masivos
+
+![User Journey Mapping - Organizador.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Organizador.png)
+#### User Journey Mapping - Segmento Anfitrion
+
+![User Journey Mapping - Anfitrion.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Anfitrion.png)
+
 ### 2.3.4. Empathy Mapping
+
+
+El empathy mapping es una herramienta que nos permite comprender en profundidad a nuestros usuarios, explorando no solo lo que hacen o necesitan, sino también lo que piensan, sienten, ven, escuchan y dicen. A través de este esquema, podemos identificar sus frustraciones, motivaciones y comportamientos para desarrollar soluciones más alineadas con sus necesidades reales.
+
+**Segmento Objetivo: Organizadores de eventos sociales no masivos** <br>
+
+Este mapa se enfoca en Francisco Mendoza, un organizador de eventos experimentado que desea gestionar sus procesos de forma más eficiente y destacarse en un mercado competitivo. A través de esta herramienta, identificamos sus motivaciones, necesidades operativas y los principales desafíos que enfrenta en su día a día.
+
+![empathy-map-organizador.png](../../assets/chapter-2/empathy-map-organizador.png)
+**Segmento Objetivo: Anfitriones de eventos** <br>
+
+En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitriona que busca ofrecer experiencias únicas a sus invitados sin tener que lidiar con el estrés de la logística. Aquí entendemos sus deseos, frustraciones y la manera en que se relaciona con los organizadores de eventos.
+
+![empathy-map-anfitrion.png](../../assets/chapter-2/empathy-map-anfitrion.png)
 
 ### 2.3.5. Big Picture Event Storming
 
 ### 2.3.6. Ubiquitous Language
 
+**Capacity**: number of people a space can hold.
+
+**Attendees**: people who will attend and participate in an event.
+
+**Event usher**: staff who supports with registration, service, and other logistical tasks.
+
+**break**: recess where coffee and snacks are served.
+
+**Catering**: service providing food and beverages at an event.
+
+**Ceremony**: formal act within the event.
+
+**Check-list**: list for systematic verification of activities or resources.
+
+**Host**: person who hires the organizer to conduct an event.
+
+**Concert**: live musical performance.
+
+**Conference**: meeting where topics are presented to an audience.
+
+**Timing**: detailed planning of event activities.
+
+**Decoration**: visual elements that set the atmosphere for the event.
+
+**Production team**: group of people working together to produce an event, such as technicians, assistants, and any other person additional to the base staff who is involved in the event.
+
+**Event**: planned activity with a specific date, time, and place.
+
+**Event Planner**: person in charge of planning the entire event.
+
+**Exhibitor**: person or company presenting products or ideas at the event.
+
+**Pro-forma invoice**: a type of invoice issued by suppliers that must be paid prior to the execution of the event.
+
+**Keynote**: initial speech of a presentation or series of conferences that points to the general topic to be discussed and is designed to motivate the audience.
+
+**Venue**: physical location where the event takes place.
+
+**Partition**: movable wall to adapt and set up spaces according to the needs of the event.
+
+**Organizer**: person or company responsible for planning and executing the event.
+
+**Sponsor**: company or person who supports or finances the event.
+
+**Event floor plan**: document that shows the space of the event hall designated for the exhibition. It also shows in detail the space that each stand can occupy, the registration area, entrances and exits, etc.
+
+**Program**: agenda of event activities.
+
+**Protocol**: set of norms, customs, and traditions through which any act, public, private, or official event is organized.
+
+**Staff**: personnel who are part of the event organization.
+
+**Stand**: installation used to display products or provide information.
+
+**Transfer**: transportation of attendees (e.g., from hotel to event).
+
 ## 2.4. Requirements specification
 
 ### 2.4.1. User Stories
+En esta sección del informe se presentarán las épicas (EP), user stories (US) y technical stories (TS) definidas para el desarrollo tanto de la aplicación web como del landing page. Las user stories abordarán las funcionalidades orientadas al usuario final, mientras que las technical stories estarán enfocadas en los requerimientos técnicos del backend.
+
+| Epic/Story ID | Título                                        | Descripción                                                                                                                                                                                                                          | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
+|------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP01       | Diseño y Desarrollo de Landing page           | **Como** visitante <br> **Quiero** acceder a una landing page clara y atractiva <br> **Para** entender de que trata la aplicación, si es confiable y me permita acceder a la aplicación si cumple con mis necesidades.               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| US01       | Navegación sencilla                           | **Como** visitante <br> **Quiero** que la landing page me permita navegar fácilmente entre secciones, <br> **Para** acceder directamente a la sección que me interesa, sin tener que desplazarme por todo el contenido.              | **Escenario 01: Acceso a la información sobre el uso del producto** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** consulta información sobre el uso de la aplicación <br> **Entonces** el landing page lo dirige al contenido que describe como se usa la aplicación <br><br> **Escenario 02: Acceso a la información sobre las funcionalidades** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** busca información sobre las funcionalidades de la aplicación <br> **Entonces** el landing page lo dirige al contenido correspondiente a las funcionalidades <br><br> **Escenario 03: Acceso a la información sobre beneficios** <br> **Dado** que un visitante accede al landing page <br> **Cuando** busca información sobre los beneficios de la aplicación<br> **Entonces,** el landing page lo dirige a la información correspondiente a los beneficios <br><br> **Escenario 04: Acceso a la información sobre planes de suscripción** <br> **Dado** que un visitante accede al landing page <br> **Cuando** consulta información sobre las opciones disponibles de suscripción <br> **Entonces**, el landing page lo dirige al contenido relacionado con los planes de suscripción <br><br> **Escenario 05: Acceso a la información sobre el equipo de desarrollo** <br> **Dado** que un visitante accede al landing page <br> **Cuando** consulta información sobre quienes desarrollaron la aplicación<br> **Entonces** el landing page lo dirige al contenido referente al equipo desarrollo. <br><br> | EP01                      |
+| US02       | Propuesta de valor clara                      | **Como** visitante <br> **Quiero** entender rápidamente que ofrece la aplicación <br> **Para** saber si es relevante para mi (organizador o anfitrión)                                                                               | **Escenario 01: Visualización de la propuesta de valor** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** visualiza el contenido principal <br> **Entonces** identifica rápidamente la propuesta de valor que ofrece la aplicación. <br><br> **Escenario 02: Lenguaje claro y directo** <br> **Dado** que un visitante accede al landing page <br> **Cuando** recorre el contenido de la página <br> **Entonces** percibe un lenguaje claro, sencillo y empático.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP01                      |
+| US03       | Información segmentada                        | **Como** visitante <br> **Quiero** ver información relacionada con mi rol (organizador o anfitrión) <br> **Para** identificar como puede ayudarme la aplicación                                                                      | **Escenario 01: Presentación de beneficios segmentados por tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado con los beneficios de la aplicación <br> **Entonces** visualiza la información segmentada según el tipo de usuario <br><br> **Escenario 02: Presentación de funcionalidades segmentadas por tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado con las funcionalidades de la aplicación <br> **Entonces** visualiza la información segmentada según el tipo de usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP01                      |
+| US04       | Funcionalidades de la aplicación              | **Como** visitante <br> **Quiero** que el landing page me muestre una lista de las funcionalidades que ofrece la aplicación <br> **Para** saber si cubre mis necesidades.                                                            | **Escenario 01: Funcionalidades destacadas segun tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado a las funcionalidades de la aplicación <br> **Entonces** el landing page presenta las funcionalidades más relevantes de la aplicación para cada tipo de usuario <br><br> **Escenario 02: Organización visual de las funcionalidades** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido de las funcionalidades de la aplicación <br> **Entonces** visualiza la información con una organización lógica y comprensible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP01                      |
+| US05       | Llamada a la acción                           | **Como** visitante <br> **Quiero** que el landing page me de la opción de acceder directamente a la aplicación <br> **Para** comenzar a utilizarla                                                                                   | **Escenario 01: Llamada a la acción para visitantes recurrentes** <br> **Dado** que un visitante habitual accede al landing page <br> **Cuando** percibe que ya conocía todo lo necesario sobre la aplicación <br> **Entonces** el landing page lo dirige a una opción para acceder directamente a la aplicación sin tener que leer más contenido. <br><br> **Escenario 02: Llamada a la acción para visitantes racionales** <br> **Dado** que un visitante de perfil racional accede al landing page <br> **Cuando** analiza todo el contenido sobre la aplicación <br> **Entonces** el landing page le muestra al final del contenido, una opción para acceder directamente a la aplicación. <br><br> **Escenario 03: Llamada a la acción para visitantes emotivos** <br> **Dado** que un visitante de perfil emocional accede al landing page <br> **Cuando** se sintió identificado con las secciones del contenido <br> **Entonces** el landing page le muestra en cada sección, una opción para acceder directamente a la aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP01                      |
+| US06       | Visualización de tutorial de la aplicación    | **Como** visitante <br> **Quiero** que el landing page me muestre visualmente como funciona la aplicación <br> **Para** tener una idea concreta de como debo usarla.                                                                 | **Escenario 01: Visualización de video de demostración** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado al uso de la aplicación <br> **Entonces** visualiza una demostración audiovisual de la aplicación. <br><br> **Escenario 02: Controles de reproducción** <br> **Dado** que un visitante se dirige al contenido relacionado al uso de la aplicación <br> **Cuando** reproduce la demostración audiovisual <br> **Entonces** interactúa con la demostración audiovisual para retroceder, avanzar o pausar el contenido segun su necesidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP01                      |
+| US07       | Confianza y seguridad                         | **Como** visitante, <br> **Quiero** que el landing page me muestre quienes fueron los encargados en desarrollar la aplicación <br> **Para** verificar que es segura y confiable.                                                     | **Escenario 01: Presentación del equipo de desarrollo** <br>**Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido referente al equipo de desarrollo<br> **Entonces** el landing page presenta información visual y descriptiva sobre el equipo en general y cada integrante <br><br> **Escenario 02: Acceso a perfiles profesionales externos** <br> **Dado** que un visitante se dirige al contenido referente al equipo de desarrollo <br> **Cuando** consulta información específica de un integrante <br> **Entonces** el landing page lo redirige al perfil de LinkedIn del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP01                      |
+| US08       | Velocidad de carga                            | **Como** visitante, <br> **Quiero** que el landing page cargue rápidamente <br> **Para** no perder el interés.                                                                                                                       | **Escenario 01: Carga rápida del sitio web** <br> **Dado** que un visitante con conexión a internet estándar accede al landing page <br> **Cuando** se solicita el contenido <br> Entonces este carga en un máximo de 3 segundos <br><br> **Escenario 02: Optimización bajo conexión limitada** <br> **Dado** que un visitante con conexión a internet limitada accede al landing page<br> **Cuando** se solicita el contenido <br> **Entonces** este se carga de forma optimizada para minimizar los tiempos de espera.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP01                      |
+| US09       | Visualización de Precios                      | **Como** visitante, <br> **Quiero** ver claramente los planes de los productos ofrecidos en la landing page, <br> **Para** evaluar si se ajustan a mi presupuesto.                                                                   | **Escenario 01: Precios visibles en la página** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** se dirige al contenido referente a los planes de suscripción <br> **Entonces** visualiza los precios de forma clara y sin obstrucciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP01                      |
+| US10       | Diseño responsive                             | **Como** visitante, <br> **Quiero** que el landing page se vea y funcione correctamente desde cualquier dispositivo <br> **Para** tener una experiencia fluida y consistente en todo momento.                                        | **Escenario 01: Acceder desde una computadora o laptop** <br> **Dado** que un visitante accede al landing page desde una computadora o laptop <br> **Cuando** se presenta el contenido <br> **Entonces** este se adapta correctamente a la pantalla del dispositivo sin errores de visualización  <br><br> **Escenario 02: Acceder desde un celular o tablet** <br> **Dado** que un visitante accede al landing page desde un smartphone o tablet <br> **Cuando** se presenta el contenido <br> **Entonces** este se adapta correctamente al tamaño de la pantalla sin requerir ajustes manuales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP01                      |
+| EP02       | Comunicación Organizador-Anfitrión            | **Como** usuario (organizador o anfitrión), <br> **Quiero** tener un canal de comunicación claro y eficiente dentro de la plataforma  <br> **Para** coordinar todos los detalles del evento sin depender de múltiples apps externas. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| US11       | Chat integrado en la plataforma               | **Como** usuario (organizador o anfitrión), <br> **Quiero** acceder a un chat dentro de la plataforma,  <br> **Para** comunicarme directamente con la otra parte sin salir de la aplicación.                                         | **Escenario 01: Iniciar chat desde el perfil del organizador** <br> **Dado** que un anfitrión visualiza el perfil de un organizador, <br> **Cuando** haga clic en el botón “Mensaje”.  <br> **Entonces** se abre una ventana de chat vinculada a ese organizador y al evento correspondiente.  <br><br> **Escenario 02: Acceder al chat desde el panel**  <br> **Dado** que un usuario (anfitrión u organizador) accede a su cuenta, <br> **Cuando**  ingrese a la sección de mensajes.  <br> **Entonces** puede ver los chats activos vinculados a sus eventos.  <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP02                      |
+| US12       | Historial de mensajes                         | **Como** usuario (organizador o anfitrión), <br> **Quiero** poder revisar conversaciones anteriores,   <br> **Para** no olvidar acuerdos o detalles importantes del evento.                                                          | **Escenario 01: Visualización del historial completo**  <br> **Dado** que un anfitrión u organizador abre el chat de un evento,  <br> **Cuando**  haya mensajes previos.  <br> **Entonces** se muestran cronológicamente desde el más antiguo hasta el más reciente.   <br><br> **Escenario 02: Carga automática del historial**  <br> **Dado** que un anfitrión u organizador ingresa a un chat,  <br> **Cuando**   la conversación ya tenga mensajes previos.  <br> **Entonces** estos se cargan automáticamente al abrir el chat.   <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP02                      |
+| US13       | Notificaciones de nuevos mensajes             | **Como** usuario (organizador o anfitrión), <br> **Quiero** recibir notificaciones cuando tengo un nuevo mensaje,    <br> **Para** mantenerme al tanto de la conversación sin retrasos.                                              | **Escenario 01: Notificación visual en la plataforma**  <br> **Dado** que un anfitrión u organizador está navegando dentro de la plataforma,   <br> **Cuando**  reciba un nuevo mensaje.   <br> **Entonces** ve un ícono de notificación en la sección de mensajes.    <br><br> **Escenario 02: Alerta emergente**   <br> **Dado** que un anfitrión u organizador tiene la sesión activa,   <br> **Cuando**   le llega un nuevo mensaje.   <br> **Entonces**  puede recibir una alerta visual (según configuración del navegador).     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP02                      |
+| US14       | Envío de archivos (PDF, imágenes, etc.)       | **Como** organizador o anfitrión,  <br> **Quiero** poder enviar y recibir archivos dentro del chat,     <br> **Para** compartir cotizaciones, formularios, referencias visuales o documentos importantes.                            | **Escenario 01: Envío de formulario por parte del organizador**   <br> **Dado** que un organizador recibe un primer mensaje de un anfitrión iniciando contacto, <br> **Cuando**  abre el chat correspondiente al evento.    <br> **Entonces** puede adjuntar un formulario PDF con preguntas sobre el evento y enviarlo al anfitrión.     <br><br> **Escenario 02: Recepción del formulario por parte del anfitrión**    <br> **Dado** que un anfitrión ha iniciado conversación con un organizador,    <br> **Cuando**  el organizador le envía el formulario como archivo adjunto.   <br> **Entonces**  el anfitrión puede visualizar y descargar el archivo desde el chat.  <br><br> **Escenario 03:  Envío de proforma por parte del organizador**  <br> **Dado** que un organizador ha recibido el formulario completado por el anfitrión,  <br> **Cuando** quiera enviarle una cotización personalizada. <br> **Entonces,** puede adjuntar un archivo PDF con la proforma y enviarlo a través del chat del evento.  <br><br> **Escenario 04: Intercambio de archivos posteriores**  <br> **Dado** que el anfitrión y el organizador ya han iniciado conversación,  <br> **Cuando** cualquiera desee compartir un archivo adicional (como una imagen de decoración, plano, flyer, etc.). <br> **Entonces** puede adjuntarlo y enviarlo desde la ventana del chat.  <br><br>                                                                                                                                                                                 | EP02                      |
+| US15       | Estado del mensaje (enviado, recibido, leído) | **Como** organizador o anfitrión,  <br> **Quiero** ver el estado de mis mensajes enviados,     <br> **Para** saber si han sido leídos por la otra persona.                                                                           | **Escenario 01: Estado "enviado"**   <br> **Dado** que un anfitrión u organizador envía un mensaje,    <br> **Cuando**  el mensaje se procese correctamente.    <br> **Entonces** aparece con un ícono de "enviado".     <br><br> **Escenario 02: Estado "recibido" y "leído"**    <br> **Dado** que un anfitrión u organizador envía un mensaje,    <br> **Cuando**   la otra parte reciba o lea el mensaje.   <br> **Entonces**  el ícono cambiará según corresponda para indicar su estado.     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP02                      |
+| US16       | Notificación por email si no estoy conectado  | **Como** organizador o anfitrión,  <br> **Quiero** recibir notificaciones fuera de la app si tengo mensajes sin leer,      <br> **Para** no perderme nada importante cuando no estoy conectado.                                      | **Escenario 01: Envío de correo electrónico automático**     <br> **Dado** que un anfitrión u organizador no está conectado a la plataforma,     <br> **Cuando**  reciba un nuevo mensaje.     <br> **Entonces** se envía una notificación por correo electrónico al usuario.      <br><br> **Escenario 02: Visualización del contenido del mensaje (correo)**    <br> **Dado** que un anfitrión u organizador recibe una notificacion de alerta por correo,    <br> **Cuando**   visualice el contenido del mensaje.   <br> **Entonces**  podra identificar que tiene mensajes sin responder o visualizar dentro de la aplicación.     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP02                      | 
+| EP03       | Gestión de eventos personalizada              | **Como** organizador <br> **Quiero** gestionar todos los detalles de mis eventos desde la plataforma <br> **Para** facilitar la planificación y el seguimiento.                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| US17       | Registro de nuevo evento                      | **Como** organizador, <br> **Quiero** registrar un nuevo evento con sus detalles básicos, <br> **Para** iniciar su planificación dentro de la plataforma.                                                                            | **Escenario 01: Formulario de creación de evento** <br> **Dado** que soy organizador <br> **Cuando** accedo a la opción "Nuevo evento" <br> **Entonces** podré completar un formulario con nombre, fecha, tipo de evento y ubicación. <br><br> **Escenario 02: Confirmación del registro** <br> **Dado** que completé los campos obligatorios <br> **Cuando** doy clic en "Guardar evento" <br> **Entonces** el sistema registrará el evento y me redirige a su panel de gestión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP03                      |
+| US18       | Lista de tareas del evento                    | **Como** organizador o anfitrión, <br> **Quiero** crear y seguir una lista de tareas para cada evento, <br> **Para** asegurarme de no olvidar nada importante.                                                                       | **Escenario 01: Añadir tareas** <br> **Dado** que estoy gestionando un evento <br> **Cuando** accedo a la pestaña “Tareas” <br> **Entonces** podré añadir una descripción, fecha límite y estado. <br><br> **Escenario 02: Marcar tareas completadas** <br> **Dado** que he finalizado una tarea <br> **Cuando** marco la opción de “completado” <br> **Entonces** el estado de la tarea se actualiza automáticamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP03                      |
+| US19       | Gestión de presupuesto del evento             | **Como** organizador, <br> **Quiero** definir un presupuesto y registrar los gastos del evento, <br> **Para** mantener el control financiero.                                                                                        | **Escenario 01: Definir presupuesto inicial** <br> **Dado** que estoy registrando un nuevo evento <br> **Cuando** ingreso el monto estimado <br> **Entonces** este es guardado como límite del presupuesto. <br><br> **Escenario 02: Registro de gastos por categoría** <br> **Dado** que incurro en un gasto (ej. decoración) <br> **Cuando** lo ingreso en la sección correspondiente <br> **Entonces** se actualiza el saldo restante del presupuesto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP03                      |
+| US20       | Asignación de roles dentro del evento         | **Como** organizador, <br> **Quiero** asignar tareas o funciones a otros colaboradores, <br> **Para** delegar responsabilidades específicas.                                                                                         | **Escenario 01: Invitación a colaboradores** <br> **Dado** que quiero compartir la gestión del evento <br> **Cuando** ingreso el correo del colaborador <br> **Entonces** recibirá una invitación con permisos definidos. <br><br> **Escenario 02: Asignación de tareas específicas** <br> **Dado** que el colaborador acepta la invitación <br> **Cuando** le asigne una tarea desde el panel de tareas <br> **Entonces** es notificado y puede ver sus pendientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP03                      |
+| US21       | Vista de cronograma del evento                | **Como** organizador o anfitrión, <br> **Quiero** visualizar un cronograma con las actividades programadas, <br> **Para** tener una visión clara de la secuencia del evento.                                                         | **Escenario 01: Creación de actividades con hora específica** <br> **Dado** que estoy planificando un evento <br> **Cuando** ingreso el nombre y horario de cada actividad <br> **Entonces** el sistema generará una línea de tiempo visual. <br><br> **Escenario 02: Edición y reordenamiento** <br> **Dado** que cambian los tiempos <br> **Cuando** edito el horario de una actividad <br> **Entonces** el cronograma se ajusta automáticamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP03                      |
+| US22       | Visualización de resumen del evento           | **Como** organizador o anfitrión, <br> **Quiero** tener acceso a un resumen del evento, <br> **Para** revisar el estado general de la planificación.                                                                                 | **Escenario 01: Acceder al panel resumen** <br> **Dado** que tengo un evento en planificación <br> **Cuando** ingreso a su panel <br> **Entonces** veré el progreso de tareas, presupuesto utilizado y fechas importantes. <br><br> **Escenario 02: Indicadores visuales de estado** <br> **Dado** que hay tareas vencidas o gastos que superan el presupuesto <br> **Cuando** visualice el panel <br> **Entonces** se muestran alertas visuales (íconos o colores).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP03                      |
+| EP04       | Gestión de eventos                            | **Como** desarrollador, **Quiero** desarrollar y mantener endpoints de API para la gestión de eventos, **Para** permitir la visualización, creación, actualización y elminación de eventos en la aplicación web.                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| EP05       | Contratación y Gestión de Organizadores       | **Como** anfitrión, <br> **Quiero** poder buscar, cotizar, contratar y calificar organizadores de eventos, <br> **Para** garantizar que mi evento sea organizado por profesionales de confianza.                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| US23       | Visualizar perfiles de organizadores          | **Como** anfitrión, <br> **Quiero** poder ver los perfiles detallados de los organizadores, <br> **Para** evaluar su experiencia y servicios antes de contratarlos.                                                                  | **Escenario 01: Acceso a perfiles** <br> **Dado** que un anfitrión está buscando organizadores, <br> **Cuando** seleccione un organizador, <br> **Entonces** puede visualizar su perfil con información de experiencia, eventos realizados, calificaciones y reseñas. <br><br> **Escenario 02: Filtrado de organizadores** <br> **Dado** que un anfitrión desea encontrar un organizador, <br> **Cuando** aplique filtros (categoría, ubicación, puntuación), <br> **Entonces** ve solo los perfiles que cumplan con los criterios seleccionados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
+| US24       | Solicitar cotización a un organizador         | **Como** anfitrión, <br> **Quiero** poder solicitar cotizaciones a diferentes organizadores, <br> **Para** comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.                                    | **Escenario 01: Enviar solicitud de cotización** <br> **Dado** que un anfitrión encuentra un organizador de interés, <br> **Cuando** presione "Solicitar cotización", <br> **Entonces** se envía una solicitud formal al organizador. <br><br> **Escenario 02: Visualizar respuesta de cotización** <br> **Dado** que un organizador haya respondido, <br> **Cuando** el anfitrión consulte su bandeja de cotizaciones, <br> **Entonces** puede ver las ofertas recibidas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP05                      |
+| US25       | Contratar organizador                         | **Como** anfitrión, <br> **Quiero** poder contratar a un organizador directamente desde la plataforma, <br> **Para** formalizar el acuerdo y garantizar que mi evento esté cubierto.                                                 | **Escenario 01: Confirmar contratación** <br> **Dado** que un anfitrión ha recibido una cotización aceptable, <br> **Cuando** haga clic en “Contratar”, <br> **Entonces** se envía una confirmación formal al organizador y se actualiza el estado del evento. <br><br> **Escenario 02: Gestión de contratos** <br> **Dado** que un anfitrión contrata a un organizador, <br> **Cuando** ingrese a su panel de eventos, <br> **Entonces** ve los detalles del organizador contratado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP05                      |
+| US26       | Calificar organizador tras evento             | **Como** anfitrión, <br> **Quiero** calificar el desempeño del organizador una vez terminado el evento, <br> **Para** ayudar a otros anfitriones a tomar decisiones informadas.                                                      | **Escenario 01: Publicar calificación** <br> **Dado** que el evento ha finalizado, <br> **Cuando** el anfitrión entre al detalle del evento, <br> **Entonces** puede dejar una calificación de 1 a 5 estrellas y un comentario. <br><br> **Escenario 02: Visualización pública** <br> **Dado** que un anfitrión publica una reseña, <br> **Cuando** otros usuarios consultan el perfil del organizador, <br> **Entonces** pueden ver la reseña y la calificación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
+| US27       | Editar reseña publicada                       | **Como** anfitrión, <br> **Quiero** poder editar una reseña que haya dejado sobre un organizador, <br> **Para** corregir o actualizar mi opinión si es necesario.                                                                    | **Escenario 01: Acceso a edición** <br> **Dado** que un anfitrión deja una reseña, <br> **Cuando** acceda a su historial de calificaciones, <br> **Entonces** puede seleccionar una reseña para editarla. <br><br> **Escenario 02: Confirmación de cambios** <br> **Dado** que un anfitrión edita su reseña, <br> **Cuando** guarda los cambios, <br> **Entonces** la reseña actualizada se muestra en el perfil del organizador.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
+| TS01       | Crear registro de evento                      | **Como** desarrollador,<br>**Quiero** implementar el endpoint POST para registrar los eventos, <br> **Para** permitir a los organizadores registrar los eventos que les soliciten.                                                   | **Escenario 01: Creación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events está disponible, <br> **Cuando** se envía una solicitud POST con valores para eventid, qservices y date,<br> **Entonces** se recibe una respuesta con el estado 201, <br> **Y** el recurso de registro de evento está incluido en el cuerpo de la respuesta, con un nuevo ID y los valores registrados para eventid, qservices y date. <br><br> **Escenario 02: Creación duplicada de un registro de evento** <br> **Dado** que el endpoint /api/v1/events está disponible, <br> **Cuando** se envía una solicitud POST con valores que ya existen para eventid, qservices y date, <br> **Entonces** se recibe una respuesta con el estado 400, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se cumplen todas las restricciones para evento: ya existe un registro para este ID".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP04                      |
+| TS02       | Leer registro de evento                       | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para leer registros de eventos, <br> **Para** permitir a los organizadores recuperar los detalles de los elementos del evento.                                     | **Escenario 01: Recuperación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id válido,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** el recurso de evento está incluido en el cuerpo de la respuesta, con los detalles del id especificado. <br><br> **Escenario 02: Recuperación de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP04                      |
+| TS03       | Actualizar registro de evento                 | **Como** desarrollador,<br>**Quiero** implementar el endpoint PUT para actualizar registros de eventos, <br> **Para** permitir a los organizadores modificar detalles existentes del evento.                                         | **Escenario 01: Actualización exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con el id y los valores actualizados para eventid, qservices y date,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** el recurso de evento está incluido en el cuerpo de la respuesta, con los nuevos valores para eventid, qservices y date. <br><br> **Escenario 02: Actualización de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con un id inválido y valores actualizados, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado para actualizar".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP04                      |
+| TS04       | Eliminar registro de evento                   | **Como** desarrollador,<br>**Quiero** implementar el endpoint DELETE para eliminar registros de eventos, <br> **Para** permitir a los organizadores eliminar elementos del inventario de sus registros.                              | **Escenario 01: Eliminación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id válido,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta con el valor "Registro de evento eliminado con éxito". <br><br> **Escenario 02: Eliminación de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado para eliminar".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | EP04                      |
+| EP06       | Gestión de usuarios                           | **Como** desarrollador, **Quiero** desarrollar y mantener endpoints de API para la gestión de usuarios, Para permitir el registro, inicio de sesión, actualización y eliminación de cuentas en la aplicación web.                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| TS05       | Crear registro de usuario                     | **Como** desarrollador,<br>**Quiero** implementar el endpoint POST para crear registros de usuario, <br> **Para** permitir a los administradores agregar nuevos usuarios al sistema.                                                 | **Escenario 01:  Creación exitosa de un registro de usuario** <br> **Dado** que el endpoint /api/v1/user está disponible, <br> **Cuando** se envía una solicitud POST con valores para userId, username y role,<br> **Entonces**  se recibe una respuesta con estado 201, <br> **Y**  el recurso de Usuario está incluido en el cuerpo de la respuesta, con un nuevo ID y los valores registrados para userId, username y role. <br><br> **Escenario 02: Creación duplicada de un registro de usuario** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud POST con valores que ya existen para userId, <br> **Entonces** se recibe una respuesta con el estado 400, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se cumplen todas las restricciones para el usuario: Ya existe un registro de usuario para este ID."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP06                      |
+| TS06       | Leer registro de usuario                      | **Como** desarrollador,<br>**Quiero**  implementar el endpoint GET para leer registros de usuario, <br> **Para** permitir a los administradores recuperar los detalles de los usuarios.                                              | **Escenario 01:  Recuperación exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id válido,,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  el recurso de Usuario está incluido en el cuerpo de la respuesta con los detalles del id especificado. <br><br> **Escenario 02: Recuperación de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP06                      |
+| TS07       | Actualizar registro de usuario                | **Como** desarrollador,<br>**Quiero**  implementar el endpoint PUT para actualizar registros de usuario, <br> **Para** permitir a los administradores modificar los detalles de las cuentas de usuario existente.                    | **Escenario 01:  Actualización exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con un id y valores actualizados para userId y userDetails,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  el recurso de Usuario actualizado está incluido en el cuerpo de la respuesta con los nuevos valores para userId y userDetails. <br><br> **Escenario 02: Actualización de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/users/{id} está disponible <br> **Cuando** se envía una solicitud PUT con un id inválido y valores actualizados, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado para actualizar."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP06                      |
+| TS08       | Eliminar registro de usuario                  | **Como** desarrollador,<br>**Quiero**  implementar el endpoint DELETE para eliminar registros de usuario, <br> **Para** permitir a los administradores eliminar cuentas de usuario del sistema.                                      | **Escenario 01:  Eliminación exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id válido,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario eliminado con éxito." <br><br> **Escenario 02: Eliminación de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/users/{id} está disponible <br> **Cuando** se envía una solicitud DELETE con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado para eliminar."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP06                      |
+| TS09 | Obtener eventos por estado | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por estado (Active, ToConfirm, Cancelled),<br>**Para** permitir que los organizadores visualicen rápidamente los eventos según su estado actual.                                      | **Escenario 01: Búsqueda exitosa por estado** <br>**Dado** que el endpoint /api/v1/events/state/{status} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro status=Active,<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo campo status es igual a "Active".<br><br>**Escenario 02: Estado no existente** <br>**Dado** que el endpoint /api/v1/events/state/{status} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro status=Finished,<br>**Entonces** se recibe una respuesta con estado 404,<br>**Y** se incluye un mensaje indicando que no se encontraron eventos con ese estado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP06                      |
+| TS10 | Obtener eventos por título | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por título parcial o exacto,<br>**Para** facilitar a los usuarios la búsqueda de eventos según su nombre.                                      | **Escenario 01: Búsqueda por coincidencia exacta** <br>**Dado** que el endpoint /api/v1/events/title/{title} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro title="Feria Anual",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo título es exactamente "Feria Anual".<br><br>**Escenario 02: Búsqueda por coincidencia parcial** <br>**Dado** que el endpoint /api/v1/events/title/{title} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro title="Feria",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo título contiene la palabra "Feria".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP06                      |
+| TS11 | Obtener eventos por nombre del cliente (CustomerName) | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por nombre del cliente,<br>**Para** permitir la búsqueda personalizada de eventos vinculados a un cliente específico.                                      | **Escenario 01: Búsqueda por nombre completo** <br>**Dado** que el endpoint /api/v1/events/customer/{name} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro name="Lucía Pérez",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo CustomerName es "Lucía Pérez".<br><br>**Escenario 02: Cliente no registrado** <br>**Dado** que el endpoint /api/v1/events/customer/{name} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro name="Juan Gómez",<br>**Entonces** se recibe una respuesta con estado 404,<br>**Y** se incluye un mensaje indicando que no se encontraron eventos asociados a ese cliente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP06 |
+
 
 ### 2.4.2. Impact Mapping
 
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
+
+***Segmento: Anfitriones***
+
+![impact-map-anfitrion](/assets/chapter-2/Impact-map-anfitrion.png)
+
+***Segmento: Organizador***
+
+![impact-map-organizador](/assets/chapter-2/Impact-map-organizador.png)
+
 ### 2.4.3. Product Backlog
+
+En este segmento del informe otorgaremos a las historias de usuario un peso basándonos en la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario. <b>Enlace a Trello: </b>https://trello.com/b/NknfxMfU/product-backlog
+
+| #Orden | User Story Id | Titulo                                      | Descripción                                                                                                                                                                        | StoryPoints (1 / 2 / 3 / 5/ 8) |
+|--------|---------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| 1      | US11          | Chat integrado en la plataforma               | Como usuario (organizador o anfitrión), quiero acceder a un chat dentro de la plataforma, para comunicarme directamente con la otra parte sin salir de la aplicación.                                             | 8                              |
+| 2      | US12          | Historial de mensajes   | Como usuario (organizador o anfitrión), quiero poder revisar conversaciones anteriores, para no olvidar acuerdos o detalles importantes del evento.                | 8                              |
+| 3      | US15          | Estado del mensaje (enviado, recibido, leído)                    | Como organizador o anfitrión, quiero ver el estado de mis mensajes enviados, para saber si han sido leídos por la otra persona.                             | 8                              |
+| 4      | US14          | Envío de archivos (PDF, imágenes, etc.)                 |Como organizador o anfitrión, quiero poder enviar y recibir archivos dentro del chat, para compartir cotizaciones, formularios, referencias visuales o documentos importantes.                                                                       | 8                              |
+| 5      | US13          | Notificaciones de nuevos mensajes                   | Como usuario (organizador o anfitrión), quiero recibir notificaciones cuando tengo un nuevo mensaje, para mantenerme al tanto de la conversación sin retrasos. mí.                                      | 5                              |
+| 6      | US16          | Notificación por email si no estoy conectado      | Como organizador o anfitrión, quiero recibir notificaciones fuera de la app si tengo mensajes sin leer, para no perderme nada importante cuando no estoy conectado. | 5                              |
+| 7      | US19          | Gestión de presupuesto del evento                       | Como organizador, quiero definir un presupuesto y registrar los gastos del evento, para mantener el control financiero.                                  | 5                              |
+| 8      | US17          | Registro de nuevo evento                     |Como organizador, quiero registrar un nuevo evento con sus detalles básicos, para iniciar su planificación dentro de la plataforma.                                                            | 5                              |
+| 9      | US18          | Lista de tareas del evento                          | Como organizador o anfitrión, quiero crear y seguir una lista de tareas para cada evento para asegurarme de no olvidar nada importante.                                              | 5                              |
+| 10     | US20          | Asignación de roles dentro del evento      | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas.                              | 5                              |
+| 11     | US21          | Vista de cronograma del evento                         | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento.                                | 5                              |
+| 12     | US25          | Contratar organizador                 | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto.         | 3                              |
+| 13     | US23          | 	Visualizar perfiles de organizadores         | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos.                                                    | 3                              |
+| 14     | US22          | Visualización de resumen del evento                 | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación.                                       | 3                              |
+| 15     | US24          | Solicitar cotización a un organizador | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.              | 3                              |
+| 16     | US26          | Calificar organizador tras evento       | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas.                                                            | 3                              |
+| 17     | US27          | Editar reseña publicada                   | Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador para corregir o actualizar mi opinión si es necesario.                                 | 3                              |
+| 18     | US10          | Diseño responsive                  |Como visitante quiero que el landing page se vea y funcione correctamente desde cualquier dispositivo para tener una experiencia fluida y consistente en todo momento.                                                   |      3                          |
+| 19     | US01          | Navegación sencilla               | Como visitante quiero que la landing page me permita navegar fácilmente entre secciones, para acceder directamente a la sección que me interesa, sin tener que desplazarme por todo el contenido.                                 | 2                              |
+| 20     | US02          | Propuesta de valor clara                            | Como visitante quiero entender rápidamente que ofrece la aplicación para saber si es relevante para mi (organizador o anfitrión)                         | 2                              |
+| 21     | US03          | Información segmentada             | Como visitante quiero ver información relacionada con mi rol (organizador o anfitrión) para identificar como puede ayudarme la aplicación                                          | 2                              |
+| 22     | US04          | Funcionalidades de la aplicación             | Como visitante quiero que el landing page me muestre una lista de las funcionalidades que ofrece la aplicación para saber si cubre mis necesidades.                                          | 2                              |
+| 23     | US06          | Visualización de tutorial de la aplicación   |Como visitant quiero que el landing page me muestre visualmente como funciona la aplicación para tener una idea concreta de como debo usarla.                                         | 2                              |
+| 24     | US07          | 	Confianza y seguridad             | Como visitante, quiero que el landing page me muestre quienes fueron los encargados en desarrollar la aplicación para verificar que es segura y confiable.                                         | 2                              |
+| 25     | US09          | Visualización de precios             | Como visitante quiero ver claramente los planes de los productos ofrecidos en la landing page para evaluar si se ajustan a mi presupuesto.                                          | 2                              |
+| 26     | US05          | Llamada a la acción             | Como visitante quiero que el landing page me de la opción de acceder directamente a la aplicación para comenzar a utilizarla                                          | 1                              |
+| 27     | US08          | Velocidad de carga             | Como visitante quiero que el landing page cargue rápidamente para no perder el interés.                                          | 1                              |
 
 ## 2.5. Strategic-Level Domain-Driven Design
 
