@@ -810,6 +810,8 @@ Se llevó a cabo una sesión de **Big Picture EventStorming** donde el equipo id
 - `TaskAssigned`: Se delega una responsabilidad operativa.
 - `SubscriptionPurchased`: Un organizador adquiere herramientas avanzadas.
 
+![event-storming](../..../../../assets/chapter-2/EventStorming.png)
+
 #### 2.5.1.1. Candidate Context Discovery
 
 Mediante la técnica de *look-for-pivotal-events*, identificamos los límites donde el lenguaje y las responsabilidades cambian:
@@ -825,6 +827,8 @@ Mediante la técnica de *look-for-pivotal-events*, identificamos los límites do
 #### 2.5.1.2. Domain Message Flows Modeling
 
 Modelamos el flujo de mensajes para garantizar que los contextos colaboren sin acoplamientos innecesarios. Por ejemplo, cuando se dispara `QuoteAccepted` en el contexto de **Quotes**, el contexto de **Planning** reacciona creando una entidad `Event` base, heredando los servicios pactados en la proforma.
+
+![sequence-diagram](../..../../../assets/chapter-2/domain-message-flows.png)
 
 #### 2.5.1.3. Bounded Context Canvases
 
@@ -854,7 +858,7 @@ El mapa de contextos visualiza cómo se comunican estos sub-sistemas, utilizando
 | **Quotes -> Planning** | Customer/Supplier (ACL) | El contexto de Planificación actúa como *Supplier*. Implementamos una *Anti-Corruption Layer (ACL)* para que los cambios en la lógica de proformas no afecten el diseño del evento. |
 | **Planning <-> Operations** | Shared Kernel | Ambos contextos comparten la entidad `EventID` y metadatos básicos de fecha/local, ya que son el núcleo operativo común. |
 
-*(Insertar aquí: Diagrama de Context Mapping elaborado en Lucidchart)*
+![context-mapping](../..../../../assets/chapter-2/context-mapping.png)
 
 ### 2.5.3. Software Architecture
 
@@ -864,7 +868,7 @@ Aplicamos el modelo C4 para documentar la arquitectura desde el contexto general
 
 El sistema **Eventify** se sitúa como el orquestador central que interactúa con el **Organizador** (usuario profesional) y el **Anfitrión** (usuario cliente). Se apoya en sistemas externos de **Notificaciones Push** y **Pasarelas de Pago** para completar su propuesta de valor.
 
-![context-diagram](../../assets/chapter-2/context-diagram-eventify.png)
+![context-diagram](../..../../../assets/chapter-2/context-diagram-eventify.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
@@ -876,7 +880,7 @@ Descomponemos la solución en cinco contenedores principales para asegurar escal
 4.  **Database (PostgreSQL):** Gestiona la persistencia con esquemas separados por contexto para evitar acoplamiento de datos.
 5.  **Firebase Services:** Utilizado para la autenticación rápida (Auth) y almacenamiento de imágenes (Storage).
 
-![container-diagram](../../assets/chapter-2/container-diagram-eventify.png)
+![container-diagram](../..../../../assets/chapter-2/container-diagram-eventify.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
