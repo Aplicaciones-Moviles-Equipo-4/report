@@ -796,23 +796,95 @@ En este segmento del informe otorgaremos a las historias de usuario un peso bas�
 
 ## 2.5. Strategic-Level Domain-Driven Design
 
+En esta sección se detalla el proceso de diseño estratégico aplicando Domain-Driven Design (DDD) para descomponer la complejidad del sistema Eventify en subconjuntos con límites naturales. Se utilizaron herramientas como Miro para el EventStorming y Lucidchart para el mapeo de contextos.
+
 ### 2.5.1. EventStorming
+
+Se llevó a cabo una sesión de **Big Picture EventStorming** donde el equipo identificó los eventos significativos del dominio, sus disparadores y las consecuencias en el estado del negocio. Este proceso permitió alinear el entendimiento técnico con los procesos de negocio reales de un organizador de eventos.
+
+**Eventos de Dominio Clave:**
+- `UserRegistered`: Un nuevo usuario se une a la plataforma.
+- `QuoteRequested`: Un anfitrión solicita un presupuesto a un organizador.
+- `QuoteAccepted`: Se formaliza el acuerdo financiero.
+- `SocialEventCreated`: Se inicia la planificación formal de un evento.
+- `TaskAssigned`: Se delega una responsabilidad operativa.
+- `SubscriptionPurchased`: Un organizador adquiere herramientas avanzadas.
 
 #### 2.5.1.1. Candidate Context Discovery
 
+Mediante la técnica de *look-for-pivotal-events*, identificamos los límites donde el lenguaje y las responsabilidades cambian:
+
+1.  **Identity and Access Management (IAM):** Autenticación y roles.
+2.  **Profiles and Preferences:** Identidad profesional y del cliente.
+3.  **Quote Management:** Negociación y proformas.
+4.  **Event Design and Planning:** Estructura conceptual del evento.
+5.  **Event Operations and Monitoring:** Ejecución (Kanban, tareas).
+6.  **Direct Communication:** Mensajería y alertas.
+7.  **Payments and Subscriptions:** Monetización.
+
 #### 2.5.1.2. Domain Message Flows Modeling
+
+Modelamos el flujo de mensajes para garantizar que los contextos colaboren sin acoplamientos innecesarios. Por ejemplo, cuando se dispara `QuoteAccepted` en el contexto de **Quotes**, el contexto de **Planning** reacciona creando una entidad `Event` base, heredando los servicios pactados en la proforma.
 
 #### 2.5.1.3. Bounded Context Canvases
 
+A continuación, se detallan los canvaces de los contextos core de la solución:
+
+**Canvas: Quote Management**
+- **Propósito:** Facilitar la negociación transparente de costos entre anfitriones y organizadores.
+- **Business Rules:** 
+    - Toda cotización debe tener una fecha de validez.
+    - El precio total se calcula automáticamente sumando los items de servicio.
+- **Ubiquitous Language:** `Proforma`, `ServiceItem`, `ValidUntil`, `QuoteStatus`.
+
+**Canvas: Event Operations and Monitoring**
+- **Propósito:** Optimizar la ejecución logística del organizador en tiempo real.
+- **Business Rules:**
+    - No se pueden marcar tareas como completadas si dependen de una tarea previa activa.
+    - El progreso del evento se calcula en base al porcentaje de tareas en estado `Done`.
+- **Ubiquitous Language:** `TaskBoard`, `KanbanColumn`, `Hito`, `TaskPriority`.
+
 ### 2.5.2. Context Mapping
+
+El mapa de contextos visualiza cómo se comunican estos sub-sistemas, utilizando patrones estratégicos para proteger la integridad del modelo.
+
+| Relación | Tipo de Patrón | Justificación Técnica |
+| :--- | :--- | :--- |
+| **IAM -> Todos los Contextos** | Upstream/Downstream (OHS) | IAM provee un *Open Host Service* para que todos los contextos validen identidades de forma estandarizada. |
+| **Quotes -> Planning** | Customer/Supplier (ACL) | El contexto de Planificación actúa como *Supplier*. Implementamos una *Anti-Corruption Layer (ACL)* para que los cambios en la lógica de proformas no afecten el diseño del evento. |
+| **Planning <-> Operations** | Shared Kernel | Ambos contextos comparten la entidad `EventID` y metadatos básicos de fecha/local, ya que son el núcleo operativo común. |
+
+*(Insertar aquí: Diagrama de Context Mapping elaborado en Lucidchart)*
 
 ### 2.5.3. Software Architecture
 
+Aplicamos el modelo C4 para documentar la arquitectura desde el contexto general hasta el despliegue físico.
+
 #### 2.5.3.1. Software Architecture Context Level Diagrams
+
+El sistema **Eventify** se sitúa como el orquestador central que interactúa con el **Organizador** (usuario profesional) y el **Anfitrión** (usuario cliente). Se apoya en sistemas externos de **Notificaciones Push** y **Pasarelas de Pago** para completar su propuesta de valor.
+
+![context-diagram](../../assets/chapter-2/context-diagram-eventify.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
+Descomponemos la solución en cinco contenedores principales para asegurar escalabilidad independiente:
+
+1.  **Web Applications (SPA - Vue.js):** Provee la interfaz de usuario reactiva para ambos roles.
+2.  **Landing Page:** Sitio optimizado para SEO que actúa como punto de entrada.
+3.  **API Platform (.NET Core):** Implementa los microservicios organizados por Bounded Contexts.
+4.  **Database (PostgreSQL):** Gestiona la persistencia con esquemas separados por contexto para evitar acoplamiento de datos.
+5.  **Firebase Services:** Utilizado para la autenticación rápida (Auth) y almacenamiento de imágenes (Storage).
+
+![container-diagram](../../assets/chapter-2/container-diagram-eventify.png)
+
 #### 2.5.3.3. Software Architecture Deployment Diagrams
+
+La arquitectura de despliegue garantiza que la aplicación sea resiliente y accesible globalmente:
+
+- **Frontend:** Alojado en **Firebase Hosting** con CDN para minimizar la latencia.
+- **Backend:** Desplegado en **Render** mediante contenedores Docker, permitiendo despliegues continuos (CI/CD) desde GitHub.
+- **Base de Datos:** Instancia gestionada en **Render PostgreSQL** con backups automáticos y alta disponibilidad.
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
