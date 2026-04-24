@@ -195,20 +195,20 @@ En la sección de Contributors se puede visualizar la participación individual 
 
 ---
 
-# Student Outcome
+## Student Outcome
 
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 7** <br> Criterio: _La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas._
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
-| Criterio específico  | Acciones realizadas | Conclusiones |
+| **Criterio específico**  | **Acciones realizadas** | **Conclusiones** |
 |----------------------|---------------------|--------------|
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* Para este avance del primer hito he vuelto a aplicar conceptos y conocimientos útiles para su desarrollo. <br>• *Nakasone Gomes, Marco Antonio:* Apliqué conceptos de Domain-Driven Design (DDD) a nivel estratégico, desarrollando EventStorming para el análisis del dominio, modelando flujos de mensajes y definiendo Bounded Contexts. Además, elaboré el Context Mapping y los diagramas de arquitectura (contexto, contenedores y despliegue). <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* Realice investigación y análisis para el desarrollo del informe, es importante seguir aprendiendo y reforzando conocimientos. <br>• *Nakasone Gomes, Marco Antonio:* Investigué y aprendí de forma autónoma sobre EventStorming, Context Mapping y arquitectura de software para aplicarlos en el proyecto, adaptando la teoría a un caso real.<br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
 
 ---
 
-# Objetivos SMART
+## Objetivos SMART
 
 | Estudiante                       | Objetivos SMART |
 |----------------------------------|-----------------|
