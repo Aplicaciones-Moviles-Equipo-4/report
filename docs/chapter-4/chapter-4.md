@@ -48,6 +48,12 @@
 
 ### Conclusiones Y Recomendaciones
 
+El desarrollo de los Capítulos I y II ha permitido establecer una base sólida para la comprensión del problema, el contexto de la startup y la definición de la solución propuesta. A través del análisis inicial, se logró identificar claramente la problemática, los antecedentes y los segmentos objetivo, lo cual facilita una orientación estratégica adecuada del producto.
+
+Asimismo, la aplicación del enfoque Lean UX permitió estructurar hipótesis, supuestos y propuestas de valor centradas en el usuario, promoviendo una visión iterativa y validable del desarrollo. En el Capítulo II, el levantamiento de información mediante entrevistas y técnicas de needfinding contribuyó a comprender mejor las necesidades reales de los usuarios, traduciéndose en artefactos clave como user personas, user journeys y empathy maps.
+
+Se recomienda continuar con procesos de validación constante con usuarios reales, de manera que las hipótesis planteadas en Lean UX puedan confirmarse o ajustarse oportunamente. Esto permitirá mejorar la calidad del producto y su adecuación al mercado.
+
 ### Video App Validation
 
 ### Video Abput the product
