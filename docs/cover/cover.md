@@ -1,10 +1,9 @@
 <div align="center" style="text-align: center;">
 <img src="../../assets/cover/Logo-UPC.png" alt="Logo UPC" width="150">
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
-<h4>Facultad de Ingeniería</h4>
 <h4>Carrera de Ingeniería de Software</h4>
 <h4>Periodo 202610</h4>
-<h4>1ACC0238 Aplicaciones para Dispositivos Móviles</h4>
+<h4>Curso: 1ACC0238 Aplicaciones para Dispositivos Móviles</h4>
 <h4>NRC 3687</h4>
 <h4>Docente: Quevedo Velasco, David Gerardo</h4>
 <h4>Informe de Trabajo Final</h4>
@@ -13,7 +12,7 @@
 
 <br>
 
-<h2 style="text-align: center;">Team members:</h2>
+<h3 style="text-align: center;">Team members:</h3>
 
 <table style="margin: 0 auto; text-align: center;">
   <thead>
