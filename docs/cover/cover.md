@@ -1,48 +1,65 @@
-![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<div align="center" style="text-align: center;">
+<img src="../../assets/cover/Logo-UPC.png" alt="Logo UPC" width="150">
+<h3>Universidad Peruana de Ciencias Aplicadas</h3>
+<h4>Facultad de Ingeniería</h4>
+<h4>Carrera de Ingeniería de Software</h4>
+<h4>Periodo 202610</h4>
+<h4>1ACC0238 Aplicaciones para Dispositivos Móviles</h4>
+<h4>NRC 3687</h4>
+<h4>Docente: Quevedo Velasco, David Gerardo</h4>
+<h4>Informe de Trabajo Final</h4>
+<h4>Startup: RealTec</h4>
+<h4>Producto: OrganiX</h4>
 
-**Universidad Peruana de Ciencias Aplicadas**
+<br>
 
-**Carrera**: Ingeniería de Software
+<h2 style="text-align: center;">Team members:</h2>
 
-**Periodo**: 202610
-
-**Curso**: Aplicaciones para Dispositivos Móviles
-
-**NRC**: 3687
-
-**Docente**: Quevedo Velasco, David Gerardo
-
-**Informe de Trabajo Final**
-
-**Startup**: 
-
-**Producto**: 
-
-**Integrantes**:
-
-U20221A553 - Armestar Heredia, Matias Gabriel  
-U202120569 - Crisanto Calle, Deybbi Anderson  
-U202215721 - Duran Diaz, Antonio Rodrigo  
-U202210790 - Nakasone Gomes, Marco Antonio  
-U202117303 - Teves Samaniego, Joan Fernando
-
-**Abril del 2026**  
-
-# Registro de Versiones del Informe
-
-<table>
+<table style="margin: 0 auto; text-align: center;">
+  <thead>
     <tr>
-        <th colspan="3">Version</th>
-        <th colspan="3">Fecha</th>
-        <th colspan="10">Autores</th>
-        <th colspan="5">Descripción de Modificaciones</th>
-    <tr>
-        <td colspan="3">1era</td>
-        <td colspan="3"></td>
-        <td colspan="10">Armestar Heredia, Matias Gabriel <br> Crisanto Calle, Deybbi Anderson <br> Duran Diaz, Antonio Rodrigo <br> Nakasone Gomes, Marco Antonio <br> Teves Samaniego, Joan Fernando </td>
-        <td colspan="5"></td>
+      <th>Código</th>
+      <th>Nombre</th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>U20221A553</td>
+      <td>Armestar Heredia, Matias Gabriel</td>
+    </tr>
+    <tr>
+      <td>U202120569</td>
+      <td>Crisanto Calle, Deybbi Anderson</td>
+    </tr>
+    <tr>
+      <td>U202215721</td>
+      <td>Duran Diaz, Antonio Rodrigo</td>
+    </tr>
+    <tr>
+      <td>U202210790</td>
+      <td>Nakasone Gomes, Marco Antonio</td>
+    </tr>
+    <tr>
+      <td>U202117303</td>
+      <td>Teves Samaniego, Joan Fernando</td>
+    </tr>
+  </tbody>
 </table>
+
+<br>
+<h4 style="text-align: center;">Abril 2026</h4>
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+## Registro de Versiones del Informe
+
+| Versión | Fecha       | Autor                                                                                                   | Descripción de modificación |
+|---------|------------|---------------------------------------------------------------------------------------------------------|-----------------------------|
+
+
+</div>
 
 ## Project Report Collaboration Insights
 
