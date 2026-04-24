@@ -209,12 +209,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## Objetivos SMART
 
-| Estudiante                       | Objetivos SMART |
-|----------------------------------|-----------------|
-| Armestar Heredia, Matias Gabriel |                 |
-| Crisanto Calle, Deybbi Anderson  |                 |
-| Duran Diaz, Antonio Rodrigo      |Fortalecer continuamente mis conocimientos en Ingeniería de Software y actualizarme en tecnologías modernas para ser parte del desarrollo de proyectos acoplandome herramientas actuales.|
-| Nakasone Gomes, Marco Antonio    |Fortalecer mis competencias en ingeniería de software aplicando metodologías y herramientas modernas para diseñar soluciones alineadas a necesidades reales del negocio.                 |
-| Teves Samaniego, Joan Fernando   |                 |
+| Estudiante                       | Objetivos SMART                                                                                                                                                                                                                       |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Armestar Heredia, Matias Gabriel | Profundizar mi conocimiento en tecnologías ya usadas anteriormente cómo también expandirlo a nuevas de ellas.  Conocer más acerca del área gerencial a través de distintos roles y experiencias para así complementar mi aprendizaje. |
+| Crisanto Calle, Deybbi Anderson  |                                                                                                                                                                                                                                       |
+| Duran Diaz, Antonio Rodrigo      | Fortalecer continuamente mis conocimientos en Ingeniería de Software y actualizarme en tecnologías modernas para ser parte del desarrollo de proyectos acoplandome herramientas actuales.                                             |
+| Nakasone Gomes, Marco Antonio    | Fortalecer mis competencias en ingeniería de software aplicando metodologías y herramientas modernas para diseñar soluciones alineadas a necesidades reales del negocio.                                                              |
+| Teves Samaniego, Joan Fernando   |                                                                                                                                                                                                                                       |
 
 ---
