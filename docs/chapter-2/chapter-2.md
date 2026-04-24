@@ -269,7 +269,7 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 
 **Entrevista 1: John Rafael Cutiri Chinchay**
 
-![Anfitrion 1](../..../../../assets/chapter-2/entrevista-anfitrion-1.png)
+![Anfitrion 1](../../assets/chapter-2/entrevista-anfitrion.png)
 *_Evidencia en fotografía de Entrevista 1 hacia John Rafael Cutiri Chinchay - Segmento Anfitriones_*
 
 **Datos del entrevistado**
@@ -298,7 +298,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 **Entrevista 2: Cenith Luque García**
 
-![Anfitrion 2](../..../../../assets/chapter-2/entrevista-anfitri%C3%B3n-2.png)
+![Anfitrion 2](../../assets/chapter-2/entrevista-anfitrión-2.png)
 *_Evidencia en fotografía de Entrevista 2 hacia Cenith Luque García - Segmento Anfitriones_*
 
 **Datos del entrevistado**
@@ -326,7 +326,7 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 **Entrevista 3: Anacristina Reymundo Mamani**
 
-![Anfitrion_3](../..../../../assets/chapter-2/entrevista-anfitrión-3.png)
+![Anfitrion_3](../../assets/chapter-2/entrevista-anfitrión-3.png)
 
 *_Evidencia en fotografía de Entrevista 3 hacia Anacristina Reymundo Mamani - Segmento Anfitriones_*
 
@@ -365,7 +365,7 @@ Los aspectos más frustrantes fueron la falta de comunicación oportuna y alguno
 
 **Entrevista 1: Teodoro Paico Sernaqué**
 
-![Organizador-1](../..../../../assets/chapter-2/entrevista-organizador-1.png)
+![Organizador-1](../../assets/chapter-2/entrevista-organizador-1.png)
 *_Evidencia en fotografía de Entrevista 1 hacia Teodoro Paico Sernaqué - Segmento Organizadores_*
 
 **Datos del entrevistado:**
@@ -394,7 +394,7 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 2: Jaicob Diaz**
 
-![Organizador-2](../..../../../assets/chapter-2/entrevista-organizador-2.png)
+![Organizador-2](../../assets/chapter-2/entrevista-organizador-2.png)
 
 *_Evidencia en fotografía de Entrevista 2 hacia Jaicob Diaz - Segmento Organizadores_*
 
@@ -425,7 +425,7 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 
 **Entrevista 3: Sara Goveya**
 
-![Organizador-3](../..../../../assets/chapter-2/entrevista-organizador-3.jpeg)
+![Organizador-3](../../assets/chapter-2/entrevista-organizador-3.jpeg)
 *_Evidencia en fotografía de Entrevista 3 hacia Sara Goveya - Segmento Organizadores_*
 
 **Datos del entrevistado:**
@@ -459,87 +459,87 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
 - Segmento Objetivo 1: Anfitriones de Eventos
 
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
   <br> Los resultados muestran que el 60% de anfitriones utilizan celular para comunicarse con su organizador, mientras que el 40% restante se equilibra en Pc y laptop <br>
 
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
     <br> Gráfico acerca del tipo de evento que contrataron <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
   <br> Gráfico acerca de cómo encontraron a su organizador de eventos <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
 <br> Gráfico acerca de servicios que les costó entender o comparar <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
 <br> Gráfico acerca la valoración de la comunicación con su organizador durante el proceso. <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
 <br> Gráfico acerca de los medios de comunicación con la que interactuaron con su organizador <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
 
 <br>
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
 </p><p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
 </p>
 
 - Segmento Objetivo 2: Oreganizadores de Eventos
 
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
 </p>
 <p align="center">
-  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
+  <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
 </p>
 
 ## 2.3. Needfinding
@@ -551,12 +551,12 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 **Segmento Objetivo: Organizadores de eventos sociales no masivos**
 
-![user-persona-organizador.png](../..../../../assets/chapter-2/user-persona-organizador.png)
+![user-persona-organizador.png](../../assets/chapter-2/user-persona-organizador.png)
 
  <br>
 
 **Segmento Objetivo: Anfitriones de eventos**
-![user-persona-host](../..../../../assets/chapter-2/user-persona-anfitrion.png)
+![user-persona-host](../../assets/chapter-2/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -614,10 +614,10 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 #### User Journey Mapping - Segmento Organizador de eventos no masivos
 
-![User Journey Mapping - Organizador.png](../..../../../assets/chapter-2/User%20Journey%20Mapping%20-%20Organizador.png)
+![User Journey Mapping - Organizador.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Organizador.png)
 #### User Journey Mapping - Segmento Anfitrion
 
-![User Journey Mapping - Anfitrion.png](../..../../../assets/chapter-2/User%20Journey%20Mapping%20-%20Anfitrion.png)
+![User Journey Mapping - Anfitrion.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Anfitrion.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -628,12 +628,12 @@ El empathy mapping es una herramienta que nos permite comprender en profundidad 
 
 Este mapa se enfoca en Francisco Mendoza, un organizador de eventos experimentado que desea gestionar sus procesos de forma más eficiente y destacarse en un mercado competitivo. A través de esta herramienta, identificamos sus motivaciones, necesidades operativas y los principales desafíos que enfrenta en su día a día.
 
-![empathy-map-organizador.png](../..../../../assets/chapter-2/empathy-map-organizador.png)
+![empathy-map-organizador.png](../../assets/chapter-2/empathy-map-organizador.png)
 **Segmento Objetivo: Anfitriones de eventos** <br>
 
 En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitriona que busca ofrecer experiencias únicas a sus invitados sin tener que lidiar con el estrés de la logística. Aquí entendemos sus deseos, frustraciones y la manera en que se relaciona con los organizadores de eventos.
 
-![empathy-map-anfitrion.png](../..../../../assets/chapter-2/empathy-map-anfitrion.png)
+![empathy-map-anfitrion.png](../../assets/chapter-2/empathy-map-anfitrion.png)
 
 ### 2.3.5. Big Picture Event Storming
 
