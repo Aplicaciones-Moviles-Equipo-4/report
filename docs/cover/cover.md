@@ -63,9 +63,6 @@ En la sección de Contributors se puede visualizar la participación individual 
 ![contributors-AV1](../../assets/cover/contributorsAV1)
 
 
-**URL del repositorio orientado a la Landing Page:**  
-**Report Contributors Insights (AV1)**  
-
 # Contenido
 
 ## Tabla de contenidos
@@ -185,8 +182,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico  | Acciones realizadas | Conclusiones |
 |----------------------|---------------------|--------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* Apliqué conceptos de Domain-Driven Design (DDD) a nivel estratégico, desarrollando EventStorming para el análisis del dominio, modelando flujos de mensajes y definiendo Bounded Contexts. Además, elaboré el Context Mapping y los diagramas de arquitectura (contexto, contenedores y despliegue). <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* Investigué y aprendí de forma autónoma sobre EventStorming, Context Mapping y arquitectura de software para aplicarlos en el proyecto, adaptando la teoría a un caso real.<br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* Para este avance del primer hito he vuelto a aplicar conceptos y conocimientos útiles para su desarrollo. <br>• *Nakasone Gomes, Marco Antonio:* Apliqué conceptos de Domain-Driven Design (DDD) a nivel estratégico, desarrollando EventStorming para el análisis del dominio, modelando flujos de mensajes y definiendo Bounded Contexts. Además, elaboré el Context Mapping y los diagramas de arquitectura (contexto, contenedores y despliegue). <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* Realice investigación y análisis para el desarrollo del informe, es importante seguir aprendiendo y reforzando conocimientos. <br>• *Nakasone Gomes, Marco Antonio:* Investigué y aprendí de forma autónoma sobre EventStorming, Context Mapping y arquitectura de software para aplicarlos en el proyecto, adaptando la teoría a un caso real.<br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
 
 ---
 
@@ -196,7 +193,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 |----------------------------------|-----------------|
 | Armestar Heredia, Matias Gabriel |                 |
 | Crisanto Calle, Deybbi Anderson  |                 |
-| Duran Diaz, Antonio Rodrigo      |                 |
+| Duran Diaz, Antonio Rodrigo      |Fortalecer continuamente mis conocimientos en Ingeniería de Software y actualizarme en tecnologías modernas para ser parte del desarrollo de proyectos acoplandome herramientas actuales.|
 | Nakasone Gomes, Marco Antonio    |Fortalecer mis competencias en ingeniería de software aplicando metodologías y herramientas modernas para diseñar soluciones alineadas a necesidades reales del negocio.                 |
 | Teves Samaniego, Joan Fernando   |                 |
 
