@@ -2214,10 +2214,10 @@ Este contexto gestiona la autenticación, el registro y la seguridad de los usua
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-**2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 ![Class Diagram IAM](../../assets/chapter-2/class-diagram.png)
 
-**2.6.1.6.2. Bounded Context Database Design Diagram**
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
 ![Database Diagram IAM](../../assets/chapter-2/database-diagram-eventify.png)
 
 **Tabla: Users**
@@ -2319,10 +2319,10 @@ Este contexto centraliza la planificación y el seguimiento operativo de los eve
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
-**2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 ![Class Diagram Event Management](../../assets/chapter-2/class-diagram.png)
 
-**2.6.2.6.2. Bounded Context Database Design Diagram**
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
 ![Database Diagram Event Management](../../assets/chapter-2/database-diagram-eventify.png)
 
 **Tabla: Events**
@@ -2401,10 +2401,10 @@ Utiliza el `ChatRepository` y `MessageRepository` para persistir el historial en
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
-**2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 ![Class Diagram Communication](../../assets/chapter-2/class-diagram.png)
 
-**2.6.3.6.2. Bounded Context Database Design Diagram**
+##### 2.6.3.6.2. Bounded Context Database Design Diagram
 ![Database Diagram Communication](../../assets/chapter-2/database-diagram-eventify.png)
 
 **Tabla: Messages**
