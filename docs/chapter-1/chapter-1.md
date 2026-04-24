@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">
 
-**RealTec** es una startup tecnológica enfocada en crear soluciones digitales innovadoras para modernizar la industria tradicional de eventos a través de su plataforma digital, **OrganiX**. Este aplicativo conecta de manera eficiente a organizadores de eventos profesionales o independientes con clientes que requieren sus servicios ya sea para bodas, fiestas, cumpleaños y otras ocasiones. OrganiX simplifica la búsqueda, contratación y coordinación entre ambas partes, ofreciendoles a los clientes herramientas para hallar organizadores de eventos según sus necesidades específicas, mientras que a los profesionales se les brindan sistemas para la gestión de eventos, comunicación directa, cotizaciones, contrataciones, calendario y notas personalizadas. Con una cultura basada en metodologías ágiles y centrada en la experiencia del usuario, **RealTec** busca expandirse a nivel regional , consolidándose como un referente en el desarrollo de productos tecnológicos con propósito.
+**RealTec** es una startup tecnológica enfocada en crear soluciones digitales innovadoras para modernizar la industria tradicional de eventos a través de su plataforma digital, **Eventify**. Este aplicativo conecta de manera eficiente a organizadores de eventos profesionales o independientes con clientes que requieren sus servicios ya sea para bodas, fiestas, cumpleaños y otras ocasiones. Eventify simplifica la búsqueda, contratación y coordinación entre ambas partes, ofreciendoles a los clientes herramientas para hallar organizadores de eventos según sus necesidades específicas, mientras que a los profesionales se les brindan sistemas para la gestión de eventos, comunicación directa, cotizaciones, contrataciones, calendario y notas personalizadas. Con una cultura basada en metodologías ágiles y centrada en la experiencia del usuario, **RealTec** busca expandirse a nivel regional , consolidándose como un referente en el desarrollo de productos tecnológicos con propósito.
 
 **Misión:**
 
@@ -24,11 +24,11 @@ Nuestra visión es consolidarnos como una startup de referencia en la creación 
 | Foto | Apellidos y Nombres | Carrera | Acerca de |
 | :--- | :--- | :--- | :--- |
 | ![profile-armestar-matias](../../assets/chapter-1/profile-armestar-matias.jpeg) | Armestar Heredia, Matias Gabriel | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo. |
-| | Crisanto Calle, Deybbi Anderson | Ingeniería de Software | |
+![profile-crisanto-deybii](../../assets/chapter-1/profile-crisanto-deybbi.png) | Crisanto Calle, Deybbi Anderson | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy muy colaborativo al momento de trabajar en equipo, me gusta aprender de los demás y compartir mis conocimientos respecto a un tema. Fuera del ámbito académico, soy músico y me gusta tocar el piano, así como los videojuegos en primera persona. |
 | ![profile-duran-antonio](../../assets/chapter-1/profile-duran-antonio.png) | Duran Diaz, Antonio Rodrigo | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal |
 | ![profile-nakasone-marco](../../assets/chapter-1/profile-nakasone-marco.jpeg) | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Mi nombre es Marco Antonio Nakasone Gomes y mi código es u202210790. Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Mis principal habilidad es la programacion, destaco en el desarrollo de software, los principales lenguajes que domino son C++, python, java y C#. |
 | ![profile-teves-joan](../../assets/chapter-1/profile-teves-joan.jpeg) | Teves Samaniego, Joan Fernando | Ingeniería de Software | Soy estudiante de ciclos superiores de Ingeniería de Software en la UPC. Me destaco como desarrollador full-stack con amplia experiencia en frameworks como Vue.js, Astro, Django y FastAPI. Actualmente formo parte de Huawei como practicante pre-profesional en el rol de SEC Trainee. En este proyecto, busco aportar mi visión técnica y arquitectónica para desarrollar una solución robusta y escalable. |
-![profile-crisanto-deybii](../../assets/chapter-1/profile-crisanto-deybbi.png) | Crisanto Calle, Deybbi Anderson | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy muy colaborativo al momento de trabajar en equipo, me gusta aprender de los demás y compartir mis conocimientos respecto a un tema. Fuera del ámbito académico, soy músico y me gusta tocar el piano, así como los videojuegos en primera persona. |
+
 
 <div style="page-break-after: always;"></div>
 
@@ -199,7 +199,7 @@ We believe that [business outcome] will be achieved if [user] attains [benefit] 
 
 #### 1.2.2.4. Lean UX Canvas
 
-El Lean UX Canvas de OrganiX identifica los problemas de los clientes para encontrar organizadores de eventos adecuados y de los organizadores para gestionar eficientemente sus tareas y calendarios. Propone soluciones como la implementación de filtros avanzados, un sistema de mensajería en tiempo real, y herramientas integradas de gestión de eventos para mejorar la experiencia del usuario, validando su efectividad mediante hipótesis específicas y métricas claras.
+El Lean UX Canvas de Eventify identifica los problemas de los clientes para encontrar organizadores de eventos adecuados y de los organizadores para gestionar eficientemente sus tareas y calendarios. Propone soluciones como la implementación de filtros avanzados, un sistema de mensajería en tiempo real, y herramientas integradas de gestión de eventos para mejorar la experiencia del usuario, validando su efectividad mediante hipótesis específicas y métricas claras.
 
 | **Business Problem** | **Solutions** | **Business Outcomes** |
 |-----------------------|---------------|------------------------|
