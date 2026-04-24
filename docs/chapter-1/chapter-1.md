@@ -95,21 +95,11 @@ Este problema puede generar pérdidas económicas significativas para ambas part
 
 **Problem Statement - Organizadores de Eventos**
 
-El estado actual de la organización de eventos sociales no masivos (como bodas, cumpleaños y quinceañeros) se ha centrado principalmente en procesos manuales realizados por organizadores que trabajan de forma independiente o con herramientas generales como hojas de cálculo. Lo que los productos o servicios existentes no abordan es la necesidad de una solución especializada que les permita gestionar múltiples eventos simultáneamente sin perder control ni calidad en la planificación.
+La organización y contratación de eventos sociales no masivos (como bodas, cumpleaños y quinceañeros) se desarrolla actualmente mediante procesos manuales y herramientas poco especializadas. Los organizadores suelen gestionar múltiples eventos utilizando hojas de cálculo u otros medios generales, lo que limita el control, seguimiento y eficiencia. Paralelamente, los anfitriones dependen de recomendaciones, redes sociales y contactos informales para encontrar organizadores, enfrentando procesos dispersos y poco estructurados.
 
-Nuestro servicio abordará esta brecha mediante una plataforma que centralice y simplifique la gestión de eventos, mediante herramientas clave como calendarios interactivos, panel para seguimiento de tareas, entre otras. Nuestro enfoque inicial será organizadores con experiencia que actualmente manejan entre 2 y 5 eventos al mes de forma manual.
+Esta situación genera dificultades tanto en la gestión operativa como en la toma de decisiones. Los organizadores ven restringida su capacidad para manejar más eventos sin afectar la calidad del servicio, mientras que los anfitriones encuentran complicado comparar opciones de manera clara y confiable. Como resultado, se presentan ineficiencias, falta de transparencia y una experiencia general poco satisfactoria para ambas partes.
 
-¿Cómo mejorar la capacidad para mejorar más eventos por mes y una mejora en la satisfacción de sus clientes?
-
-<br>
-
-**Problem Statement - Anfitriones de Eventos**
-
-El estado actual de la contratación de organizadores para eventos sociales no masivos se ha centrado principalmente en recomendaciones, redes sociales y contactos directos, lo cual obliga a los anfitriones a buscar, comparar y negociar manualmente con cada proveedor. Lo que los servicios existentes no abordan es una forma centralizada, clara y confiable de comparar opciones y tomar decisiones rápidas y acertadas.
-
-Nuestro servicio abordará esta brecha mediante una plataforma que permita a los anfitriones buscar, comparar y contactar a organizadores de eventos desde un solo lugar, con información clara y precisa. Nuestro enfoque inicial serán anfitriones que organizan su primer evento significativo (boda, cumpleaños especial, etc.) y no tienen experiencia previa contratando estos servicios.
-
-¿Cómo generar un aumento en la cantidad de contrataciones mensuales a través de la plataforma y el aumento de reseñas de satisfacción post-eventos?
+¿Cómo mejorar la capacidad de los organizadores para gestionar un mayor número de eventos de forma eficiente y, al mismo tiempo, facilitar a los anfitriones un proceso más ágil, claro y confiable para seleccionar y contratar servicios, incrementando así la satisfacción en la experiencia de planificación de eventos?
 
 </div>
 
