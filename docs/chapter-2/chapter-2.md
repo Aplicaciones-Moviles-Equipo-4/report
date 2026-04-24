@@ -119,144 +119,144 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 **Estrategia de diferenciación:**
-<br><br>
-- La estrategia de diferenciación se basa en ofrecer una solución de software única que se distinga de la competencia. En este caso, la propuesta es crear una aplicación web que conecte a organizadores de eventos con anfitriones, brindando herramientas de gestión para facilitar la planificación y ejecución de eventos. Esto permitirá a los organizadores optimizar su trabajo y a los anfitriones encontrar fácilmente el servicio que necesitan.
-  <br><br>
+<br>
+La estrategia de diferenciación se basa en ofrecer una solución de software única que se distinga de la competencia. En este caso, la propuesta es crear una aplicación web que conecte a organizadores de eventos con anfitriones, brindando herramientas de gestión para facilitar la planificación y ejecución de eventos. Esto permitirá a los organizadores optimizar su trabajo y a los anfitriones encontrar fácilmente el servicio que necesitan.
+<br>
 
-* **Tácticas:**
-- Incluir funcionalidades como calendario, chat directo, cotizaciones, notas personalizadas y seguimiento por pasos.
-- Diseñar una interfaz intuitiva, clara y amigable desde el primer uso.
+* **Tácticas:**  
+  * Incluir funcionalidades como calendario, chat directo, cotizaciones, notas personalizadas y seguimiento por pasos.
+  * Diseñar una interfaz intuitiva, clara y amigable desde el primer uso.
+<br>
 
 **Estrategia de liderazgo en costos:**
-<br><br>
-- La estrategia de liderazgo en costos implica ofrecer una solución a un precio más bajo que la competencia. En este caso, se propone ofrecer una suscripción mensual asequible para los organizadores de eventos, lo que les permitirá acceder a herramientas de gestión sin incurrir en altos costos iniciales.
-  <br><br>
+<br>
+La estrategia de liderazgo en costos implica ofrecer una solución a un precio más bajo que la competencia. En este caso, se propone ofrecer una suscripción mensual asequible para los organizadores de eventos, lo que les permitirá acceder a herramientas de gestión sin incurrir en altos costos iniciales.
+<br>
 
 * **Tácticas:**
-- Implementar un modelo freemium: registro gratuito y herramientas básicas sin costo.
-- Ofrecer una suscripción mensual accesible para funciones avanzadas, en contraste con los altos precios de aplicaciones como Bizzabo.
-- No cobrar comisiones por contratos gestionados dentro de la app.
+  * Implementar un modelo freemium: registro gratuito y herramientas básicas sin costo.
+  * Ofrecer una suscripción mensual accesible para funciones avanzadas, en contraste con los altos precios de aplicaciones como Bizzabo.
+  * No cobrar comisiones por contratos gestionados dentro de la app.
+<br>
 
 **Estrategia de diferenciación enfocada:**
-<br><br>
-- La propuesta se enfoca en atender a nichos específicos del mercado de eventos sociales (como cumpleaños, bodas y celebraciones familiares), evitando la complejidad de plataformas orientadas a eventos corporativos de gran escala.
-  <br><br>
+<br>
+La propuesta se enfoca en atender a nichos específicos del mercado de eventos sociales (como cumpleaños, bodas y celebraciones familiares), evitando la complejidad de plataformas orientadas a eventos corporativos de gran escala.
+<br>
 
 * **Tácticas:**
-- Simplificar las funcionalidades para que se adapten a las necesidades reales de los eventos sociales.
-- Ajustar la comunicación visual y verbal al tono cercano, emocional y personal que estos eventos suelen tener.
+  * Simplificar las funcionalidades para que se adapten a las necesidades reales de los eventos sociales.
+  * Ajustar la comunicación visual y verbal al tono cercano, emocional y personal que estos eventos suelen tener.
+<br>
 
 **Estrategias competitivas adicionales:**
 <br><br>
 
 * **Tácticas:**
-- Permitir a los usuarios dejar reseñas y calificaciones de los organizadores.
-- Implementar notificaciones automáticas sobre el avance de cada evento (como recordatorios o pendientes).
+  * Permitir a los usuarios dejar reseñas y calificaciones de los organizadores.
+  * Implementar notificaciones automáticas sobre el avance de cada evento (como recordatorios o pendientes).
+<br>
 
 **Estrategia de construcción de marca:**
-<br><br>
-- Apostar por una identidad visual cálida, cercana y profesional, que conecte emocionalmente con el público objetivo y genere confianza.
-  <br><br>
+<br>
+Apostar por una identidad visual cálida, cercana y profesional, que conecte emocionalmente con el público objetivo y genere confianza.
+<br>
 
 * **Tácticas:**
-- Desarrollar una identidad visual con colores amigables y un logo simple pero memorable.
-- Utilizar redes sociales como Instagram, TikTok y Facebook para mostrar casos reales de uso de la app (antes y después de eventos organizados con Eventify).
-- Fomentar una comunidad activa alrededor de la marca, compartiendo consejos y experiencias sobre organización de eventos.
+  * Desarrollar una identidad visual con colores amigables y un logo simple pero memorable.
+  * Utilizar redes sociales como Instagram, TikTok y Facebook para mostrar casos reales de uso de la app (antes y después de eventos organizados con Eventify).
+  * Fomentar una comunidad activa alrededor de la marca, compartiendo consejos y experiencias sobre organización de eventos.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
 Para el desarrollo de las entrevistas de los segmentos objetivos definidos, se redactaron las siguientes preguntas:
+
+### **Organizadores de eventos no masivos:**
+
+* **Preguntas Demográficas:**
+
+  * ¿Cuál es su nombre?
+  * ¿Qué edad tiene?
+  * ¿Cómo se definiría usando solo 3 adjetivos?
+  * ¿Cuál es su estado civil?
+  * ¿A qué se dedica? (freelance o como organización)
+  * ¿En qué distrito/provincia reside?
+  * ¿Hace cuánto tiempo lleva trabajando como organizador de eventos?
+  * ¿Porque decidió trabajar en el rubro de organizador de eventos?
+
+* **Preguntas de Hábitos Digitales:**
+
+  * ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
+  * ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
+  * ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
+
+* **Preguntas Principales:**
+
+  * ¿Qué tipo de eventos organiza con mayor frecuencia?
+  * ¿Cuántos eventos gestiona por mes (promedio)?
+  * ¿Qué diferencia nota de organizar un evento sencillo de uno complejo?
+  * ¿Cuál es el rango salarial para organizar un evento (quinceañero, boda, bautizo, etc.)?
+  * ¿Podría contarnos paso a paso, como es su proceso para organizar un evento, desde que un cliente lo contacta hasta el día del evento?
+  * ¿Como gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuales y cuánto?
+  * ¿Qué desafíos encuentra al comunicarse con sus clientes?
+  * ¿Como ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cual y cómo?
+  * ¿Qué aspecto del trabajo considera que los clientes menos comprenden? ¿Hay términos técnicos en la organización de eventos?
+  * ¿Como gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
+  * ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
+  * ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
+  * ¿Qué le gustaría automatizar o simplificar de su trabajo?
+
+* **Preguntas Complementarias:**
+
+  * ¿Qué es lo que más valoran sus clientes en relación a sus servicios según su experiencia?
+  * ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
+  * ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Cómo las resolvió?
+
 <br>
 
-**Organizadores de eventos no masivos:**
+### Anfitriones de Eventos  
 
+* **Preguntas Demográficas**
 
-**Preguntas Demográficas:**
+  * ¿Cuál es su nombre?
+  * ¿Qué edad tiene?
+  * ¿Como se definiría usando solo 3 adjetivos?
+  * ¿Cuál es su estado civil?
+  * ¿A qué se dedicas?
+  * ¿En qué distrito/provincia reside?
 
-* ¿Cuál es su nombre?
-* ¿Qué edad tiene?
-* ¿Cómo se definiría usando solo 3 adjetivos?
-* ¿Cuál es su estado civil?
-* ¿A qué se dedica? (freelance o como organización)
-* ¿En qué distrito/provincia reside?
-* ¿Hace cuánto tiempo lleva trabajando como organizador de eventos?
-* ¿Porque decidió trabajar en el rubro de organizador de eventos?
+* **Preguntas de Hábitos Digitales**
 
-**Preguntas de Hábitos Digitales:**
+  * ¿Por medio de que navegador web contacto con el organizador?
+  * ¿Cuál es el dispositivo que utiliza con mayor frecuencia (laptop, Tablet, celular, computadora)?
 
-* ¿Por qué medio se comunica con sus clientes con mayor frecuencia (Whatsapp, Instagram, Facebook, correo Hotmail/Gmail)?
-* ¿Con qué dispositivo interactúa con mayor frecuencia (Pc, laptop, iPad)?
-* ¿Cuál es el navegador web que con mayor frecuencia usa? (Chrome, Safari, Brave, Opera).
+* **Preguntas Principales**
 
-**Preguntas Principales:**
+  * ¿Alguna vez has contratado a algún organizador de eventos?
+  * ¿Cuál fue el último evento que contrato?
+  * ¿Con cuánto tiempo de anticipación comenzó a planearlo?
+  * ¿Como encontró al organizador de eventos? (Redes sociales, contactos, página web).
+  * ¿Qué factores considero para contratar a un organizador de eventos?
+  * ¿Solicito cotizaciones a diversos organizadores antes de decidir?
+  * ¿Hubo algo que le costó entender o comparar entre los diferentes servicios? ¿Si es así cuáles?
+  * ¿Cómo considera que fue la comunicación con el organizador y con qué frecuencia?
+  * ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
+  * ¿Hubo algo que le hubiera gustado que le expliquen mejor?
+  * ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
+  * ¿Cómo fue el proceso de cotización y pagos? ¿Por qué medios fue realizado el pago?
+  * ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
 
-* ¿Qué tipo de eventos organiza con mayor frecuencia?
-* ¿Cuántos eventos gestiona por mes (promedio)?
-* ¿Qué diferencia nota de organizar un evento sencillo de uno complejo?
-* ¿Cuál es el rango salarial para organizar un evento (quinceañero, boda, bautizo, etc.)?
-* ¿Podría contarnos paso a paso, como es su proceso para organizar un evento, desde que un cliente lo contacta hasta el día del evento?
-* ¿Como gestiona su planificación de eventos? ¿Utiliza alguna aplicación de calendario, agenda o recordatorio? ¿Alguna es de paga? ¿Si es así cuales y cuánto?
+* **Preguntas Complementarias**
 
-* ¿Qué desafíos encuentra al comunicarse con sus clientes?
-* ¿Como ha logrado conseguir la mayoría de sus clientes, promocionándose en alguna red social, sitio web o por contactos? ¿Si es así cual y cómo?
-* ¿Qué aspecto del trabajo considera que los clientes menos comprenden? ¿Hay términos técnicos en la organización de eventos?
-* ¿Como gestiona el pago de sus eventos (cuotas, adelantos, al finalizar)?
-* ¿Cuáles son los medios de pagos que utiliza con mayor frecuencia?
-* ¿Cuáles son los factores (cantidad de invitados, temática, servicios, etc.) que considera para las cotizaciones de sus eventos con los clientes?
-* ¿Qué le gustaría automatizar o simplificar de su trabajo?
-
-
-**Preguntas Complementarias:**
-
-* ¿Qué es lo que más valoran sus clientes en relación a sus servicios según su experiencia?
-* ¿Qué es lo que más le frustra de trabajar como organizador de eventos en el ámbito de planificación? (Contratar servicios de terceros).
-* ¿Ha tenido alguna experiencia mala con alguno cliente? ¿Cómo las resolvió?
-
- <br/>
-
-**Anfitriones de Eventos**
-
-**Preguntas Demográficas**
-
-* ¿Cuál es su nombre?
-* ¿Qué edad tiene?
-* ¿Como se definiría usando solo 3 adjetivos?
-* ¿Cuál es su estado civil?
-* ¿A qué se dedicas?
-* ¿En qué distrito/provincia reside?
-
-**Preguntas de Hábitos Digitales**
-
-* ¿Por medio de que navegador web contacto con el organizador?
-* ¿Cuál es el dispositivo que utiliza con mayor frecuencia (laptop, Tablet, celular, computadora)?
-
-**Preguntas Principales**
-
-* ¿Alguna vez has contratado a algún organizador de eventos?
-* ¿Cuál fue el último evento que contrato?
-* ¿Con cuánto tiempo de anticipación comenzó a planearlo?
-* ¿Como encontró al organizador de eventos? (Redes sociales, contactos, página web).
-* ¿Qué factores considero para contratar a un organizador de eventos?
-* ¿Solicito cotizaciones a diversos organizadores antes de decidir?
-* ¿Hubo algo que le costó entender o comparar entre los diferentes servicios? ¿Si es así cuáles?
-* ¿Cómo considera que fue la comunicación con el organizador y con qué frecuencia?
-* ¿Por qué medios de comunicación fue la interacción con su organizador de eventos? (correo, WhatsApp).
-* ¿Hubo algo que le hubiera gustado que le expliquen mejor?
-* ¿Qué aspecto del evento le hubiera gustado mejorar? (DJ era malo, sillas en mal estado).
-* ¿Cómo fue el proceso de cotización y pagos? ¿Por qué medios fue realizado el pago?
-* ¿Hubo algún gasto inesperado durante la planificación del evento? (Meseros extras).
-
-**Preguntas Complementarias**
-
-* ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
-* ¿Qué fue lo más satisfactorio de todo el proceso?
-* ¿Qué fue lo más frustrante/estresante de todo el proceso de planificación junto con su organizador?
-* ¿Le pareció correcto el costo del evento?
-* ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
-* ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
-* ¿Pudo hacer seguimiento al estado de pagos fácilmente?
+  * ¿Recomendaría a otras personas contratar al mismo organizador de eventos?
+  * ¿Qué fue lo más satisfactorio de todo el proceso?
+  * ¿Qué fue lo más frustrante/estresante de todo el proceso de planificación junto con su organizador?
+  * ¿Le pareció correcto el costo del evento?
+  * ¿Cuánto influye el costo en su decisión de contratación? (Prefiere pagar mas por calidad o busca opciones más económicas).
+  * ¿Sintió que entendieron bien su visión del evento con lo que organizaron?
+  * ¿Pudo hacer seguimiento al estado de pagos fácilmente?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -2027,40 +2027,392 @@ En este segmento del informe otorgaremos a las historias de usuario un peso bas�
 
 ## 2.5. Strategic-Level Domain-Driven Design
 
+En esta sección se detalla el proceso de diseño estratégico aplicando Domain-Driven Design (DDD) para descomponer la complejidad del sistema Eventify en subconjuntos con límites naturales. Se utilizaron herramientas como Miro para el EventStorming y Lucidchart para el mapeo de contextos.
+
 ### 2.5.1. EventStorming
+
+Se llevó a cabo una sesión de **Big Picture EventStorming** donde el equipo identificó los eventos significativos del dominio, sus disparadores y las consecuencias en el estado del negocio. Este proceso permitió alinear el entendimiento técnico con los procesos de negocio reales de un organizador de eventos.
+
+**Eventos de Dominio Clave:**
+- `UserRegistered`: Un nuevo usuario se une a la plataforma.
+- `QuoteRequested`: Un anfitrión solicita un presupuesto a un organizador.
+- `QuoteAccepted`: Se formaliza el acuerdo financiero.
+- `SocialEventCreated`: Se inicia la planificación formal de un evento.
+- `TaskAssigned`: Se delega una responsabilidad operativa.
+- `SubscriptionPurchased`: Un organizador adquiere herramientas avanzadas.
+
+![event-storming](../..../../../assets/chapter-2/EventStorming.png)
 
 #### 2.5.1.1. Candidate Context Discovery
 
+Mediante la técnica de *look-for-pivotal-events*, identificamos los límites donde el lenguaje y las responsabilidades cambian:
+
+1.  **Identity and Access Management (IAM):** Autenticación y roles.
+2.  **Profiles and Preferences:** Identidad profesional y del cliente.
+3.  **Quote Management:** Negociación y proformas.
+4.  **Event Design and Planning:** Estructura conceptual del evento.
+5.  **Event Operations and Monitoring:** Ejecución (Kanban, tareas).
+6.  **Direct Communication:** Mensajería y alertas.
+7.  **Payments and Subscriptions:** Monetización.
+
 #### 2.5.1.2. Domain Message Flows Modeling
+
+Modelamos el flujo de mensajes para garantizar que los contextos colaboren sin acoplamientos innecesarios. Por ejemplo, cuando se dispara `QuoteAccepted` en el contexto de **Quotes**, el contexto de **Planning** reacciona creando una entidad `Event` base, heredando los servicios pactados en la proforma.
+
+![sequence-diagram](../..../../../assets/chapter-2/domain-message-flows.png)
 
 #### 2.5.1.3. Bounded Context Canvases
 
+A continuación, se detallan los canvaces de los contextos core de la solución:
+
+**Canvas: Quote Management**
+- **Propósito:** Facilitar la negociación transparente de costos entre anfitriones y organizadores.
+- **Business Rules:** 
+    - Toda cotización debe tener una fecha de validez.
+    - El precio total se calcula automáticamente sumando los items de servicio.
+- **Ubiquitous Language:** `Proforma`, `ServiceItem`, `ValidUntil`, `QuoteStatus`.
+
+**Canvas: Event Operations and Monitoring**
+- **Propósito:** Optimizar la ejecución logística del organizador en tiempo real.
+- **Business Rules:**
+    - No se pueden marcar tareas como completadas si dependen de una tarea previa activa.
+    - El progreso del evento se calcula en base al porcentaje de tareas en estado `Done`.
+- **Ubiquitous Language:** `TaskBoard`, `KanbanColumn`, `Hito`, `TaskPriority`.
+
 ### 2.5.2. Context Mapping
+
+El mapa de contextos visualiza cómo se comunican estos sub-sistemas, utilizando patrones estratégicos para proteger la integridad del modelo.
+
+| Relación | Tipo de Patrón | Justificación Técnica |
+| :--- | :--- | :--- |
+| **IAM -> Todos los Contextos** | Upstream/Downstream (OHS) | IAM provee un *Open Host Service* para que todos los contextos validen identidades de forma estandarizada. |
+| **Quotes -> Planning** | Customer/Supplier (ACL) | El contexto de Planificación actúa como *Supplier*. Implementamos una *Anti-Corruption Layer (ACL)* para que los cambios en la lógica de proformas no afecten el diseño del evento. |
+| **Planning <-> Operations** | Shared Kernel | Ambos contextos comparten la entidad `EventID` y metadatos básicos de fecha/local, ya que son el núcleo operativo común. |
+
+![context-mapping](../..../../../assets/chapter-2/context-mapping.png)
 
 ### 2.5.3. Software Architecture
 
+Aplicamos el modelo C4 para documentar la arquitectura desde el contexto general hasta el despliegue físico.
+
 #### 2.5.3.1. Software Architecture Context Level Diagrams
+
+El sistema **Eventify** se sitúa como el orquestador central que interactúa con el **Organizador** (usuario profesional) y el **Anfitrión** (usuario cliente). Se apoya en sistemas externos de **Notificaciones Push** y **Pasarelas de Pago** para completar su propuesta de valor.
+
+![context-diagram](../..../../../assets/chapter-2/context-diagram-eventify.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
+Descomponemos la solución en cinco contenedores principales para asegurar escalabilidad independiente:
+
+1.  **Web Applications (SPA - Vue.js):** Provee la interfaz de usuario reactiva para ambos roles.
+2.  **Landing Page:** Sitio optimizado para SEO que actúa como punto de entrada.
+3.  **API Platform (.NET Core):** Implementa los microservicios organizados por Bounded Contexts.
+4.  **Database (PostgreSQL):** Gestiona la persistencia con esquemas separados por contexto para evitar acoplamiento de datos.
+5.  **Firebase Services:** Utilizado para la autenticación rápida (Auth) y almacenamiento de imágenes (Storage).
+
+![container-diagram](../..../../../assets/chapter-2/container-diagram-eventify.png)
+
 #### 2.5.3.3. Software Architecture Deployment Diagrams
+
+La arquitectura de despliegue garantiza que la aplicación sea resiliente y accesible globalmente:
+
+- **Frontend:** Alojado en **Firebase Hosting** con CDN para minimizar la latencia.
+- **Backend:** Desplegado en **Render** mediante contenedores Docker, permitiendo despliegues continuos (CI/CD) desde GitHub.
+- **Base de Datos:** Instancia gestionada en **Render PostgreSQL** con backups automáticos y alta disponibilidad.
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
-### 2.6.1. Bounded Context: <Bounded Context Name>
+Siguiendo el modelo de arquitectura "Clean Architecture" y el patrón de diseño táctico de DDD con CQRS (Command Query Responsibility Segregation), el proyecto se ha dividido en capas que garantizan la separación de responsabilidades. A continuación, se detallan los Bounded Contexts principales del sistema Eventify.
+
+---
+
+### 2.6.1. Bounded Context: IAM (Identity and Access Management)
+
+Este contexto gestiona la autenticación, el registro y la seguridad de los usuarios de la plataforma.
 
 #### 2.6.1.1. Domain Layer
 
+**Sub-capa Model - Aggregates:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Aggregate | User | Clase para definir el Usuario de la aplicación. | Punto de entrada para modificar y mantener la integridad del usuario como entidad del dominio de identidad. | Relacionado con Profile y Event Management. |
+
+**Sub-capa Model - Commands:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Command | RegisterUserCommand | Comando para el registro de nuevos usuarios. | Representar la intención de crear una nueva cuenta. | Usado por el UserCommandService. |
+| Command | LoginUserCommand | Comando para la autenticación. | Representar la intención de iniciar sesión en el sistema. | Usado en el flujo de seguridad. |
+| Command | UpdateUserCommand | Comando para actualizar credenciales. | Representa la intención de cambiar contraseña o email. | Usado en la actualización de seguridad. |
+
+**Sub-capa Model - Queries:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Query | GetAllUsersQuery | Consulta para obtener todos los usuarios. | Representar la intención de obtener la lista de usuarios. | Usado en el servicio de consultas. |
+| Query | GetUserByEmailQuery | Consulta para obtener usuario por correo. | Buscar un usuario específico mediante su dirección de email. | Usado en el servicio de consultas y validación. |
+| Query | GetUserByIdQuery | Consulta para obtener un usuario por ID. | Buscar un usuario mediante su identificador único. | Usado para recuperación de datos de sesión. |
+
+**Sub-capa Model - Value Objects:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Value Object | UserRole | Rol del usuario en el sistema. | Representar los diferentes roles (ORGANIZER, HOST). | Atributo esencial de la entidad User. |
+
+**Sub-capa Services:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Interface | IUserCommandService | Servicio para métodos de escritura. | Definir la estructura clara para registro y actualización. | Implementado en la capa Application. |
+| Interface | IUserQueryService | Servicio para métodos de consulta. | Definir la estructura para lectura de datos de usuario. | Implementado en la capa Application. |
+
+**Sub-capa Repositories:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Interface | IUserRepository | Repositorio de persistencia del User. | Definir contratos para operaciones CRUD del usuario. | Implementado en la capa Infrastructure. |
+
 #### 2.6.1.2. Interface Layer
+
+**Sub-capa REST - Resources:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Resource | SignInResource | DTO para iniciar sesión. | Representar datos estructurados de login desde el cliente. | Uso en AuthenticationController. |
+| Resource | SignUpResource | DTO para registrar usuario. | Representar datos de registro iniciales. | Uso en AuthenticationController. |
+| Resource | UserResource | Estructura de datos del usuario. | Representar y exponer datos del dominio de forma segura. | Uso en el UsersController. |
+| Resource | AuthenticatedUserResource| Respuesta para usuario autenticado. | Representar datos y tokens tras un login exitoso. | Usado en AuthenticationController. |
+
+**Sub-capa REST - Transform:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Assembler | UserResourceFromEntityAssembler | Transformador REST. | Convertir entidad User a UserResource. | Usado en UsersController. |
+| Assembler | SignInCommandFromResourceAssembler | Transformador Comando. | Convertir SignInResource a LoginUserCommand. | Usado en AuthController. |
+| Assembler | SignUpCommandFromResourceAssembler | Transformador Comando. | Convertir SignUpResource a RegisterUserCommand. | Usado en AuthController. |
+
+**Sub-capa REST - Controllers:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Controller | AuthenticationController | Controlador de Auth. | Manejar peticiones HTTP de inicio de sesión y registro. | Usa CommandServices y Assemblers. |
+| Controller | UsersController | Controlador de usuarios. | Manejar peticiones HTTP para consultar usuarios. | Usa QueryServices y Assemblers. |
 
 #### 2.6.1.3. Application Layer
 
-#### 2.6.1.4 Infrastructure Layer
+**Sub-capa Internal:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| CommandHandler | UserCommandService | Implementación de comandos. | Ejecutar lógica de negocio para crear/modificar usuarios. | Implementa IUserCommandService. |
+| QueryHandler | UserQueryService | Implementación de consultas. | Ejecutar lógica para buscar usuarios (login/validación). | Implementa IUserQueryService. |
+| Service | TokenService | Interfaz para tokens. | Definir contratos para generación de JWT. | Implementado en Infra. |
+
+#### 2.6.1.4. Infrastructure Layer
+
+**Sub-capa Persistence & Security:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Repository | UserRepository | Implementación de DB. | Acceder y manipular datos persistidos en Entity Framework. | Implementa IUserRepository. |
+| Service | HashingService | Cifrado de contraseñas. | Hashear contraseñas usando BCrypt. | Usado por UserCommandService. |
+| Service | JwtTokenService | Implementación JWT. | Generar y validar tokens de sesión móviles. | Usado en AuthController. |
 
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+![Component Diagram IAM](../assets/chapter-IV/component-diagram-iam-spa.png)
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+**2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
+![Class Diagram IAM](../assets/chapter-IV/class-diagram.png)
 
-##### 2.6.1.6.2. Bounded Context Database Design Diagram
+**2.6.1.6.2. Bounded Context Database Design Diagram**
+![Database Diagram IAM](../assets/chapter-IV/database-diagram-eventify.png)
+
+**Tabla: Users**
+| Campo | Tipo | Nulo | Descripción |
+| :--- | :--- | :--- | :--- |
+| id | UUID (PK) | N-N | Identificador único del usuario. |
+| email | String | N-N | Correo electrónico único. |
+| password | String | N-N | Contraseña encriptada. |
+| name | String | N-N | Nombre completo del usuario. |
+| role | Enum | N-N | Rol asignado (ORGANIZER, HOST). |
+| is_active | Boolean | N-N | Estado de la cuenta. |
+| created_at | Date | N-N | Fecha de registro. |
+
+---
+
+### 2.6.2. Bounded Context: Event Management
+
+Este contexto centraliza la planificación y el seguimiento operativo de los eventos y sus tareas asociadas.
+
+#### 2.6.2.1. Domain Layer
+
+**Sub-capa Model - Aggregates & Entities:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Aggregate | Event | Entidad que representa un evento gestionado. | Mantener el estado y reglas de negocio del evento (fechas, presupuesto). | Controla las entidades Task. |
+| Entity | Task | Tarea relacionada a un evento. | Gestionar actividades específicas logísticas. | Pertenece a un Event. |
+| Entity | GuestList | Lista de invitados. | Gestionar la capacidad y asistentes al evento. | Pertenece a un Event. |
+
+**Sub-capa Model - Commands:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Command | CreateEventCommand | Intención de crear un evento. | Transportar datos de planificación inicial hacia el dominio. | Ejecutado por EventCommandService. |
+| Command | UpdateEventCommand | Comando de actualización. | Transportar cambios de presupuesto o estado. | Ejecutado por EventCommandService. |
+| Command | DeleteEventCommand | Comando de eliminación. | Indicar la cancelación y borrado lógico de un evento. | Ejecutado por EventCommandService. |
+| Command | CreateTaskCommand | Intención de crear una tarea. | Definir nuevas tareas con plazos y responsables. | Relacionado con un EventID. |
+
+**Sub-capa Model - Queries:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Query | GetAllEventsQuery | Consulta general de eventos. | Obtener la lista completa de eventos para el dashboard. | Usado en EventQueryService. |
+| Query | GetEventByIdQuery | Consulta de evento único. | Recuperar la información detallada de un evento. | Usado en EventQueryService. |
+| Query | GetTasksByEventIdQuery| Consulta de tareas. | Recuperar todas las tareas asignadas a un Kanban. | Usado en EventQueryService. |
+
+**Sub-capa Model - Value Objects:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Value Object | EventStatus | Estados del evento. | Controlar el ciclo de vida (PLANNING, CONFIRMED, CANCELLED).| Atributo de Event. |
+| Value Object | TaskStatus | Estados de la tarea. | Controlar el flujo (TODO, IN_PROGRESS, DONE). | Atributo de Task. |
+| Value Object | TaskPriority | Prioridades. | Clasificar la urgencia (LOW, MEDIUM, HIGH). | Atributo de Task. |
+
+**Sub-capa Services & Repositories:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Interface | IEventCommandService | Servicio de comandos. | Coordinar operaciones de escritura sobre eventos. | Implementado en Application. |
+| Interface | IEventQueryService | Servicio de consultas. | Coordinar lectura y filtrado de eventos y tareas. | Implementado en Application. |
+| Interface | IEventRepository | Repositorio de eventos. | Definir contratos CRUD para el aggregate Event. | Implementado en Infra. |
+| Interface | ITaskRepository | Repositorio de tareas. | Definir contratos CRUD para la entidad Task. | Implementado en Infra. |
+
+#### 2.6.2.2. Interface Layer
+
+**Sub-capa REST - Resources:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Resource | CreateEventResource | DTO de creación. | Recibir datos del cliente móvil para armar un evento. | Usado en EventsController. |
+| Resource | EventResource | DTO de salida de evento. | Exponer datos del evento de forma estructurada. | Usado en EventsController. |
+| Resource | TaskResource | DTO de salida de tarea. | Exponer datos de logística y tareas del Kanban. | Usado en TasksController. |
+
+**Sub-capa REST - Transform:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Assembler | EventResourceFromEntityAssembler | Transformador REST. | Convertir entidad Event a EventResource. | Usado en EventsController. |
+| Assembler | TaskResourceFromEntityAssembler | Transformador REST. | Convertir entidad Task a TaskResource. | Usado en TasksController. |
+| Assembler | CreateEventCommandFromResourceAssembler | Transformador Comando. | Convertir CreateEventResource a Comando. | Usado en EventsController. |
+
+**Sub-capa REST - Controllers:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Controller | EventsController | Controlador REST principal. | Exponer endpoints CRUD para Eventos a la app móvil. | Depende de Services. |
+| Controller | TasksController | Controlador de tareas. | Exponer endpoints para actualizar el tablero de tareas. | Depende de Services. |
+
+#### 2.6.2.3. Application Layer
+
+**Sub-capa Internal:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| CommandHandler | EventCommandService | Orquestador de escritura. | Validar reglas de negocio y delegar guardado al Repositorio. | Implementa IEventCommandService. |
+| QueryHandler | EventQueryService | Orquestador de lectura. | Ejecutar Queries y devolver colecciones de eventos/tareas. | Implementa IEventQueryService. |
+
+#### 2.6.2.4. Infrastructure Layer
+
+**Sub-capa Persistence:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Repository | EventRepository | Repositorio físico. | Acceder a la tabla Events mediante el ORM (EF Core). | Implementa IEventRepository. |
+| Repository | TaskRepository | Repositorio físico. | Acceder a la tabla Tasks mediante el ORM. | Implementa ITaskRepository. |
+
+#### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
+![Component Diagram Event Management](../assets/chapter-IV/component-diagram-event-design-spa.png)
+
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+**2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+![Class Diagram Event Management](../assets/chapter-IV/class-diagram.png)
+
+**2.6.2.6.2. Bounded Context Database Design Diagram**
+![Database Diagram Event Management](../assets/chapter-IV/database-diagram-eventify.png)
+
+**Tabla: Events**
+| Campo | Tipo | Nulo | Descripción |
+| :--- | :--- | :--- | :--- |
+| id | UUID (PK) | N-N | Identificador único del evento. |
+| organizer_id | UUID (FK) | N-N | Referencia al organizador responsable. |
+| host_id | UUID (FK) | N-N | Referencia al anfitrión del evento. |
+| title | String | N-N | Nombre oficial del evento. |
+| budget | Float | N-N | Monto máximo presupuestado. |
+| max_attendees | Int | N-N | Capacidad máxima de invitados. |
+| status | Enum | N-N | Estado (PLANNING, CONFIRMED, etc.). |
+
+**Tabla: Tasks**
+| Campo | Tipo | Nulo | Descripción |
+| :--- | :--- | :--- | :--- |
+| id | UUID (PK) | N-N | Identificador único de tarea. |
+| event_id | UUID (FK) | N-N | Referencia al evento padre. |
+| title | String | N-N | Nombre o resumen de la tarea. |
+| status | Enum | N-N | Estado en el tablero (TODO, IN_PROGRESS, DONE). |
+| priority | Enum | N-N | Prioridad logística (LOW, MEDIUM, HIGH). |
+| assigned_to | String | N-Y | Persona responsable asignada. |
+
+---
+
+### 2.6.3. Bounded Context: Communication
+
+Gestiona la interacción en tiempo real entre los participantes mediante chats y notificaciones del sistema.
+
+#### 2.6.3.1. Domain Layer
+
+**Sub-capa Model - Aggregates & Entities:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Aggregate | Chat | Conversación entre usuarios. | Mantener el historial y participantes de una sala de chat. | Contiene múltiples Messages. |
+| Aggregate | Notification | Notificación del sistema. | Alertar a los usuarios sobre eventos, pagos o cotizaciones. | Relacionado con UserId. |
+| Entity | Message | Mensaje unitario. | Encapsular el contenido, remitente y estado de lectura. | Pertenece a un Chat. |
+
+**Sub-capa Model - Commands & Queries:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Command | CreateChatCommand | Comando de creación. | Instanciar un nuevo canal de comunicación entre usuarios. | Usado en CommunicationService. |
+| Command | SendMessageCommand| Comando de envío. | Adjuntar un nuevo mensaje al historial de un chat. | Afecta a la entidad Message. |
+| Query | GetChatByIdQuery | Consulta de sala. | Recuperar la metadata de una conversación. | Usado en QueryService. |
+| Query | GetMessagesByChatIdQuery | Consulta de historial. | Cargar los mensajes previos para mostrarlos en la UI. | Usado en QueryService. |
+
+**Sub-capa Model - Value Objects:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Value Object | MessageStatus | Estado del mensaje. | Indicar si fue enviado, entregado o leído (SENT, DELIVERED, READ). | Atributo de Message. |
+| Value Object | NotificationType| Tipo de alerta. | Diferenciar alertas de sistema, recordatorios o mensajes. | Atributo de Notification. |
+
+#### 2.6.3.2. Interface Layer
+
+**Sub-capa REST - Resources & Transform:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Resource | MessageResource | DTO de mensaje. | Exponer el contenido del mensaje y su estado a la app. | Usado en CommunicationController. |
+| Resource | NotificationResource| DTO de notificación. | Transportar alertas al panel de notificaciones del móvil. | Usado en NotificationsController. |
+| Assembler | MessageResourceFromEntityAssembler | Transformador REST. | Convertir la entidad Message al DTO correspondiente. | Usado en Controladores. |
+
+**Sub-capa REST - Controllers:**
+| Tipo | Nombre | Descripción | Responsabilidad Principal | Relación con otros elementos |
+| :--- | :--- | :--- | :--- | :--- |
+| Controller | CommunicationController | API de Chats. | Exponer endpoints para recuperar y enviar mensajes. | Depende de los Application Services. |
+| Controller | NotificationsController | API de Alertas. | Exponer endpoints para listar y marcar alertas como leídas. | Depende de los Application Services. |
+
+#### 2.6.3.3. Application Layer
+Implementa el `CommunicationCommandService` para procesar el envío y recepción de mensajes, y orquesta servicios de mensajería push (ej. Firebase Cloud Messaging) para notificar al dispositivo móvil en tiempo real.
+
+#### 2.6.3.4. Infrastructure Layer
+Utiliza el `ChatRepository` y `MessageRepository` para persistir el historial en la base de datos relacional y asegurar que los mensajes no se pierdan.
+
+#### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
+![Component Diagram Communication](../assets/chapter-IV/component-diagram-communication-spa.png)
+
+#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+**2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+![Class Diagram Communication](../assets/chapter-IV/class-diagram.png)
+
+**2.6.3.6.2. Bounded Context Database Design Diagram**
+![Database Diagram Communication](../assets/chapter-IV/database-diagram-eventify.png)
+
+**Tabla: Messages**
+| Campo | Tipo | Nulo | Descripción |
+| :--- | :--- | :--- | :--- |
+| id | UUID (PK) | N-N | Identificador único del mensaje. |
+| chat_id | UUID (FK) | N-N | Relación con la sala de chat. |
+| sender_id | UUID (FK) | N-N | Remitente del mensaje (Referencia a User). |
+| content | Text | N-N | Cuerpo del mensaje de texto. |
+| sent_at | Date | N-N | Marca de tiempo del envío. |
+| status | Enum | N-N | Estado (SENT, DELIVERED, READ). |
