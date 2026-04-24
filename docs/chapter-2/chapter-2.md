@@ -22,9 +22,9 @@
                 <tr>
                     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
                     <td colspan="2">Eventify</td>
-                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
-                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
-                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
+                    <td colspan="2"><img src="../../assets/chapter-2/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
+                    <td colspan="2"><img src="../../assets/chapter-2/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
+                    <td colspan="2"><img src="../../assets/chapter-2/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
                 </tr>
             </tr>
             <tr>
@@ -166,6 +166,8 @@ Apostar por una identidad visual cálida, cercana y profesional, que conecte emo
   * Desarrollar una identidad visual con colores amigables y un logo simple pero memorable.
   * Utilizar redes sociales como Instagram, TikTok y Facebook para mostrar casos reales de uso de la app (antes y después de eventos organizados con Eventify).
   * Fomentar una comunidad activa alrededor de la marca, compartiendo consejos y experiencias sobre organización de eventos.
+
+<div style="page-break-after: always;"></div>
 
 ## 2.2. Entrevistas
 
@@ -542,6 +544,8 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
   <img src="../../assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
 </p>
 
+<div style="page-break-after: always;"></div>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -695,6 +699,8 @@ En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitrio
 
 **Transfer**: transportation of attendees (e.g., from hotel to event).
 
+<div style="page-break-after: always;"></div>
+
 ## 2.4. Requirements specification
 
 ### 2.4.1. User Stories
@@ -734,6 +740,8 @@ Regla: La información es comprensible y estructurada.
 </tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
 <th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
@@ -768,6 +776,8 @@ Regla: La comunicación es bidireccional entre usuarios.
 </td>
 </tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
@@ -804,6 +814,8 @@ Regla: El sistema muestra el estado del evento.
 </tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
 <th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
@@ -838,6 +850,8 @@ Regla: Maneja códigos de estado HTTP correctamente.
 </td>
 </tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
@@ -875,6 +889,8 @@ Regla: Permite calificar servicios.
 </tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
 <th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
@@ -910,6 +926,8 @@ Regla: Permite eliminar cuentas.
 </td>
 </tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -956,7 +974,7 @@ Regla: Permite eliminar cuentas.
   </tr>
 </table>
 
-
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr>
@@ -1001,6 +1019,8 @@ Entonces percibe lenguaje claro y comprensible
 </tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US03</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
@@ -1027,6 +1047,8 @@ Entonces visualiza contenido según su tipo de usuario
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US04</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
@@ -1052,6 +1074,8 @@ Cuando revisa contenido<br>
 Entonces la información se presenta de forma organizada
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1084,6 +1108,8 @@ Entonces se le presentan accesos disponibles
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US06</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
@@ -1109,6 +1135,8 @@ Cuando interactúa<br>
 Entonces puede controlar la reproducción
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1136,6 +1164,8 @@ Entonces accede a información externa
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US08</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
@@ -1162,6 +1192,8 @@ Entonces el sistema optimiza carga
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US09</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
@@ -1183,31 +1215,7 @@ Entonces visualiza precios claramente
 </td></tr>
 </table>
 
-<table border="1" style="border-collapse: collapse; width:100%;">
-<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
-<tr><td>US10</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
-
-<tr><th>Title</th><td colspan="3">Diseño responsive</td></tr>
-
-<tr><th colspan="4">Description</th></tr>
-<tr><td colspan="4">
-Como visitante quiere usar el sitio en cualquier dispositivo  
-para tener buena experiencia.
-</td></tr>
-
-<tr><th colspan="4">Acceptance Criteria</th></tr>
-<tr><td colspan="4">
-<b>Escenario 1</b><br>
-Dado que accede desde PC<br>
-Cuando visualiza<br>
-Entonces se adapta correctamente<br><br>
-
-<b>Escenario 2</b><br>
-Dado que accede desde móvil<br>
-Cuando visualiza<br>
-Entonces se adapta sin errores
-</td></tr>
-</table>
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1234,6 +1242,36 @@ Cuando visualiza<br>
 Entonces se adapta sin errores
 </td></tr>
 </table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US10</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Diseño responsive</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere usar el sitio en cualquier dispositivo  
+para tener buena experiencia.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que accede desde PC<br>
+Cuando visualiza<br>
+Entonces se adapta correctamente<br><br>
+
+<b>Escenario 2</b><br>
+Dado que accede desde móvil<br>
+Cuando visualiza<br>
+Entonces se adapta sin errores
+</td></tr>
+</table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1261,6 +1299,8 @@ Entonces visualiza conversaciones activas
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US12</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
@@ -1287,6 +1327,8 @@ Entonces el historial se muestra automáticamente
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US13</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
@@ -1312,6 +1354,8 @@ Cuando llega un mensaje<br>
 Entonces recibe una alerta visual
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1345,6 +1389,8 @@ Entonces estos se envían correctamente
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US15</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
@@ -1370,6 +1416,8 @@ Cuando el destinatario lo visualiza<br>
 Entonces el estado se actualiza
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1397,6 +1445,8 @@ Entonces identifica el mensaje pendiente
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US17</td><td>Organizador</td><td>High</td><td>EP03</td></tr>
@@ -1422,6 +1472,8 @@ Cuando confirma<br>
 Entonces se registra correctamente
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1449,6 +1501,8 @@ Entonces se refleja el cambio
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US19</td><td>Organizador</td><td>High</td><td>EP03</td></tr>
@@ -1474,6 +1528,8 @@ Cuando actualiza datos<br>
 Entonces se calcula saldo
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1501,6 +1557,8 @@ Entonces se notifica
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US21</td><td>Usuario</td><td>High</td><td>EP03</td></tr>
@@ -1527,6 +1585,8 @@ Entonces el cronograma se ajusta
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US22</td><td>Usuario</td><td>High</td><td>EP03</td></tr>
@@ -1552,6 +1612,8 @@ Cuando revisa<br>
 Entonces visualiza alertas
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1581,6 +1643,8 @@ Entonces el sistema muestra resultados acordes
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US24</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
@@ -1608,6 +1672,8 @@ Entonces visualiza las ofertas recibidas
 
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1637,6 +1703,8 @@ Entonces visualiza los datos del organizador contratado
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>US26</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
@@ -1664,6 +1732,8 @@ Entonces visualizan las calificaciones publicadas
 
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1693,6 +1763,8 @@ Entonces la reseña se refleja en el perfil
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS01</td><td>Developer</td><td>High</td><td>EP04</td></tr>
@@ -1718,6 +1790,8 @@ Cuando recibe datos duplicados<br>
 Entonces responde con código 400
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1745,6 +1819,8 @@ Entonces responde con código 404
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS03</td><td>Developer</td><td>High</td><td>EP04</td></tr>
@@ -1770,6 +1846,8 @@ Cuando recibe un ID inválido<br>
 Entonces responde con código 404
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1797,6 +1875,8 @@ Entonces responde con código 404
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS05</td><td>Developer</td><td>High</td><td>EP06</td></tr>
@@ -1822,6 +1902,8 @@ Cuando procesa<br>
 Entonces responde con 400
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1849,6 +1931,8 @@ Entonces responde con 404
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS07</td><td>Developer</td><td>High</td><td>EP06</td></tr>
@@ -1874,6 +1958,8 @@ Cuando procesa<br>
 Entonces responde con 404
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1901,6 +1987,8 @@ Entonces responde con 404
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS09</td><td>Developer</td><td>High</td><td>EP06</td></tr>
@@ -1926,6 +2014,8 @@ Cuando consulta<br>
 Entonces responde con 404
 </td></tr>
 </table>
+
+<br>
 
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
@@ -1953,6 +2043,8 @@ Entonces responde con coincidencias
 </td></tr>
 </table>
 
+<br>
+
 <table border="1" style="border-collapse: collapse; width:100%;">
 <tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
 <tr><td>TS11</td><td>Developer</td><td>High</td><td>EP06</td></tr>
@@ -1979,6 +2071,8 @@ Entonces responde con 404
 </td></tr>
 </table> 
 
+<br>
+
 ### 2.4.2. Impact Mapping
 
 El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
@@ -1995,43 +2089,45 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 
 En este segmento del informe otorgaremos a las historias de usuario un peso basándonos en la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario. <b>Enlace a Trello: </b>https://trello.com/b/NknfxMfU/product-backlog
 
-| #Orden | User Story Id | Titulo                                      | Descripción                                                                                                                                                                        | StoryPoints (1 / 2 / 3 / 5/ 8) |
-|--------|---------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| 1      | US11          | Chat integrado en la plataforma               | Como usuario (organizador o anfitrión), quiero acceder a un chat dentro de la plataforma, para comunicarme directamente con la otra parte sin salir de la aplicación.                                             | 8                              |
-| 2      | US12          | Historial de mensajes   | Como usuario (organizador o anfitrión), quiero poder revisar conversaciones anteriores, para no olvidar acuerdos o detalles importantes del evento.                | 8                              |
-| 3      | US15          | Estado del mensaje (enviado, recibido, leído)                    | Como organizador o anfitrión, quiero ver el estado de mis mensajes enviados, para saber si han sido leídos por la otra persona.                             | 8                              |
-| 4      | US14          | Envío de archivos (PDF, imágenes, etc.)                 |Como organizador o anfitrión, quiero poder enviar y recibir archivos dentro del chat, para compartir cotizaciones, formularios, referencias visuales o documentos importantes.                                                                       | 8                              |
-| 5      | US13          | Notificaciones de nuevos mensajes                   | Como usuario (organizador o anfitrión), quiero recibir notificaciones cuando tengo un nuevo mensaje, para mantenerme al tanto de la conversación sin retrasos. mí.                                      | 5                              |
-| 6      | US16          | Notificación por email si no estoy conectado      | Como organizador o anfitrión, quiero recibir notificaciones fuera de la app si tengo mensajes sin leer, para no perderme nada importante cuando no estoy conectado. | 5                              |
-| 7      | US19          | Gestión de presupuesto del evento                       | Como organizador, quiero definir un presupuesto y registrar los gastos del evento, para mantener el control financiero.                                  | 5                              |
-| 8      | US17          | Registro de nuevo evento                     |Como organizador, quiero registrar un nuevo evento con sus detalles básicos, para iniciar su planificación dentro de la plataforma.                                                            | 5                              |
-| 9      | US18          | Lista de tareas del evento                          | Como organizador o anfitrión, quiero crear y seguir una lista de tareas para cada evento para asegurarme de no olvidar nada importante.                                              | 5                              |
-| 10     | US20          | Asignación de roles dentro del evento      | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas.                              | 5                              |
-| 11     | US21          | Vista de cronograma del evento                         | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento.                                | 5                              |
-| 12     | US25          | Contratar organizador                 | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto.         | 3                              |
-| 13     | US23          | 	Visualizar perfiles de organizadores         | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos.                                                    | 3                              |
-| 14     | US22          | Visualización de resumen del evento                 | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación.                                       | 3                              |
-| 15     | US24          | Solicitar cotización a un organizador | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.              | 3                              |
-| 16     | US26          | Calificar organizador tras evento       | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas.                                                            | 3                              |
-| 17     | US27          | Editar reseña publicada                   | Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador para corregir o actualizar mi opinión si es necesario.                                 | 3                              |
-| 18     | US10          | Diseño responsive                  |Como visitante quiero que el landing page se vea y funcione correctamente desde cualquier dispositivo para tener una experiencia fluida y consistente en todo momento.                                                   |      3                          |
-| 19     | US01          | Navegación sencilla               | Como visitante quiero que la landing page me permita navegar fácilmente entre secciones, para acceder directamente a la sección que me interesa, sin tener que desplazarme por todo el contenido.                                 | 2                              |
-| 20     | US02          | Propuesta de valor clara                            | Como visitante quiero entender rápidamente que ofrece la aplicación para saber si es relevante para mi (organizador o anfitrión)                         | 2                              |
-| 21     | US03          | Información segmentada             | Como visitante quiero ver información relacionada con mi rol (organizador o anfitrión) para identificar como puede ayudarme la aplicación                                          | 2                              |
-| 22     | US04          | Funcionalidades de la aplicación             | Como visitante quiero que el landing page me muestre una lista de las funcionalidades que ofrece la aplicación para saber si cubre mis necesidades.                                          | 2                              |
-| 23     | US06          | Visualización de tutorial de la aplicación   |Como visitant quiero que el landing page me muestre visualmente como funciona la aplicación para tener una idea concreta de como debo usarla.                                         | 2                              |
-| 24     | US07          | 	Confianza y seguridad             | Como visitante, quiero que el landing page me muestre quienes fueron los encargados en desarrollar la aplicación para verificar que es segura y confiable.                                         | 2                              |
-| 25     | US09          | Visualización de precios             | Como visitante quiero ver claramente los planes de los productos ofrecidos en la landing page para evaluar si se ajustan a mi presupuesto.                                          | 2                              |
-| 26     | US05          | Llamada a la acción             | Como visitante quiero que el landing page me de la opción de acceder directamente a la aplicación para comenzar a utilizarla                                          | 1                              |
-| 27     | US08          | Velocidad de carga             | Como visitante quiero que el landing page cargue rápidamente para no perder el interés.                                          | 1                              |
+| #Orden | User Story Id | Titulo                                        | Descripción                                                                                                                                                                                       | StoryPoints (1 / 2 / 3 / 5/ 8) |
+|--------|---------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| 1      | US11          | Chat integrado en la plataforma               | Como usuario (organizador o anfitrión), quiero acceder a un chat dentro de la plataforma, para comunicarme directamente con la otra parte sin salir de la aplicación.                             | 8                              |
+| 2      | US12          | Historial de mensajes                         | Como usuario (organizador o anfitrión), quiero poder revisar conversaciones anteriores, para no olvidar acuerdos o detalles importantes del evento.                                               | 8                              |
+| 3      | US15          | Estado del mensaje (enviado, recibido, leído) | Como organizador o anfitrión, quiero ver el estado de mis mensajes enviados, para saber si han sido leídos por la otra persona.                                                                   | 8                              |
+| 4      | US14          | Envío de archivos (PDF, imágenes, etc.)       | Como organizador o anfitrión, quiero poder enviar y recibir archivos dentro del chat, para compartir cotizaciones, formularios, referencias visuales o documentos importantes.                    | 8                              |
+| 5      | US13          | Notificaciones de nuevos mensajes             | Como usuario (organizador o anfitrión), quiero recibir notificaciones cuando tengo un nuevo mensaje, para mantenerme al tanto de la conversación sin retrasos. mí.                                | 5                              |
+| 6      | US16          | Notificación por email si no estoy conectado  | Como organizador o anfitrión, quiero recibir notificaciones fuera de la app si tengo mensajes sin leer, para no perderme nada importante cuando no estoy conectado.                               | 5                              |
+| 7      | US19          | Gestión de presupuesto del evento             | Como organizador, quiero definir un presupuesto y registrar los gastos del evento, para mantener el control financiero.                                                                           | 5                              |
+| 8      | US17          | Registro de nuevo evento                      | Como organizador, quiero registrar un nuevo evento con sus detalles básicos, para iniciar su planificación dentro de la plataforma.                                                               | 5                              |
+| 9      | US18          | Lista de tareas del evento                    | Como organizador o anfitrión, quiero crear y seguir una lista de tareas para cada evento para asegurarme de no olvidar nada importante.                                                           | 5                              |
+| 10     | US20          | Asignación de roles dentro del evento         | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas.                                                                            | 5                              |
+| 11     | US21          | Vista de cronograma del evento                | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento.                                            | 5                              |
+| 12     | US25          | Contratar organizador                         | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto.                                    | 3                              |
+| 13     | US23          | 	Visualizar perfiles de organizadores     | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos.                                                     | 3                              |
+| 14     | US22          | Visualización de resumen del evento           | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación.                                                                    | 3                              |
+| 15     | US24          | Solicitar cotización a un organizador         | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.                       | 3                              |
+| 16     | US26          | Calificar organizador tras evento             | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas.                                         | 3                              |
+| 17     | US27          | Editar reseña publicada                       | Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador para corregir o actualizar mi opinión si es necesario.                                                        | 3                              |
+| 18     | US10          | Diseño responsive                             | Como visitante quiero que el landing page se vea y funcione correctamente desde cualquier dispositivo para tener una experiencia fluida y consistente en todo momento.                            | 3                              |
+| 19     | US01          | Navegación sencilla                           | Como visitante quiero que la landing page me permita navegar fácilmente entre secciones, para acceder directamente a la sección que me interesa, sin tener que desplazarme por todo el contenido. | 2                              |
+| 20     | US02          | Propuesta de valor clara                      | Como visitante quiero entender rápidamente que ofrece la aplicación para saber si es relevante para mi (organizador o anfitrión)                                                                  | 2                              |
+| 21     | US03          | Información segmentada                        | Como visitante quiero ver información relacionada con mi rol (organizador o anfitrión) para identificar como puede ayudarme la aplicación                                                         | 2                              |
+| 22     | US04          | Funcionalidades de la aplicación              | Como visitante quiero que el landing page me muestre una lista de las funcionalidades que ofrece la aplicación para saber si cubre mis necesidades.                                               | 2                              |
+| 23     | US06          | Visualización de tutorial de la aplicación    |Como visitant quiero que el landing page me muestre visualmente como funciona la aplicación para tener una idea concreta de como debo usarla.                                                      | 2                              |
+| 24     | US07          | Confianza y seguridad                         | Como visitante, quiero que el landing page me muestre quienes fueron los encargados en desarrollar la aplicación para verificar que es segura y confiable.                                        | 2                              |
+| 25     | US09          | Visualización de precios                      | Como visitante quiero ver claramente los planes de los productos ofrecidos en la landing page para evaluar si se ajustan a mi presupuesto.                                                        | 2                              |
+| 26     | US05          | Llamada a la acción                           | Como visitante quiero que el landing page me de la opción de acceder directamente a la aplicación para comenzar a utilizarla                                                                      | 1                              |
+| 27     | US08          | Velocidad de carga                            | Como visitante quiero que el landing page cargue rápidamente para no perder el interés.                                                                                                           | 1                              |
+
+<div style="page-break-after: always;"></div>
 
 ## 2.5. Strategic-Level Domain-Driven Design
 
 En esta sección se detalla el proceso de diseño estratégico aplicando Domain-Driven Design (DDD) para descomponer la complejidad del sistema Eventify en subconjuntos con límites naturales. Se utilizaron herramientas como Miro para el EventStorming y Lucidchart para el mapeo de contextos.
 
-### 2.5.1. EventStorming
+### 2.5.1. Event Storming
 
-Se llevó a cabo una sesión de **Big Picture EventStorming** donde el equipo identificó los eventos significativos del dominio, sus disparadores y las consecuencias en el estado del negocio. Este proceso permitió alinear el entendimiento técnico con los procesos de negocio reales de un organizador de eventos.
+Se llevó a cabo una sesión de **Big Picture Event Storming** donde el equipo identificó los eventos significativos del dominio, sus disparadores y las consecuencias en el estado del negocio. Este proceso permitió alinear el entendimiento técnico con los procesos de negocio reales de un organizador de eventos.
 
 **Eventos de Dominio Clave:**
 - `UserRegistered`: Un nuevo usuario se une a la plataforma.
@@ -2120,6 +2216,8 @@ La arquitectura de despliegue garantiza que la aplicación sea resiliente y acce
 - **Frontend:** Alojado en **Firebase Hosting** con CDN para minimizar la latencia.
 - **Backend:** Desplegado en **Render** mediante contenedores Docker, permitiendo despliegues continuos (CI/CD) desde GitHub.
 - **Base de Datos:** Instancia gestionada en **Render PostgreSQL** con backups automáticos y alta disponibilidad.
+
+<div style="page-break-after: always;"></div>
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
@@ -2315,7 +2413,7 @@ Este contexto centraliza la planificación y el seguimiento operativo de los eve
 | Repository | TaskRepository | Repositorio físico. | Acceder a la tabla Tasks mediante el ORM. | Implementa ITaskRepository. |
 
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
-![Component Diagram Event Management](../../assets/component-diagram-event-design-spa.png)
+![Component Diagram Event Management](../../assets/chapter-2/component-diagram-event-design-spa.png)
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
