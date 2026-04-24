@@ -28,6 +28,9 @@ Nuestra visión es consolidarnos como una startup de referencia en la creación 
 | ![profile-duran-antonio](../../assets/chapter-1/profile-duran-antonio.png) | Duran Diaz, Antonio Rodrigo | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. En este proyecto espero seguir mejorando mis habilidades y conocimientos, además de lograr un buen desempeño en el trabajo grupal |
 | ![profile-nakasone-marco](../../assets/chapter-1/profile-nakasone-marco.jpeg) | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Mi nombre es Marco Antonio Nakasone Gomes y mi código es u202210790. Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Mis principal habilidad es la programacion, destaco en el desarrollo de software, los principales lenguajes que domino son C++, python, java y C#. |
 | ![profile-teves-joan](../../assets/chapter-1/profile-teves-joan.jpeg) | Teves Samaniego, Joan Fernando | Ingeniería de Software | Soy estudiante de ciclos superiores de Ingeniería de Software en la UPC. Me destaco como desarrollador full-stack con amplia experiencia en frameworks como Vue.js, Astro, Django y FastAPI. Actualmente formo parte de Huawei como practicante pre-profesional en el rol de SEC Trainee. En este proyecto, busco aportar mi visión técnica y arquitectónica para desarrollar una solución robusta y escalable. |
+
+<div style="page-break-after: always;"></div>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -187,7 +190,6 @@ We believe that [business outcome] will be achieved if [user] attains [benefit] 
 - **Creemos que**, si ofrecemos a los clientes la opción de reservar eventos con anticipación y pagar en cuotas, **esto logrará**  tasas de reserva más altas y un mejor flujo de efectivo para los organizadores de eventos.
 - **Sabremos que esto es cierto cuando** veamos un aumento del 15% en las reservas anticipadas y una reducción del 10% en las cancelaciones de última hora.
 
-
 #### Hipótesis 5
 - **Creemos que**, si implementamos un sistema de reseñas y calificaciones detalladas para los organizadores de eventos, **esto logrará** una mayor confianza por parte de los clientes al seleccionar organizadores y aumentará la satisfacción general con la plataforma.
 - **Sabremos que esto es cierto cuando** observemos un aumento del 30% en las reservas realizadas después de leer reseñas y un incremento del 25% en la calificación promedio de la experiencia de los usuarios.
@@ -219,6 +221,8 @@ El Lean UX Canvas de OrganiX identifica los problemas de los clientes para encon
 | **Hypotheses** | **What's the most important thing we need to learn first** | **What's the least amount of work we need to do to learn the next most important thing?** |
 |----------------|-----------------------------------------|---------------------------------------------------------|
 | - Los clientes podrán encontrar organizadores adecuados de manera más rápida y eficiente mediante perfiles detallados y filtros avanzados, lo que reducirá significativamente el tiempo dedicado a la búsqueda y aumentará la tasa de reservas exitosas a través de la plataforma. <br>- La integración de un sistema de mensajería en tiempo real facilitará la comunicación directa entre clientes y organizadores, mejorando la coordinación y confirmación de eventos, y reduciendo el número de cancelaciones debidas a malas comunicaciones. <br>- Los organizadores podrán gestionar sus eventos, calendarios, pagos y contratos desde una plataforma centralizada y fácil de usar, lo que optimizará su productividad, reducirá los errores en la planificación y aumentará la retención de organizadores gracias a una experiencia más fluida y eficiente. | - Aprender si los organizadores realmente necesitan herramientas centralizadas para gestionar eventos, pagos y tareas en un solo lugar. Esto nos ayudará a saber si la integración de estas funciones mejora la productividad de los organizadores y reduce los errores en la planificación de eventos. <br>- Aprender si los clientes realmente pueden encontrar organizadores adecuados de manera eficiente al utilizar los filtros avanzados y perfiles detallados. Esto nos ayudará a saber si nuestras soluciones de búsqueda realmente mejoran la experiencia del usuario y aumentan las reservas. | - Desarrollaremos una versión básica del sistema de búsqueda con filtros avanzados y perfiles detallados de organizadores. Luego, realizaremos pruebas con usuarios para medir si se reduce el tiempo de búsqueda en un 25% y se aumentan las reservas exitosas en un 20%. <br>- Integraremos una función básica que permita a los organizadores gestionar sus horarios, pagos y tareas en un solo lugar. A continuación, observaremos si los organizadores aumentan su productividad en un 20% y si la retención de organizadores mejora en un 10%. <br>- Implementaremos una función simple de mensajería en la plataforma, y evaluaremos si la herramienta mejora las confirmaciones de eventos en un 25% y reduce las cancelaciones en un 15%. |
+
+<div style="page-break-after: always;"></div>
 
 ## 1.3. Segmentos objetivo
 
