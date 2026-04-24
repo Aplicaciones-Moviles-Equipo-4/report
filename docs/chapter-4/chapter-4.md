@@ -56,7 +56,7 @@ Se recomienda continuar con procesos de validación constante con usuarios reale
 
 ### Video App Validation
 
-### Video Abput the product
+### Video About the product
 
 ### Video About the team
 
