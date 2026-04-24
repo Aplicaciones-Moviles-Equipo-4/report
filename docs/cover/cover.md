@@ -175,8 +175,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico  | Acciones realizadas | Conclusiones |
 |----------------------|---------------------|--------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* Apliqué conceptos de Domain-Driven Design (DDD) a nivel estratégico, desarrollando EventStorming para el análisis del dominio, modelando flujos de mensajes y definiendo Bounded Contexts. Además, elaboré el Context Mapping y los diagramas de arquitectura (contexto, contenedores y despliegue). <br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:**<br>• *Armestar Heredia, Matias Gabriel:* <br>• *Crisanto Calle, Deybbi Anderson:* <br>• *Duran Diaz, Antonio Rodrigo:* <br>• *Nakasone Gomes, Marco Antonio:* Investigué y aprendí de forma autónoma sobre EventStorming, Context Mapping y arquitectura de software para aplicarlos en el proyecto, adaptando la teoría a un caso real.<br>• *Teves Samaniego, Joan Fernando:* <br><br> | **AV1:**<br>  <br><br> |
 
 ---
 
@@ -187,7 +187,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Armestar Heredia, Matias Gabriel |                 |
 | Crisanto Calle, Deybbi Anderson  |                 |
 | Duran Diaz, Antonio Rodrigo      |                 |
-| Nakasone Gomes, Marco Antonio    |                 |
+| Nakasone Gomes, Marco Antonio    |Fortalecer mis competencias en ingeniería de software aplicando metodologías y herramientas modernas para diseñar soluciones alineadas a necesidades reales del negocio.                 |
 | Teves Samaniego, Joan Fernando   |                 |
 
 ---
