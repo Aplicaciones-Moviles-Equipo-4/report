@@ -22,9 +22,9 @@
                 <tr>
                     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
                     <td colspan="2">Eventify</td>
-                    <td colspan="2"><img src="/assets/chapter-2/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
-                    <td colspan="2"><img src="/assets/chapter-2/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
-                    <td colspan="2"><img src="/assets/chapter-2/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
+                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-1.png" style="width: 60px; height: auto;"><br>Bizzabo</td>
+                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-2.jpg" style="width: 60px; height: auto;"><br>PartySlate</td>
+                    <td colspan="2"><img src="../..../../../assets/chapter-2/competidor-3.png" style="width: 60px; height: auto;"><br>Eventective</td>
                 </tr>
             </tr>
             <tr>
@@ -269,7 +269,7 @@ A continuación, se presentará un resumen de cada entrevista realizada a los se
 
 **Entrevista 1: John Rafael Cutiri Chinchay**
 
-![Anfitrion 1](../assets/chapter-2/entrevista-anfitrion-1.png)
+![Anfitrion 1](../..../../../assets/chapter-2/entrevista-anfitrion-1.png)
 *_Evidencia en fotografía de Entrevista 1 hacia John Rafael Cutiri Chinchay - Segmento Anfitriones_*
 
 **Datos del entrevistado**
@@ -298,7 +298,7 @@ A pesar de los inconvenientes, el entrevistado se mostró satisfecho con el resu
 
 **Entrevista 2: Cenith Luque García**
 
-![Anfitrion 2](../../assets/chapter-2/entrevista-anfitri%C3%B3n-2.png)
+![Anfitrion 2](../..../../../assets/chapter-2/entrevista-anfitri%C3%B3n-2.png)
 *_Evidencia en fotografía de Entrevista 2 hacia Cenith Luque García - Segmento Anfitriones_*
 
 **Datos del entrevistado**
@@ -326,7 +326,7 @@ Finalmente, la entrevistada afirmó que recomendaría al organizador del evento,
 
 **Entrevista 3: Anacristina Reymundo Mamani**
 
-![Anfitrion_3](../assets/chapter-2/entrevista-anfitrión-3.png)
+![Anfitrion_3](../..../../../assets/chapter-2/entrevista-anfitrión-3.png)
 
 *_Evidencia en fotografía de Entrevista 3 hacia Anacristina Reymundo Mamani - Segmento Anfitriones_*
 
@@ -365,7 +365,7 @@ Los aspectos más frustrantes fueron la falta de comunicación oportuna y alguno
 
 **Entrevista 1: Teodoro Paico Sernaqué**
 
-![Organizador-1](../assets/chapter-2/entrevista-organizador-1.png)
+![Organizador-1](../..../../../assets/chapter-2/entrevista-organizador-1.png)
 *_Evidencia en fotografía de Entrevista 1 hacia Teodoro Paico Sernaqué - Segmento Organizadores_*
 
 **Datos del entrevistado:**
@@ -394,7 +394,7 @@ Un aspecto que considera importante mejorar es la automatización del control y 
 
 **Entrevista 2: Jaicob Diaz**
 
-![Organizador-2](/assets/chapter-2/entrevista-organizador-2.png)
+![Organizador-2](../..../../../assets/chapter-2/entrevista-organizador-2.png)
 
 *_Evidencia en fotografía de Entrevista 2 hacia Jaicob Diaz - Segmento Organizadores_*
 
@@ -425,7 +425,7 @@ Considera que un aspecto para automatizar es la organización de los contactos o
 
 **Entrevista 3: Sara Goveya**
 
-![Organizador-3](/assets/chapter-2/entrevista-organizador-3.jpeg)
+![Organizador-3](../..../../../assets/chapter-2/entrevista-organizador-3.jpeg)
 *_Evidencia en fotografía de Entrevista 3 hacia Sara Goveya - Segmento Organizadores_*
 
 **Datos del entrevistado:**
@@ -459,87 +459,87 @@ A través de gráficos estadísticos, se muestran los resultados más relevantes
 - Segmento Objetivo 1: Anfitriones de Eventos
 
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_1.png" alt="Grafico_Anfitriones_1" width="60%">
   <br> Los resultados muestran que el 60% de anfitriones utilizan celular para comunicarse con su organizador, mientras que el 40% restante se equilibra en Pc y laptop <br>
 
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_2.png" alt="Grafico_Anfitriones_2" width="60%">
     <br> Gráfico acerca del tipo de evento que contrataron <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_3.png" alt="Grafico_Anfitriones_3" width="60%">
   <br> Gráfico acerca de cómo encontraron a su organizador de eventos <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_4.png" alt="Grafico_Anfitriones_4" width="60%">
 <br> Gráfico acerca de servicios que les costó entender o comparar <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_5.png" alt="Grafico_Anfitriones_5" width="60%">
 <br> Gráfico acerca la valoración de la comunicación con su organizador durante el proceso. <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_6.png" alt="Grafico_Anfitriones_6" width="60%">
 <br> Gráfico acerca de los medios de comunicación con la que interactuaron con su organizador <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_7.png" alt="Grafico_Anfitriones_7" width="60%">
 
 <br>
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_8.png" alt="Grafico_Anfitriones_8" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_9.png" alt="Grafico_Anfitriones_9" width="60%">
 </p><p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Anfitriones_10.png" alt="Grafico_Anfitriones_10" width="60%">
 </p>
 
 - Segmento Objetivo 2: Oreganizadores de Eventos
 
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_1.png" alt="Grafico_Excel_Organizadores_1" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_2.png" alt="Grafico_Excel_Organizadores_2" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_3.png" alt="Grafico_Excel_Organizadores_3" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_4.png" alt="Grafico_Excel_Organizadores_4" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_5.png" alt="Grafico_Excel_Organizadores_5" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_6.png" alt="Grafico_Excel_Organizadores_6" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_7.png" alt="Grafico_Excel_Organizadores_7" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_8.png" alt="Grafico_Excel_Organizadores_8" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_9.png" alt="Grafico_Excel_Organizadores_9" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_10.png" alt="Grafico_Excel_Organizadores_10" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_11.png" alt="Grafico_Excel_Organizadores_11" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_12.png" alt="Grafico_Excel_Organizadores_12" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_13.png" alt="Grafico_Excel_Organizadores_13" width="60%">
 </p>
 <p align="center">
-  <img src="/assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
+  <img src="../..../../../assets/chapter-2/Grafico_Excel_Organizadores_14.png" alt="Grafico_Excel_Organizadores_14" width="60%">
 </p>
 
 ## 2.3. Needfinding
@@ -551,12 +551,12 @@ En esta sección se presentarán los User Personas de cada segmento objetivo. Es
 
 **Segmento Objetivo: Organizadores de eventos sociales no masivos**
 
-![user-persona-organizador.png](../../assets/chapter-2/user-persona-organizador.png)
+![user-persona-organizador.png](../..../../../assets/chapter-2/user-persona-organizador.png)
 
  <br>
 
 **Segmento Objetivo: Anfitriones de eventos**
-![user-persona-host](../../assets/chapter-2/user-persona-anfitrion.png)
+![user-persona-host](../..../../../assets/chapter-2/user-persona-anfitrion.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -614,10 +614,10 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 #### User Journey Mapping - Segmento Organizador de eventos no masivos
 
-![User Journey Mapping - Organizador.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Organizador.png)
+![User Journey Mapping - Organizador.png](../..../../../assets/chapter-2/User%20Journey%20Mapping%20-%20Organizador.png)
 #### User Journey Mapping - Segmento Anfitrion
 
-![User Journey Mapping - Anfitrion.png](../../assets/chapter-2/User%20Journey%20Mapping%20-%20Anfitrion.png)
+![User Journey Mapping - Anfitrion.png](../..../../../assets/chapter-2/User%20Journey%20Mapping%20-%20Anfitrion.png)
 
 ### 2.3.4. Empathy Mapping
 
@@ -628,12 +628,12 @@ El empathy mapping es una herramienta que nos permite comprender en profundidad 
 
 Este mapa se enfoca en Francisco Mendoza, un organizador de eventos experimentado que desea gestionar sus procesos de forma más eficiente y destacarse en un mercado competitivo. A través de esta herramienta, identificamos sus motivaciones, necesidades operativas y los principales desafíos que enfrenta en su día a día.
 
-![empathy-map-organizador.png](../../assets/chapter-2/empathy-map-organizador.png)
+![empathy-map-organizador.png](../..../../../assets/chapter-2/empathy-map-organizador.png)
 **Segmento Objetivo: Anfitriones de eventos** <br>
 
 En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitriona que busca ofrecer experiencias únicas a sus invitados sin tener que lidiar con el estrés de la logística. Aquí entendemos sus deseos, frustraciones y la manera en que se relaciona con los organizadores de eventos.
 
-![empathy-map-anfitrion.png](../../assets/chapter-2/empathy-map-anfitrion.png)
+![empathy-map-anfitrion.png](../..../../../assets/chapter-2/empathy-map-anfitrion.png)
 
 ### 2.3.5. Big Picture Event Storming
 
@@ -700,53 +700,1284 @@ En este mapa de empatía exploramos la perspectiva de Laura Gómez, una anfitrio
 ### 2.4.1. User Stories
 En esta sección del informe se presentarán las épicas (EP), user stories (US) y technical stories (TS) definidas para el desarrollo tanto de la aplicación web como del landing page. Las user stories abordarán las funcionalidades orientadas al usuario final, mientras que las technical stories estarán enfocadas en los requerimientos técnicos del backend.
 
-| Epic/Story ID | Título                                        | Descripción                                                                                                                                                                                                                          | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
-|------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| EP01       | Diseño y Desarrollo de Landing page           | **Como** visitante <br> **Quiero** acceder a una landing page clara y atractiva <br> **Para** entender de que trata la aplicación, si es confiable y me permita acceder a la aplicación si cumple con mis necesidades.               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
-| US01       | Navegación sencilla                           | **Como** visitante <br> **Quiero** que la landing page me permita navegar fácilmente entre secciones, <br> **Para** acceder directamente a la sección que me interesa, sin tener que desplazarme por todo el contenido.              | **Escenario 01: Acceso a la información sobre el uso del producto** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** consulta información sobre el uso de la aplicación <br> **Entonces** el landing page lo dirige al contenido que describe como se usa la aplicación <br><br> **Escenario 02: Acceso a la información sobre las funcionalidades** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** busca información sobre las funcionalidades de la aplicación <br> **Entonces** el landing page lo dirige al contenido correspondiente a las funcionalidades <br><br> **Escenario 03: Acceso a la información sobre beneficios** <br> **Dado** que un visitante accede al landing page <br> **Cuando** busca información sobre los beneficios de la aplicación<br> **Entonces,** el landing page lo dirige a la información correspondiente a los beneficios <br><br> **Escenario 04: Acceso a la información sobre planes de suscripción** <br> **Dado** que un visitante accede al landing page <br> **Cuando** consulta información sobre las opciones disponibles de suscripción <br> **Entonces**, el landing page lo dirige al contenido relacionado con los planes de suscripción <br><br> **Escenario 05: Acceso a la información sobre el equipo de desarrollo** <br> **Dado** que un visitante accede al landing page <br> **Cuando** consulta información sobre quienes desarrollaron la aplicación<br> **Entonces** el landing page lo dirige al contenido referente al equipo desarrollo. <br><br> | EP01                      |
-| US02       | Propuesta de valor clara                      | **Como** visitante <br> **Quiero** entender rápidamente que ofrece la aplicación <br> **Para** saber si es relevante para mi (organizador o anfitrión)                                                                               | **Escenario 01: Visualización de la propuesta de valor** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** visualiza el contenido principal <br> **Entonces** identifica rápidamente la propuesta de valor que ofrece la aplicación. <br><br> **Escenario 02: Lenguaje claro y directo** <br> **Dado** que un visitante accede al landing page <br> **Cuando** recorre el contenido de la página <br> **Entonces** percibe un lenguaje claro, sencillo y empático.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP01                      |
-| US03       | Información segmentada                        | **Como** visitante <br> **Quiero** ver información relacionada con mi rol (organizador o anfitrión) <br> **Para** identificar como puede ayudarme la aplicación                                                                      | **Escenario 01: Presentación de beneficios segmentados por tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado con los beneficios de la aplicación <br> **Entonces** visualiza la información segmentada según el tipo de usuario <br><br> **Escenario 02: Presentación de funcionalidades segmentadas por tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado con las funcionalidades de la aplicación <br> **Entonces** visualiza la información segmentada según el tipo de usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP01                      |
-| US04       | Funcionalidades de la aplicación              | **Como** visitante <br> **Quiero** que el landing page me muestre una lista de las funcionalidades que ofrece la aplicación <br> **Para** saber si cubre mis necesidades.                                                            | **Escenario 01: Funcionalidades destacadas segun tipo de usuario** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado a las funcionalidades de la aplicación <br> **Entonces** el landing page presenta las funcionalidades más relevantes de la aplicación para cada tipo de usuario <br><br> **Escenario 02: Organización visual de las funcionalidades** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido de las funcionalidades de la aplicación <br> **Entonces** visualiza la información con una organización lógica y comprensible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP01                      |
-| US05       | Llamada a la acción                           | **Como** visitante <br> **Quiero** que el landing page me de la opción de acceder directamente a la aplicación <br> **Para** comenzar a utilizarla                                                                                   | **Escenario 01: Llamada a la acción para visitantes recurrentes** <br> **Dado** que un visitante habitual accede al landing page <br> **Cuando** percibe que ya conocía todo lo necesario sobre la aplicación <br> **Entonces** el landing page lo dirige a una opción para acceder directamente a la aplicación sin tener que leer más contenido. <br><br> **Escenario 02: Llamada a la acción para visitantes racionales** <br> **Dado** que un visitante de perfil racional accede al landing page <br> **Cuando** analiza todo el contenido sobre la aplicación <br> **Entonces** el landing page le muestra al final del contenido, una opción para acceder directamente a la aplicación. <br><br> **Escenario 03: Llamada a la acción para visitantes emotivos** <br> **Dado** que un visitante de perfil emocional accede al landing page <br> **Cuando** se sintió identificado con las secciones del contenido <br> **Entonces** el landing page le muestra en cada sección, una opción para acceder directamente a la aplicación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP01                      |
-| US06       | Visualización de tutorial de la aplicación    | **Como** visitante <br> **Quiero** que el landing page me muestre visualmente como funciona la aplicación <br> **Para** tener una idea concreta de como debo usarla.                                                                 | **Escenario 01: Visualización de video de demostración** <br> **Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido relacionado al uso de la aplicación <br> **Entonces** visualiza una demostración audiovisual de la aplicación. <br><br> **Escenario 02: Controles de reproducción** <br> **Dado** que un visitante se dirige al contenido relacionado al uso de la aplicación <br> **Cuando** reproduce la demostración audiovisual <br> **Entonces** interactúa con la demostración audiovisual para retroceder, avanzar o pausar el contenido segun su necesidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP01                      |
-| US07       | Confianza y seguridad                         | **Como** visitante, <br> **Quiero** que el landing page me muestre quienes fueron los encargados en desarrollar la aplicación <br> **Para** verificar que es segura y confiable.                                                     | **Escenario 01: Presentación del equipo de desarrollo** <br>**Dado** que un visitante accede al landing page <br> **Cuando** se dirige al contenido referente al equipo de desarrollo<br> **Entonces** el landing page presenta información visual y descriptiva sobre el equipo en general y cada integrante <br><br> **Escenario 02: Acceso a perfiles profesionales externos** <br> **Dado** que un visitante se dirige al contenido referente al equipo de desarrollo <br> **Cuando** consulta información específica de un integrante <br> **Entonces** el landing page lo redirige al perfil de LinkedIn del integrante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP01                      |
-| US08       | Velocidad de carga                            | **Como** visitante, <br> **Quiero** que el landing page cargue rápidamente <br> **Para** no perder el interés.                                                                                                                       | **Escenario 01: Carga rápida del sitio web** <br> **Dado** que un visitante con conexión a internet estándar accede al landing page <br> **Cuando** se solicita el contenido <br> Entonces este carga en un máximo de 3 segundos <br><br> **Escenario 02: Optimización bajo conexión limitada** <br> **Dado** que un visitante con conexión a internet limitada accede al landing page<br> **Cuando** se solicita el contenido <br> **Entonces** este se carga de forma optimizada para minimizar los tiempos de espera.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP01                      |
-| US09       | Visualización de Precios                      | **Como** visitante, <br> **Quiero** ver claramente los planes de los productos ofrecidos en la landing page, <br> **Para** evaluar si se ajustan a mi presupuesto.                                                                   | **Escenario 01: Precios visibles en la página** <br> **Dado** que un visitante accede al landing page, <br> **Cuando** se dirige al contenido referente a los planes de suscripción <br> **Entonces** visualiza los precios de forma clara y sin obstrucciones.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP01                      |
-| US10       | Diseño responsive                             | **Como** visitante, <br> **Quiero** que el landing page se vea y funcione correctamente desde cualquier dispositivo <br> **Para** tener una experiencia fluida y consistente en todo momento.                                        | **Escenario 01: Acceder desde una computadora o laptop** <br> **Dado** que un visitante accede al landing page desde una computadora o laptop <br> **Cuando** se presenta el contenido <br> **Entonces** este se adapta correctamente a la pantalla del dispositivo sin errores de visualización  <br><br> **Escenario 02: Acceder desde un celular o tablet** <br> **Dado** que un visitante accede al landing page desde un smartphone o tablet <br> **Cuando** se presenta el contenido <br> **Entonces** este se adapta correctamente al tamaño de la pantalla sin requerir ajustes manuales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP01                      |
-| EP02       | Comunicación Organizador-Anfitrión            | **Como** usuario (organizador o anfitrión), <br> **Quiero** tener un canal de comunicación claro y eficiente dentro de la plataforma  <br> **Para** coordinar todos los detalles del evento sin depender de múltiples apps externas. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
-| US11       | Chat integrado en la plataforma               | **Como** usuario (organizador o anfitrión), <br> **Quiero** acceder a un chat dentro de la plataforma,  <br> **Para** comunicarme directamente con la otra parte sin salir de la aplicación.                                         | **Escenario 01: Iniciar chat desde el perfil del organizador** <br> **Dado** que un anfitrión visualiza el perfil de un organizador, <br> **Cuando** haga clic en el botón “Mensaje”.  <br> **Entonces** se abre una ventana de chat vinculada a ese organizador y al evento correspondiente.  <br><br> **Escenario 02: Acceder al chat desde el panel**  <br> **Dado** que un usuario (anfitrión u organizador) accede a su cuenta, <br> **Cuando**  ingrese a la sección de mensajes.  <br> **Entonces** puede ver los chats activos vinculados a sus eventos.  <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP02                      |
-| US12       | Historial de mensajes                         | **Como** usuario (organizador o anfitrión), <br> **Quiero** poder revisar conversaciones anteriores,   <br> **Para** no olvidar acuerdos o detalles importantes del evento.                                                          | **Escenario 01: Visualización del historial completo**  <br> **Dado** que un anfitrión u organizador abre el chat de un evento,  <br> **Cuando**  haya mensajes previos.  <br> **Entonces** se muestran cronológicamente desde el más antiguo hasta el más reciente.   <br><br> **Escenario 02: Carga automática del historial**  <br> **Dado** que un anfitrión u organizador ingresa a un chat,  <br> **Cuando**   la conversación ya tenga mensajes previos.  <br> **Entonces** estos se cargan automáticamente al abrir el chat.   <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP02                      |
-| US13       | Notificaciones de nuevos mensajes             | **Como** usuario (organizador o anfitrión), <br> **Quiero** recibir notificaciones cuando tengo un nuevo mensaje,    <br> **Para** mantenerme al tanto de la conversación sin retrasos.                                              | **Escenario 01: Notificación visual en la plataforma**  <br> **Dado** que un anfitrión u organizador está navegando dentro de la plataforma,   <br> **Cuando**  reciba un nuevo mensaje.   <br> **Entonces** ve un ícono de notificación en la sección de mensajes.    <br><br> **Escenario 02: Alerta emergente**   <br> **Dado** que un anfitrión u organizador tiene la sesión activa,   <br> **Cuando**   le llega un nuevo mensaje.   <br> **Entonces**  puede recibir una alerta visual (según configuración del navegador).     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP02                      |
-| US14       | Envío de archivos (PDF, imágenes, etc.)       | **Como** organizador o anfitrión,  <br> **Quiero** poder enviar y recibir archivos dentro del chat,     <br> **Para** compartir cotizaciones, formularios, referencias visuales o documentos importantes.                            | **Escenario 01: Envío de formulario por parte del organizador**   <br> **Dado** que un organizador recibe un primer mensaje de un anfitrión iniciando contacto, <br> **Cuando**  abre el chat correspondiente al evento.    <br> **Entonces** puede adjuntar un formulario PDF con preguntas sobre el evento y enviarlo al anfitrión.     <br><br> **Escenario 02: Recepción del formulario por parte del anfitrión**    <br> **Dado** que un anfitrión ha iniciado conversación con un organizador,    <br> **Cuando**  el organizador le envía el formulario como archivo adjunto.   <br> **Entonces**  el anfitrión puede visualizar y descargar el archivo desde el chat.  <br><br> **Escenario 03:  Envío de proforma por parte del organizador**  <br> **Dado** que un organizador ha recibido el formulario completado por el anfitrión,  <br> **Cuando** quiera enviarle una cotización personalizada. <br> **Entonces,** puede adjuntar un archivo PDF con la proforma y enviarlo a través del chat del evento.  <br><br> **Escenario 04: Intercambio de archivos posteriores**  <br> **Dado** que el anfitrión y el organizador ya han iniciado conversación,  <br> **Cuando** cualquiera desee compartir un archivo adicional (como una imagen de decoración, plano, flyer, etc.). <br> **Entonces** puede adjuntarlo y enviarlo desde la ventana del chat.  <br><br>                                                                                                                                                                                 | EP02                      |
-| US15       | Estado del mensaje (enviado, recibido, leído) | **Como** organizador o anfitrión,  <br> **Quiero** ver el estado de mis mensajes enviados,     <br> **Para** saber si han sido leídos por la otra persona.                                                                           | **Escenario 01: Estado "enviado"**   <br> **Dado** que un anfitrión u organizador envía un mensaje,    <br> **Cuando**  el mensaje se procese correctamente.    <br> **Entonces** aparece con un ícono de "enviado".     <br><br> **Escenario 02: Estado "recibido" y "leído"**    <br> **Dado** que un anfitrión u organizador envía un mensaje,    <br> **Cuando**   la otra parte reciba o lea el mensaje.   <br> **Entonces**  el ícono cambiará según corresponda para indicar su estado.     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP02                      |
-| US16       | Notificación por email si no estoy conectado  | **Como** organizador o anfitrión,  <br> **Quiero** recibir notificaciones fuera de la app si tengo mensajes sin leer,      <br> **Para** no perderme nada importante cuando no estoy conectado.                                      | **Escenario 01: Envío de correo electrónico automático**     <br> **Dado** que un anfitrión u organizador no está conectado a la plataforma,     <br> **Cuando**  reciba un nuevo mensaje.     <br> **Entonces** se envía una notificación por correo electrónico al usuario.      <br><br> **Escenario 02: Visualización del contenido del mensaje (correo)**    <br> **Dado** que un anfitrión u organizador recibe una notificacion de alerta por correo,    <br> **Cuando**   visualice el contenido del mensaje.   <br> **Entonces**  podra identificar que tiene mensajes sin responder o visualizar dentro de la aplicación.     <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP02                      | 
-| EP03       | Gestión de eventos personalizada              | **Como** organizador <br> **Quiero** gestionar todos los detalles de mis eventos desde la plataforma <br> **Para** facilitar la planificación y el seguimiento.                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
-| US17       | Registro de nuevo evento                      | **Como** organizador, <br> **Quiero** registrar un nuevo evento con sus detalles básicos, <br> **Para** iniciar su planificación dentro de la plataforma.                                                                            | **Escenario 01: Formulario de creación de evento** <br> **Dado** que soy organizador <br> **Cuando** accedo a la opción "Nuevo evento" <br> **Entonces** podré completar un formulario con nombre, fecha, tipo de evento y ubicación. <br><br> **Escenario 02: Confirmación del registro** <br> **Dado** que completé los campos obligatorios <br> **Cuando** doy clic en "Guardar evento" <br> **Entonces** el sistema registrará el evento y me redirige a su panel de gestión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP03                      |
-| US18       | Lista de tareas del evento                    | **Como** organizador o anfitrión, <br> **Quiero** crear y seguir una lista de tareas para cada evento, <br> **Para** asegurarme de no olvidar nada importante.                                                                       | **Escenario 01: Añadir tareas** <br> **Dado** que estoy gestionando un evento <br> **Cuando** accedo a la pestaña “Tareas” <br> **Entonces** podré añadir una descripción, fecha límite y estado. <br><br> **Escenario 02: Marcar tareas completadas** <br> **Dado** que he finalizado una tarea <br> **Cuando** marco la opción de “completado” <br> **Entonces** el estado de la tarea se actualiza automáticamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP03                      |
-| US19       | Gestión de presupuesto del evento             | **Como** organizador, <br> **Quiero** definir un presupuesto y registrar los gastos del evento, <br> **Para** mantener el control financiero.                                                                                        | **Escenario 01: Definir presupuesto inicial** <br> **Dado** que estoy registrando un nuevo evento <br> **Cuando** ingreso el monto estimado <br> **Entonces** este es guardado como límite del presupuesto. <br><br> **Escenario 02: Registro de gastos por categoría** <br> **Dado** que incurro en un gasto (ej. decoración) <br> **Cuando** lo ingreso en la sección correspondiente <br> **Entonces** se actualiza el saldo restante del presupuesto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP03                      |
-| US20       | Asignación de roles dentro del evento         | **Como** organizador, <br> **Quiero** asignar tareas o funciones a otros colaboradores, <br> **Para** delegar responsabilidades específicas.                                                                                         | **Escenario 01: Invitación a colaboradores** <br> **Dado** que quiero compartir la gestión del evento <br> **Cuando** ingreso el correo del colaborador <br> **Entonces** recibirá una invitación con permisos definidos. <br><br> **Escenario 02: Asignación de tareas específicas** <br> **Dado** que el colaborador acepta la invitación <br> **Cuando** le asigne una tarea desde el panel de tareas <br> **Entonces** es notificado y puede ver sus pendientes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP03                      |
-| US21       | Vista de cronograma del evento                | **Como** organizador o anfitrión, <br> **Quiero** visualizar un cronograma con las actividades programadas, <br> **Para** tener una visión clara de la secuencia del evento.                                                         | **Escenario 01: Creación de actividades con hora específica** <br> **Dado** que estoy planificando un evento <br> **Cuando** ingreso el nombre y horario de cada actividad <br> **Entonces** el sistema generará una línea de tiempo visual. <br><br> **Escenario 02: Edición y reordenamiento** <br> **Dado** que cambian los tiempos <br> **Cuando** edito el horario de una actividad <br> **Entonces** el cronograma se ajusta automáticamente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP03                      |
-| US22       | Visualización de resumen del evento           | **Como** organizador o anfitrión, <br> **Quiero** tener acceso a un resumen del evento, <br> **Para** revisar el estado general de la planificación.                                                                                 | **Escenario 01: Acceder al panel resumen** <br> **Dado** que tengo un evento en planificación <br> **Cuando** ingreso a su panel <br> **Entonces** veré el progreso de tareas, presupuesto utilizado y fechas importantes. <br><br> **Escenario 02: Indicadores visuales de estado** <br> **Dado** que hay tareas vencidas o gastos que superan el presupuesto <br> **Cuando** visualice el panel <br> **Entonces** se muestran alertas visuales (íconos o colores).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP03                      |
-| EP04       | Gestión de eventos                            | **Como** desarrollador, **Quiero** desarrollar y mantener endpoints de API para la gestión de eventos, **Para** permitir la visualización, creación, actualización y elminación de eventos en la aplicación web.                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
-| EP05       | Contratación y Gestión de Organizadores       | **Como** anfitrión, <br> **Quiero** poder buscar, cotizar, contratar y calificar organizadores de eventos, <br> **Para** garantizar que mi evento sea organizado por profesionales de confianza.                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| US23       | Visualizar perfiles de organizadores          | **Como** anfitrión, <br> **Quiero** poder ver los perfiles detallados de los organizadores, <br> **Para** evaluar su experiencia y servicios antes de contratarlos.                                                                  | **Escenario 01: Acceso a perfiles** <br> **Dado** que un anfitrión está buscando organizadores, <br> **Cuando** seleccione un organizador, <br> **Entonces** puede visualizar su perfil con información de experiencia, eventos realizados, calificaciones y reseñas. <br><br> **Escenario 02: Filtrado de organizadores** <br> **Dado** que un anfitrión desea encontrar un organizador, <br> **Cuando** aplique filtros (categoría, ubicación, puntuación), <br> **Entonces** ve solo los perfiles que cumplan con los criterios seleccionados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
-| US24       | Solicitar cotización a un organizador         | **Como** anfitrión, <br> **Quiero** poder solicitar cotizaciones a diferentes organizadores, <br> **Para** comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.                                    | **Escenario 01: Enviar solicitud de cotización** <br> **Dado** que un anfitrión encuentra un organizador de interés, <br> **Cuando** presione "Solicitar cotización", <br> **Entonces** se envía una solicitud formal al organizador. <br><br> **Escenario 02: Visualizar respuesta de cotización** <br> **Dado** que un organizador haya respondido, <br> **Cuando** el anfitrión consulte su bandeja de cotizaciones, <br> **Entonces** puede ver las ofertas recibidas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP05                      |
-| US25       | Contratar organizador                         | **Como** anfitrión, <br> **Quiero** poder contratar a un organizador directamente desde la plataforma, <br> **Para** formalizar el acuerdo y garantizar que mi evento esté cubierto.                                                 | **Escenario 01: Confirmar contratación** <br> **Dado** que un anfitrión ha recibido una cotización aceptable, <br> **Cuando** haga clic en “Contratar”, <br> **Entonces** se envía una confirmación formal al organizador y se actualiza el estado del evento. <br><br> **Escenario 02: Gestión de contratos** <br> **Dado** que un anfitrión contrata a un organizador, <br> **Cuando** ingrese a su panel de eventos, <br> **Entonces** ve los detalles del organizador contratado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP05                      |
-| US26       | Calificar organizador tras evento             | **Como** anfitrión, <br> **Quiero** calificar el desempeño del organizador una vez terminado el evento, <br> **Para** ayudar a otros anfitriones a tomar decisiones informadas.                                                      | **Escenario 01: Publicar calificación** <br> **Dado** que el evento ha finalizado, <br> **Cuando** el anfitrión entre al detalle del evento, <br> **Entonces** puede dejar una calificación de 1 a 5 estrellas y un comentario. <br><br> **Escenario 02: Visualización pública** <br> **Dado** que un anfitrión publica una reseña, <br> **Cuando** otros usuarios consultan el perfil del organizador, <br> **Entonces** pueden ver la reseña y la calificación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
-| US27       | Editar reseña publicada                       | **Como** anfitrión, <br> **Quiero** poder editar una reseña que haya dejado sobre un organizador, <br> **Para** corregir o actualizar mi opinión si es necesario.                                                                    | **Escenario 01: Acceso a edición** <br> **Dado** que un anfitrión deja una reseña, <br> **Cuando** acceda a su historial de calificaciones, <br> **Entonces** puede seleccionar una reseña para editarla. <br><br> **Escenario 02: Confirmación de cambios** <br> **Dado** que un anfitrión edita su reseña, <br> **Cuando** guarda los cambios, <br> **Entonces** la reseña actualizada se muestra en el perfil del organizador.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP05                      |
-| TS01       | Crear registro de evento                      | **Como** desarrollador,<br>**Quiero** implementar el endpoint POST para registrar los eventos, <br> **Para** permitir a los organizadores registrar los eventos que les soliciten.                                                   | **Escenario 01: Creación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events está disponible, <br> **Cuando** se envía una solicitud POST con valores para eventid, qservices y date,<br> **Entonces** se recibe una respuesta con el estado 201, <br> **Y** el recurso de registro de evento está incluido en el cuerpo de la respuesta, con un nuevo ID y los valores registrados para eventid, qservices y date. <br><br> **Escenario 02: Creación duplicada de un registro de evento** <br> **Dado** que el endpoint /api/v1/events está disponible, <br> **Cuando** se envía una solicitud POST con valores que ya existen para eventid, qservices y date, <br> **Entonces** se recibe una respuesta con el estado 400, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se cumplen todas las restricciones para evento: ya existe un registro para este ID".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | EP04                      |
-| TS02       | Leer registro de evento                       | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para leer registros de eventos, <br> **Para** permitir a los organizadores recuperar los detalles de los elementos del evento.                                     | **Escenario 01: Recuperación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id válido,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** el recurso de evento está incluido en el cuerpo de la respuesta, con los detalles del id especificado. <br><br> **Escenario 02: Recuperación de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP04                      |
-| TS03       | Actualizar registro de evento                 | **Como** desarrollador,<br>**Quiero** implementar el endpoint PUT para actualizar registros de eventos, <br> **Para** permitir a los organizadores modificar detalles existentes del evento.                                         | **Escenario 01: Actualización exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con el id y los valores actualizados para eventid, qservices y date,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** el recurso de evento está incluido en el cuerpo de la respuesta, con los nuevos valores para eventid, qservices y date. <br><br> **Escenario 02: Actualización de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con un id inválido y valores actualizados, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado para actualizar".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | EP04                      |
-| TS04       | Eliminar registro de evento                   | **Como** desarrollador,<br>**Quiero** implementar el endpoint DELETE para eliminar registros de eventos, <br> **Para** permitir a los organizadores eliminar elementos del inventario de sus registros.                              | **Escenario 01: Eliminación exitosa de un registro de evento** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id válido,<br> **Entonces** se recibe una respuesta con el estado 200, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta con el valor "Registro de evento eliminado con éxito". <br><br> **Escenario 02: Eliminación de un registro de evento inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de evento no encontrado para eliminar".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | EP04                      |
-| EP06       | Gestión de usuarios                           | **Como** desarrollador, **Quiero** desarrollar y mantener endpoints de API para la gestión de usuarios, Para permitir el registro, inicio de sesión, actualización y eliminación de cuentas en la aplicación web.                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
-| TS05       | Crear registro de usuario                     | **Como** desarrollador,<br>**Quiero** implementar el endpoint POST para crear registros de usuario, <br> **Para** permitir a los administradores agregar nuevos usuarios al sistema.                                                 | **Escenario 01:  Creación exitosa de un registro de usuario** <br> **Dado** que el endpoint /api/v1/user está disponible, <br> **Cuando** se envía una solicitud POST con valores para userId, username y role,<br> **Entonces**  se recibe una respuesta con estado 201, <br> **Y**  el recurso de Usuario está incluido en el cuerpo de la respuesta, con un nuevo ID y los valores registrados para userId, username y role. <br><br> **Escenario 02: Creación duplicada de un registro de usuario** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud POST con valores que ya existen para userId, <br> **Entonces** se recibe una respuesta con el estado 400, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se cumplen todas las restricciones para el usuario: Ya existe un registro de usuario para este ID."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP06                      |
-| TS06       | Leer registro de usuario                      | **Como** desarrollador,<br>**Quiero**  implementar el endpoint GET para leer registros de usuario, <br> **Para** permitir a los administradores recuperar los detalles de los usuarios.                                              | **Escenario 01:  Recuperación exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id válido,,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  el recurso de Usuario está incluido en el cuerpo de la respuesta con los detalles del id especificado. <br><br> **Escenario 02: Recuperación de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/events/{id} está disponible, <br> **Cuando** se envía una solicitud GET con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP06                      |
-| TS07       | Actualizar registro de usuario                | **Como** desarrollador,<br>**Quiero**  implementar el endpoint PUT para actualizar registros de usuario, <br> **Para** permitir a los administradores modificar los detalles de las cuentas de usuario existente.                    | **Escenario 01:  Actualización exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud PUT con un id y valores actualizados para userId y userDetails,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  el recurso de Usuario actualizado está incluido en el cuerpo de la respuesta con los nuevos valores para userId y userDetails. <br><br> **Escenario 02: Actualización de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/users/{id} está disponible <br> **Cuando** se envía una solicitud PUT con un id inválido y valores actualizados, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado para actualizar."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP06                      |
-| TS08       | Eliminar registro de usuario                  | **Como** desarrollador,<br>**Quiero**  implementar el endpoint DELETE para eliminar registros de usuario, <br> **Para** permitir a los administradores eliminar cuentas de usuario del sistema.                                      | **Escenario 01:  Eliminación exitosa de un registro de usuario** <br> **Dado**  que el endpoint /api/v1/user/{id} está disponible, <br> **Cuando** se envía una solicitud DELETE con un id válido,<br> **Entonces**  se recibe una respuesta con estado 200, <br> **Y**  se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario eliminado con éxito." <br><br> **Escenario 02: Eliminación de un registro de usuario inexistente** <br> **Dado** que el endpoint /api/v1/users/{id} está disponible <br> **Cuando** se envía una solicitud DELETE con un id inválido, <br> **Entonces** se recibe una respuesta con el estado 404, <br> **Y** se incluye un mensaje en el cuerpo de la respuesta, con el valor "Registro de usuario no encontrado para eliminar."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP06                      |
-| TS09 | Obtener eventos por estado | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por estado (Active, ToConfirm, Cancelled),<br>**Para** permitir que los organizadores visualicen rápidamente los eventos según su estado actual.                                      | **Escenario 01: Búsqueda exitosa por estado** <br>**Dado** que el endpoint /api/v1/events/state/{status} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro status=Active,<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo campo status es igual a "Active".<br><br>**Escenario 02: Estado no existente** <br>**Dado** que el endpoint /api/v1/events/state/{status} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro status=Finished,<br>**Entonces** se recibe una respuesta con estado 404,<br>**Y** se incluye un mensaje indicando que no se encontraron eventos con ese estado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP06                      |
-| TS10 | Obtener eventos por título | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por título parcial o exacto,<br>**Para** facilitar a los usuarios la búsqueda de eventos según su nombre.                                      | **Escenario 01: Búsqueda por coincidencia exacta** <br>**Dado** que el endpoint /api/v1/events/title/{title} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro title="Feria Anual",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo título es exactamente "Feria Anual".<br><br>**Escenario 02: Búsqueda por coincidencia parcial** <br>**Dado** que el endpoint /api/v1/events/title/{title} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro title="Feria",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo título contiene la palabra "Feria".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP06                      |
-| TS11 | Obtener eventos por nombre del cliente (CustomerName) | **Como** desarrollador,<br>**Quiero** implementar el endpoint GET para filtrar eventos por nombre del cliente,<br>**Para** permitir la búsqueda personalizada de eventos vinculados a un cliente específico.                                      | **Escenario 01: Búsqueda por nombre completo** <br>**Dado** que el endpoint /api/v1/events/customer/{name} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro name="Lucía Pérez",<br>**Entonces** se recibe una respuesta con estado 200,<br>**Y** el cuerpo contiene una lista de eventos cuyo CustomerName es "Lucía Pérez".<br><br>**Escenario 02: Cliente no registrado** <br>**Dado** que el endpoint /api/v1/events/customer/{name} está disponible,<br>**Cuando** se envía una solicitud GET con el parámetro name="Juan Gómez",<br>**Entonces** se recibe una respuesta con estado 404,<br>**Y** se incluye un mensaje indicando que no se encontraron eventos asociados a ese cliente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP06 |
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP01</td><td>Visitante</td><td>High</td><td>-</td>
+</tr>
 
+<tr>
+<th>Title</th>
+<td colspan="3">Diseño y Desarrollo de Landing Page</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como visitante quiere acceder a una landing page clara y atractiva  
+para entender el propósito de la aplicación y evaluar su utilidad.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: El contenido describe claramente la propuesta del producto.<br>
+Regla: La información es comprensible y estructurada.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP02</td><td>Usuario (Organizador / Anfitrión)</td><td>High</td><td>-</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Comunicación Organizador - Anfitrión</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como usuario quiere contar con un canal de comunicación dentro de la plataforma  
+para coordinar detalles del evento de manera eficiente.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: La comunicación se realiza dentro del sistema.<br>
+Regla: Las conversaciones quedan registradas.<br>
+Regla: La comunicación es bidireccional entre usuarios.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP03</td><td>Organizador</td><td>High</td><td>-</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Gestión de eventos personalizada</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como organizador quiere gestionar eventos dentro de la plataforma  
+para facilitar la planificación y seguimiento.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: El sistema permite registrar eventos.<br>
+Regla: El sistema permite modificar información del evento.<br>
+Regla: El sistema muestra el estado del evento.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP04</td><td>Developer</td><td>High</td><td>-</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Gestión de eventos (API)</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como developer quiere desarrollar endpoints para la gestión de eventos  
+para permitir operaciones CRUD en la aplicación.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: El sistema expone endpoints RESTful.<br>
+Regla: Permite crear, leer, actualizar y eliminar eventos.<br>
+Regla: Maneja códigos de estado HTTP correctamente.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP05</td><td>Anfitrión</td><td>High</td><td>-</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Contratación y gestión de organizadores</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como anfitrión quiere buscar y contratar organizadores  
+para asegurar el éxito del evento.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: El sistema permite visualizar organizadores.<br>
+Regla: Permite solicitar cotizaciones.<br>
+Regla: Permite contratar organizadores.<br>
+Regla: Permite calificar servicios.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>EP06</td><td>Developer</td><td>High</td><td>-</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Gestión de usuarios (API)</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como developer quiere gestionar usuarios mediante endpoints  
+para permitir registro, autenticación y administración de cuentas.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+Regla: El sistema permite crear usuarios.<br>
+Regla: Permite consultar usuarios.<br>
+Regla: Permite actualizar datos.<br>
+Regla: Permite eliminar cuentas.
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th>Story ID</th>
+    <th>User</th>
+    <th>Priority</th>
+    <th>Epic</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Visitante</td>
+    <td>High</td>
+    <td>EP01</td>
+  </tr>
+
+  <tr>
+    <th>Title</th>
+    <td colspan="3">Navegación sencilla</td>
+  </tr>
+
+  <tr>
+    <th colspan="4">Description</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      Como visitante quiero navegar fácilmente entre secciones para acceder rápidamente a la información relevante.
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="4">Acceptance Criteria</th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <b>Escenario 1:</b><br>
+      Dado que el visitante accede al sitio<br>
+      Cuando busca información de uso<br>
+      Entonces el sistema muestra la sección correspondiente<br><br>
+      <b>Escenario 2:</b><br>
+      Dado que el visitante accede al sitio<br>
+      Cuando busca funcionalidades<br>
+      Entonces el sistema muestra la información correspondiente
+    </td>
+  </tr>
+</table>
+
+
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr>
+<th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th>
+</tr>
+<tr>
+<td>US02</td><td>Visitante</td><td>High</td><td>EP01</td>
+</tr>
+
+<tr>
+<th>Title</th>
+<td colspan="3">Propuesta de valor clara</td>
+</tr>
+
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como visitante quiere entender rápidamente el valor del producto  
+para determinar si es relevante.
+</td>
+</tr>
+
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el visitante accede al sitio<br>
+Cuando revisa el contenido principal<br>
+Entonces identifica la propuesta de valor<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante navega el sitio<br>
+Cuando revisa la información<br>
+Entonces percibe lenguaje claro y comprensible
+
+</td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US03</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Información segmentada</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere ver información según su rol  
+para identificar cómo la aplicación puede ayudarle.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante accede al sitio<br>
+Cuando revisa beneficios<br>
+Entonces visualiza información segmentada<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante accede al sitio<br>
+Cuando revisa funcionalidades<br>
+Entonces visualiza contenido según su tipo de usuario
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US04</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Funcionalidades de la aplicación</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere conocer las funcionalidades  
+para validar si cubren sus necesidades.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante accede<br>
+Cuando revisa funcionalidades<br>
+Entonces observa funcionalidades relevantes<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante accede<br>
+Cuando revisa contenido<br>
+Entonces la información se presenta de forma organizada
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US05</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Llamada a la acción</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere acceder a la aplicación  
+para comenzar a utilizarla.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante conoce la información<br>
+Cuando decide continuar<br>
+Entonces accede directamente<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante analiza contenido<br>
+Cuando finaliza<br>
+Entonces el sistema ofrece acceso<br><br>
+
+<b>Escenario 3</b><br>
+Dado que el visitante interactúa<br>
+Cuando muestra interés<br>
+Entonces se le presentan accesos disponibles
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US06</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Visualización de tutorial</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere ver cómo funciona la aplicación  
+para entender su uso.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante accede<br>
+Cuando revisa contenido<br>
+Entonces visualiza una demostración<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante reproduce contenido<br>
+Cuando interactúa<br>
+Entonces puede controlar la reproducción
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US07</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Confianza y seguridad</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere conocer al equipo  
+para validar confianza.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante accede<br>
+Cuando revisa equipo<br>
+Entonces visualiza información detallada<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el visitante consulta perfiles<br>
+Cuando selecciona uno<br>
+Entonces accede a información externa
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US08</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Velocidad de carga</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere que el sitio cargue rápido  
+para no perder interés.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el visitante accede<br>
+Cuando solicita contenido<br>
+Entonces carga en máximo 3 segundos<br><br>
+
+<b>Escenario 2</b><br>
+Dado que hay conexión limitada<br>
+Cuando accede<br>
+Entonces el sistema optimiza carga
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US09</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Visualización de precios</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere ver precios  
+para evaluar opciones.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que accede<br>
+Cuando revisa planes<br>
+Entonces visualiza precios claramente
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US10</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Diseño responsive</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere usar el sitio en cualquier dispositivo  
+para tener buena experiencia.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que accede desde PC<br>
+Cuando visualiza<br>
+Entonces se adapta correctamente<br><br>
+
+<b>Escenario 2</b><br>
+Dado que accede desde móvil<br>
+Cuando visualiza<br>
+Entonces se adapta sin errores
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US10</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
+
+<tr><th>Title</th><td colspan="3">Diseño responsive</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como visitante quiere usar el sitio en cualquier dispositivo  
+para tener buena experiencia.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que accede desde PC<br>
+Cuando visualiza<br>
+Entonces se adapta correctamente<br><br>
+
+<b>Escenario 2</b><br>
+Dado que accede desde móvil<br>
+Cuando visualiza<br>
+Entonces se adapta sin errores
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US11</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Chat integrado</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere comunicarse mediante chat  
+para coordinar eventos dentro de la plataforma.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el usuario accede a un perfil<br>
+Cuando inicia comunicación<br>
+Entonces el sistema habilita un chat asociado<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el usuario accede a su cuenta<br>
+Cuando revisa mensajes<br>
+Entonces visualiza conversaciones activas
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US12</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Historial de mensajes</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere revisar conversaciones anteriores  
+para recordar acuerdos importantes.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el usuario accede al chat<br>
+Cuando existen mensajes previos<br>
+Entonces visualiza el historial completo<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el usuario accede al chat<br>
+Cuando carga la conversación<br>
+Entonces el historial se muestra automáticamente
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US13</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Notificaciones de mensajes</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere recibir notificaciones  
+para estar al tanto de nuevos mensajes.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el usuario está activo<br>
+Cuando recibe un mensaje<br>
+Entonces visualiza una notificación<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el usuario está conectado<br>
+Cuando llega un mensaje<br>
+Entonces recibe una alerta visual
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US14</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Envío de archivos</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere enviar archivos  
+para compartir información relevante del evento.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el usuario accede al chat<br>
+Cuando adjunta un archivo<br>
+Entonces el sistema lo envía correctamente<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el usuario recibe un archivo<br>
+Cuando accede al chat<br>
+Entonces puede visualizarlo o descargarlo<br><br>
+
+<b>Escenario 3</b><br>
+Dado que el usuario desea compartir información<br>
+Cuando adjunta documentos<br>
+Entonces estos se envían correctamente
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US15</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Estado de mensajes</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere conocer el estado de los mensajes  
+para saber si fueron leídos.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el usuario envía un mensaje<br>
+Cuando se procesa<br>
+Entonces se marca como enviado<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el mensaje es recibido<br>
+Cuando el destinatario lo visualiza<br>
+Entonces el estado se actualiza
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US16</td><td>Usuario</td><td>High</td><td>EP02</td></tr>
+
+<tr><th>Title</th><td colspan="3">Notificación por email</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere recibir notificaciones por correo  
+para no perder mensajes importantes.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el usuario no está conectado<br>
+Cuando recibe un mensaje<br>
+Entonces recibe un correo<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el usuario recibe el correo<br>
+Cuando lo revisa<br>
+Entonces identifica el mensaje pendiente
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US17</td><td>Organizador</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Registro de evento</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como organizador quiere registrar eventos  
+para iniciar su planificación.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el organizador accede<br>
+Cuando registra datos<br>
+Entonces el evento se guarda<br><br>
+
+<b>Escenario 2</b><br>
+Dado que completa datos<br>
+Cuando confirma<br>
+Entonces se registra correctamente
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US18</td><td>Usuario</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Lista de tareas</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere gestionar tareas  
+para no olvidar actividades importantes.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que gestiona evento<br>
+Cuando agrega tarea<br>
+Entonces se registra<br><br>
+
+<b>Escenario 2</b><br>
+Dado que completa tarea<br>
+Cuando actualiza estado<br>
+Entonces se refleja el cambio
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US19</td><td>Organizador</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Gestión de presupuesto</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como organizador quiere controlar presupuesto  
+para gestionar gastos.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que define presupuesto<br>
+Cuando registra monto<br>
+Entonces se guarda<br><br>
+
+<b>Escenario 2</b><br>
+Dado que registra gasto<br>
+Cuando actualiza datos<br>
+Entonces se calcula saldo
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US20</td><td>Organizador</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Asignación de roles</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como organizador quiere asignar responsabilidades  
+para delegar tareas.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que invita colaborador<br>
+Cuando envía invitación<br>
+Entonces el sistema notifica<br><br>
+
+<b>Escenario 2</b><br>
+Dado que asigna tarea<br>
+Cuando define responsable<br>
+Entonces se notifica
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US21</td><td>Usuario</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Cronograma del evento</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere visualizar actividades  
+para entender la secuencia del evento.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que planifica<br>
+Cuando agrega actividades<br>
+Entonces se genera cronograma<br><br>
+
+<b>Escenario 2</b><br>
+Dado que modifica actividad<br>
+Cuando actualiza horario<br>
+Entonces el cronograma se ajusta
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US22</td><td>Usuario</td><td>High</td><td>EP03</td></tr>
+
+<tr><th>Title</th><td colspan="3">Resumen del evento</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como usuario quiere ver resumen del evento  
+para conocer el estado general.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que accede al panel<br>
+Cuando visualiza información<br>
+Entonces observa progreso y estado<br><br>
+
+<b>Escenario 2</b><br>
+Dado que hay incidencias<br>
+Cuando revisa<br>
+Entonces visualiza alertas
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US23</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
+
+<tr><th>Title</th><td colspan="3">Visualizar perfiles de organizadores</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como anfitrión quiere visualizar perfiles de organizadores  
+para evaluar su experiencia antes de contratarlos.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el anfitrión busca organizadores<br>
+Cuando selecciona uno<br>
+Entonces visualiza su perfil con información relevante<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el anfitrión desea filtrar<br>
+Cuando aplica criterios<br>
+Entonces el sistema muestra resultados acordes
+
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US24</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
+
+<tr><th>Title</th><td colspan="3">Solicitar cotización</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como anfitrión quiere solicitar cotizaciones  
+para comparar opciones disponibles.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el anfitrión encuentra un organizador<br>
+Cuando solicita cotización<br>
+Entonces el sistema envía la solicitud<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el organizador responde<br>
+Cuando el anfitrión revisa<br>
+Entonces visualiza las ofertas recibidas
+
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US25</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
+
+<tr><th>Title</th><td colspan="3">Contratar organizador</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como anfitrión quiere contratar un organizador  
+para formalizar el servicio del evento.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el anfitrión recibe una cotización<br>
+Cuando decide contratar<br>
+Entonces el sistema registra la contratación<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el anfitrión accede a su panel<br>
+Cuando revisa el evento<br>
+Entonces visualiza los datos del organizador contratado
+
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US26</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
+
+<tr><th>Title</th><td colspan="3">Calificar organizador</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como anfitrión quiere calificar al organizador  
+para aportar información a otros usuarios.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el evento finaliza<br>
+Cuando el anfitrión califica<br>
+Entonces el sistema registra la calificación<br><br>
+
+<b>Escenario 2</b><br>
+Dado que otros usuarios consultan perfiles<br>
+Cuando revisan reseñas<br>
+Entonces visualizan las calificaciones publicadas
+
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>US27</td><td>Anfitrión</td><td>High</td><td>EP05</td></tr>
+
+<tr><th>Title</th><td colspan="3">Editar reseña</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como anfitrión quiere editar una reseña  
+para actualizar su opinión.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+
+<b>Escenario 1</b><br>
+Dado que el anfitrión tiene una reseña<br>
+Cuando accede a editar<br>
+Entonces puede modificarla<br><br>
+
+<b>Escenario 2</b><br>
+Dado que guarda cambios<br>
+Cuando se actualiza<br>
+Entonces la reseña se refleja en el perfil
+
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS01</td><td>Developer</td><td>High</td><td>EP04</td></tr>
+
+<tr><th>Title</th><td colspan="3">Crear evento (POST)</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere implementar un endpoint para crear eventos  
+para registrar eventos en el sistema.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe una solicitud válida<br>
+Entonces responde con código 201 y el recurso creado<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe datos duplicados<br>
+Entonces responde con código 400
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS02</td><td>Developer</td><td>High</td><td>EP04</td></tr>
+
+<tr><th>Title</th><td colspan="3">Leer evento (GET)</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere implementar un endpoint para consultar eventos  
+para recuperar información del sistema.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe un ID válido<br>
+Entonces responde con código 200 y el recurso<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe un ID inválido<br>
+Entonces responde con código 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS03</td><td>Developer</td><td>High</td><td>EP04</td></tr>
+
+<tr><th>Title</th><td colspan="3">Actualizar evento (PUT)</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere actualizar eventos  
+para modificar información existente.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe datos válidos<br>
+Entonces responde con código 200<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe un ID inválido<br>
+Entonces responde con código 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS04</td><td>Developer</td><td>High</td><td>EP04</td></tr>
+
+<tr><th>Title</th><td colspan="3">Eliminar evento (DELETE)</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere eliminar eventos  
+para mantener actualizado el sistema.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe ID válido<br>
+Entonces responde con código 200<br><br>
+
+<b>Escenario 2</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe ID inválido<br>
+Entonces responde con código 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS05</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Crear usuario</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere crear usuarios  
+para registrar cuentas en el sistema.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe datos válidos<br>
+Entonces responde con 201<br><br>
+
+<b>Escenario 2</b><br>
+Dado que recibe datos duplicados<br>
+Cuando procesa<br>
+Entonces responde con 400
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS06</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Leer usuario</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere consultar usuarios  
+para obtener información del sistema.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que el endpoint está disponible<br>
+Cuando recibe ID válido<br>
+Entonces responde con 200<br><br>
+
+<b>Escenario 2</b><br>
+Dado que recibe ID inválido<br>
+Cuando procesa<br>
+Entonces responde con 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS07</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Actualizar usuario</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere actualizar usuarios  
+para modificar información.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que recibe datos válidos<br>
+Cuando procesa<br>
+Entonces responde con 200<br><br>
+
+<b>Escenario 2</b><br>
+Dado que ID no existe<br>
+Cuando procesa<br>
+Entonces responde con 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS08</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Eliminar usuario</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere eliminar usuarios  
+para gestionar cuentas.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que recibe ID válido<br>
+Cuando procesa<br>
+Entonces responde con 200<br><br>
+
+<b>Escenario 2</b><br>
+Dado que ID no existe<br>
+Cuando procesa<br>
+Entonces responde con 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS09</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Filtrar eventos por estado</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere filtrar eventos por estado  
+para facilitar la visualización.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que recibe estado válido<br>
+Cuando consulta<br>
+Entonces responde con lista de eventos<br><br>
+
+<b>Escenario 2</b><br>
+Dado que estado no existe<br>
+Cuando consulta<br>
+Entonces responde con 404
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS10</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Buscar eventos por título</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere buscar eventos por título  
+para facilitar la búsqueda.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que recibe título exacto<br>
+Cuando consulta<br>
+Entonces responde con coincidencias<br><br>
+
+<b>Escenario 2</b><br>
+Dado que recibe título parcial<br>
+Cuando consulta<br>
+Entonces responde con coincidencias
+</td></tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width:100%;">
+<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
+<tr><td>TS11</td><td>Developer</td><td>High</td><td>EP06</td></tr>
+
+<tr><th>Title</th><td colspan="3">Buscar eventos por cliente</td></tr>
+
+<tr><th colspan="4">Description</th></tr>
+<tr><td colspan="4">
+Como developer quiere buscar eventos por cliente  
+para consultas personalizadas.
+</td></tr>
+
+<tr><th colspan="4">Acceptance Criteria</th></tr>
+<tr><td colspan="4">
+<b>Escenario 1</b><br>
+Dado que recibe nombre válido<br>
+Cuando consulta<br>
+Entonces responde con eventos asociados<br><br>
+
+<b>Escenario 2</b><br>
+Dado que cliente no existe<br>
+Cuando consulta<br>
+Entonces responde con 404
+</td></tr>
+</table> 
 
 ### 2.4.2. Impact Mapping
 
@@ -754,11 +1985,11 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 
 ***Segmento: Anfitriones***
 
-![impact-map-anfitrion](/assets/chapter-2/Impact-map-anfitrion.png)
+![impact-map-anfitrion](../..../../../assets/chapter-2/Impact-map-anfitrion.png)
 
 ***Segmento: Organizador***
 
-![impact-map-organizador](/assets/chapter-2/Impact-map-organizador.png)
+![impact-map-organizador](../..../../../assets/chapter-2/Impact-map-organizador.png)
 
 ### 2.4.3. Product Backlog
 
