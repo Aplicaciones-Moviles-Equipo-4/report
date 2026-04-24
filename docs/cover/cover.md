@@ -64,6 +64,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Project Report Collaboration Insights
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
@@ -82,6 +84,7 @@ En la sección de Contributors se puede visualizar la participación individual 
 
 ![contributors-AV1](../../assets/cover/contributorsAV1)
 
+<div style="page-break-after: always;"></div>
 
 # Contenido
 
@@ -130,15 +133,33 @@ En la sección de Contributors se puede visualizar la participación individual 
     - [2.5.3.2. Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)
     - [2.5.3.3. Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)
 - [2.6. Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)
-  - [2.6.1. Bounded Context](#261-bounded-context)
+  - [2.6.1. Bounded Context: IAM (Identity and Access Management)](#261-bounded-context-iam-identity-and-access-management)
     - [2.6.1.1. Domain Layer](#2611-domain-layer)
     - [2.6.1.2. Interface Layer](#2612-interface-layer)
     - [2.6.1.3. Application Layer](#2613-application-layer)
     - [2.6.1.4. Infrastructure Layer](#2614-infrastructure-layer)
-    - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-ontext-software-architecture-component-level-diagrams)
+    - [2.6.1.5. Bounded Context Software Architecture Component Level Diagrams](#2615-bounded-context-software-architecture-component-level-diagrams)
     - [2.6.1.6. Bounded Context Software Architecture Code Level Diagrams](#2616-bounded-context-software-architecture-code-level-diagrams)
-    	- [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
-    	- [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+        - [2.6.1.6.1. Bounded Context Domain Layer Class Diagrams](#26161-bounded-context-domain-layer-class-diagrams)
+        - [2.6.1.6.2. Bounded Context Database Design Diagram](#26162-bounded-context-database-design-diagram)
+  - [2.6.2. Bounded Context: Event Design and Planning](#262-bounded-context-event-design-and-planning)
+    - [2.6.2.1. Domain Layer](#2621-domain-layer)
+    - [2.6.2.2. Interface Layer](#2622-interface-layer)
+    - [2.6.2.3. Application Layer](#2623-application-layer)
+    - [2.6.2.4. Infrastructure Layer](#2624-infrastructure-layer)
+    - [2.6.2.5. Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)
+    - [2.6.2.6. Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.2.6.1. Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)
+        - [2.6.2.6.2. Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)
+  - [2.6.3. Bounded Context: Communication](#263-bounded-context-communication)
+    - [2.6.3.1. Domain Layer](#2631-domain-layer)
+    - [2.6.3.2. Interface Layer](#2632-interface-layer)
+    - [2.6.3.3. Application Layer](#2633-application-layer)
+    - [2.6.3.4. Infrastructure Layer](#2634-infrastructure-layer)
+    - [2.6.3.5. Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)
+    - [2.6.3.6. Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)
+        - [2.6.3.6.1. Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)
+        - [2.6.3.6.2. Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)
 
 ### [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-ui/ux-design)
 
@@ -192,7 +213,7 @@ En la sección de Contributors se puede visualizar la participación individual 
 ### [Bibliografía](#bibliografia)
 ### [Anexos](#anexos)
 
----
+<div style="page-break-after: always;"></div>
 
 ## Student Outcome
 
@@ -205,7 +226,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **AV1:** <br>• **Armestar Heredia, Matias Gabriel:** Durante el desarrollo de esta primera entrega pude conocer nuevos formatos de distintos aspectos de la presente documentación, para luego coordinar su correcto uso en coordinación con los demás integrantes del equipo. <br>• **Crisanto Calle, Deybbi Anderson:** Actualicé y apliqué conceptos clave de ingeniería de software como el modelado de User Stories bajo enfoque ágil, la definición de Acceptance Criteria en formato Gherkin y la estructuración de épicas, historias de usuario y technical stories. Asimismo, reforcé conocimientos en diseño de APIs RESTful, modelado de requerimientos y organización del backlog, alineando estos elementos con la arquitectura del sistema para el desarrollo de soluciones de software. <br>• **Duran Diaz, Antonio Rodrigo:** Para este avance del primer hito he vuelto a aplicar conceptos y conocimientos útiles para su desarrollo. <br>• **Nakasone Gomes, Marco Antonio:** Apliqué conceptos de Domain-Driven Design (DDD) a nivel estratégico, desarrollando EventStorming para el análisis del dominio, modelando flujos de mensajes y definiendo Bounded Contexts. Además, elaboré el Context Mapping y los diagramas de arquitectura (contexto, contenedores y despliegue). <br>• **Teves Samaniego, Joan Fernando:** Investigué y apliqué conceptos avanzados de Domain-Driven Design y Clean Architecture para estructurar correctamente los Bounded Contexts del proyecto. Además, actualicé mis conocimientos en el modelado de bases de datos y la definición de componentes de software, elementos fundamentales para asegurar la escalabilidad técnica de nuestras soluciones. | **AV1:** <br>El equipo ha demostrado capacidad para investigar, adquirir y aplicar nuevos conocimientos técnicos y metodológicos, adaptándose a los requerimientos arquitectónicos del proyecto. Se evidencia un compromiso colectivo con el aprendizaje continuo como pilar fundamental para el desarrollo de soluciones de software escalables y de calidad. |
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **AV1:** <br>• **Armestar Heredia, Matias Gabriel:** Profundicé mi conocimiento sobre conceptos aprendidos durante el desarrollo de proyectos anteriores, así pudiendo reconocer la importancia del aprendizaje continuo. <br>• **Crisanto Calle, Deybbi Anderson:** Reconocí la importancia del aprendizaje continuo en el desarrollo de soluciones de software, identificando la necesidad de actualizar constantemente mis conocimientos en metodologías ágiles, arquitectura de software y tecnologías emergentes. Durante el proyecto, comprendí que la evolución de herramientas, frameworks y buenas prácticas exige una formación permanente para garantizar soluciones eficientes, escalables y alineadas a estándares profesionales. <br>• **Duran Diaz, Antonio Rodrigo:** Realice investigación y análisis para el desarrollo del informe, es importante seguir aprendiendo y reforzando conocimientos. <br>• **Nakasone Gomes, Marco Antonio:** Investigué y aprendí de forma autónoma sobre EventStorming, Context Mapping y arquitectura de software para aplicarlos en el proyecto, adaptando la teoría a un caso real.<br>• **Teves Samaniego, Joan Fernando:** Comprendí que el desarrollo de software requiere una adaptación técnica constante. La necesidad de integrar nuevos enfoques arquitectónicos y trasladar la lógica de negocio a un entorno de aplicaciones móviles me demostró que la capacitación autónoma y la exploración de nuevas herramientas son indispensables para afrontar los desafíos profesionales con éxito. | **AV1:** <br>Todos los integrantes reconocen que la evolución de las tecnologías y los estándares de desarrollo exige una formación permanente. El proyecto ha servido como catalizador para entender que el estudio autónomo y la actualización constante son habilidades indispensables para el éxito y la competitividad en el ámbito profesional. |
 
----
+<div style="page-break-after: always;"></div>
 
 ## Objetivos SMART
 
@@ -217,4 +238,4 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Nakasone Gomes, Marco Antonio    | Fortalecer mis competencias en ingeniería de software aplicando metodologías y herramientas modernas para diseñar soluciones alineadas a necesidades reales del negocio.                                                                                          |
 | Teves Samaniego, Joan Fernando   | Diseñar e implementar la arquitectura de software del proyecto integrando los patrones de diseño táctico (DDD y Clean Architecture) de manera completa antes de finalizar el ciclo académico, asegurando una base técnica robusta que facilite el desarrollo móvil. |
 
----
+<div style="page-break-after: always;"></div>
