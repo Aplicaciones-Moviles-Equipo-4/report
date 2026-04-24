@@ -82,7 +82,10 @@ Con el fin de evidenciar los avances realizados y demostrar la participación ac
 
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este priemr hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
 
-![contributors-AV1](../../assets/cover/contributorsAV1)
+![contributors-AV1](../../assets/cover/contributors-1.png)
+![contributors-AV1](../../assets/cover/contributors-2.png)
+
+
 
 <div style="page-break-after: always;"></div>
 
