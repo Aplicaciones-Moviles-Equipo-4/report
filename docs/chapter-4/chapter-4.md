@@ -10,6 +10,8 @@
 
 ### 4.1.4. Software Deployment Configuration
 
+<div style="page-break-after: always;"></div>
+
 ## 4.2. Landing Page & Mobile Application Implementation
 
 ### 4.2.1. Sprint n
@@ -30,6 +32,8 @@
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
+<div style="page-break-after: always;"></div>
+
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
@@ -37,6 +41,8 @@
 ### 4.3.2. Registro de Entrevistas
 
 ### 4.3.3. Evaluaciones según heurísticas
+
+<div style="page-break-after: always;"></div>
 
 ## Conclusiones
 
@@ -48,7 +54,11 @@
 
 ### Video About the team
 
+<div style="page-break-after: always;"></div>
+
 ## Glosario
+
+<div style="page-break-after: always;"></div>
 
 ## Bibliografia
 
