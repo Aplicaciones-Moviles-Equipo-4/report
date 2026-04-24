@@ -44,15 +44,25 @@ U202117303 - Teves Samaniego, Joan Fernando
     </tr>
 </table>
 
-# Project Report Collaboration Insights
+## Project Report Collaboration Insights
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
 **URL de la Organización:** https://github.com/Aplicaciones-Moviles-Equipo-4  
 **URL del Repositorio del Informe:**  https://github.com/Aplicaciones-Moviles-Equipo-4/report
 
-**Entrega N°1: AV1**  
-  
+### Primer Hito: AV1**
+
+En esta primera entrega se desrrollaron los primeros avances del informe, abarcando el Capítulo 1: Presentación y Capítulo 2: Requirements Development and Software Solution Design.
+Con el fin de evidenciar los avances realizados y demostrar la participación activa de todos los miembros del equipo en la elaboración del informe, se presentan a continuación las capturas obtenidas desde los analíticos de colaboración del repositorio GitHub del proyecto.
+
+## Contributors
+
+En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este priemr hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
+
+![contributors-AV1](../../assets/cover/contributorsAV1)
+
+
 **URL del repositorio orientado a la Landing Page:**  
 **Report Contributors Insights (AV1)**  
 
