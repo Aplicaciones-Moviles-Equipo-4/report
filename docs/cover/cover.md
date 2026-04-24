@@ -57,7 +57,11 @@
 
 | Versión | Fecha       | Autor                                                                                                   | Descripción de modificación |
 |---------|------------|---------------------------------------------------------------------------------------------------------|-----------------------------|
-
+| **0.1** | 20/04/2026 | Matias Armestar | Creación de estructura principal del informe y desarrollo del capítulo 1 |
+| **0.2** | 23/04/2026 | Antonio Duran | Se agregaron mejoras y correciones del capítulo 1 y carátula |
+| **0.3** | 23/04/2026 | Deybbi crisanto | Se agregó Entrevistas, Competidores, Needfinding y Requirements specification |
+| **0.4** | 23/04/2026 | Marco Nakasone | Se agregaron las secciones para el Strategic-Level Domain-Driven Design, EventStorming y Context Mapping |
+| **0.5** | 23/04/2026 | Joan Teves | Se agregaron las secciones del Tactical-Level Domain-Driven Design, Bounded Context |
 
 </div>
 
