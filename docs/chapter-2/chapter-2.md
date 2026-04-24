@@ -2103,7 +2103,7 @@ En este segmento del informe otorgaremos a las historias de usuario un peso bas�
 | 10     | US20          | Asignación de roles dentro del evento         | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas.                                                                            | 5                              |
 | 11     | US21          | Vista de cronograma del evento                | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento.                                            | 5                              |
 | 12     | US25          | Contratar organizador                         | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto.                                    | 3                              |
-| 13     | US23          | 	Visualizar perfiles de organizadores     | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos.                                                     | 3                              |
+| 13     | US23          | Visualizar perfiles de organizadores          | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos.                                                     | 3                              |
 | 14     | US22          | Visualización de resumen del evento           | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación.                                                                    | 3                              |
 | 15     | US24          | Solicitar cotización a un organizador         | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades.                       | 3                              |
 | 16     | US26          | Calificar organizador tras evento             | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas.                                         | 3                              |
@@ -2514,3 +2514,5 @@ Utiliza el `ChatRepository` y `MessageRepository` para persistir el historial en
 | content | Text | N-N | Cuerpo del mensaje de texto. |
 | sent_at | Date | N-N | Marca de tiempo del envío. |
 | status | Enum | N-N | Estado (SENT, DELIVERED, READ). |
+
+<div style="page-break-after: always;"></div>
