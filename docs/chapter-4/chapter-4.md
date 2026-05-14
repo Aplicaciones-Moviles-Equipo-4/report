@@ -2,13 +2,107 @@
 
 ## 4.1. Software Configuration Management
 
+En esta sección se describen las herramientas y configuraciones utilizadas para gestionar el desarrollo del software, incluyendo el entorno de desarrollo, el control de versiones, las convenciones de estilo de código y la configuración del despliegue.
+
 ### 4.1.1. Software Development Environment Configuration
+
+En esta sección, se incluirá los productos de software que se usaron en el proyecto.
+
+#### Project Management:
+
+* Trello: Herramienta de gestión de proyectos basada en tableros Kanban. Permite organizar tareas, asignar responsabilidades y hacer seguimiento del progreso del proyecto.
+
+#### Product UX/UI Design:
+
+* Figma: Herramienta de diseño colaborativo para crear prototipos, wireframes y diseños de interfaces de usuario.
+* Uxpressia: Plataforma para crear mapas de experiencia de usuario, customer journey maps y user personas.
+* Visual Paradigm: Herramienta de modelado UML y diseño de arquitectura de software.
+
+#### Software Development:
+
+* Intellij IDEA: Entorno de desarrollo integrado (IDE) para Java, Kotlin y lenguajes basados en JVM.
+* Webstorm: IDE para desarrollo web, soporta HTML, CSS, JavaScript y frameworks modernos.
+* GitHub: Plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+* Visual Studio Code: Editor utilizado únicamente para la exportación del reporte de formato markdown a PDF.
+
+#### Software Deployment:
+
+* GitHub Pages: Servicio de alojamiento web estático proporcionado por GitHub, ideal para desplegar sitios web y documentación.
 
 ### 4.1.2. Source Code Management
 
+Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
+El repositorio se estructuró de la siguiente manera:
+
+* Organización en Github: [https://github.com/Aplicaciones-Moviles-Equipo-4](https://github.com/Aplicaciones-Moviles-Equipo-4)
+* Repositorio de el informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
+* Repositorio de la Landing Page: [https://github.com/Aplicaciones-Moviles-Equipo-4/Landing-Page](https://github.com/Aplicaciones-Moviles-Equipo-4/Landing-Page)
+* Repositorio del Frontend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend](https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend)
+* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Backend](https://github.com/WASwarm1/Backend)
+
 ### 4.1.3. Source Code Style Guide & Conventions
 
+Se adoptaron las siguientes guías y convenciones de estilo de código para asegurar la calidad y consistencia del código fuente, el idioma estándar para el desarrollo fue el **inglés**.
+
+#### Principios generales:
+
+* **Idioma estándar**: Inglés
+* **Legibilidad ante todo**: El código debe ser fácil de leer y entender.
+* **Consistencia**: Seguir las mismas convenciones en todo el proyecto.
+* **Nombres semánticos**: Utilizar nombres descriptivos para variables, funciones y clases. 
+Se usan **sustantivos** para clases y **verbos** para funciones.
+
+#### HTML:
+
+* Archivos HTML deben tener la extensión `.html`.
+* Se incluye `alt` en todas las imágenes.
+* Usar comillas dobles para atributos.
+* Usar etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`, etc.).
+
+#### CSS:
+
+* Archivos CSS deben tener la extensión `.css`.
+* Usar guiones para nombres de clases y IDs (e.g., `.main-header`).
+* Se agrupan estilos relacionados y se separan con comentarios.
+
+#### JavaScript:
+
+* Archivos JS deben tener la extensión `.js`.
+* Usar camelCase para nombres de variables y funciones.
+* Usar `const` y `let` en lugar de `var`.
+* Usar funciones flecha y nombres explícitos.
+* Los archivos deben tener una unica responsabilidad (Single Responsibility Principle).
+
+#### Java:
+
+* Archivos Java deben tener la extensión `.java`.
+* Usar `PascalCase` para nombres de clases, métodos y propiedades.
+* Usar `camelCase` para nombres de variables y parámetros.
+
+#### Kotlin:
+
+* Archivos Kotlin deben tener la extensión `.kt`.
+* Usar `PascalCase` para nombres de clases, métodos y propiedades.
+* Usar `camelCase` para nombres de variables y parámetros.
+* Usar Jetpack Compose como kit de desarrollo.
+* Usar Material 3.
+
 ### 4.1.4. Software Deployment Configuration
+
+En esta sección se describen las configuraciones y herramientas utilizadas para el despliegue del software desarrollado.
+El objetivo es asegurar que el proceso de despliegue sea eficiente, automatizado y confiable.
+
+#### Despliegue de la Landing Page:
+
+La **Landing Page** fue desarrollada utilizando tecnologías web estándar como HTML, CSS y JavaScript. Y fue desplegada utilizando **GitHub Pages**, un servicio de alojamiento web estático proporcionado por GitHub.
+
+#### Pasos para el despliegue:
+
+1. **Creación del repositorio**: Se creó un repositorio en la organización de GitHub llamado `Landing-Page`.
+2. **Desarrollo del sitio**: El código fuente de la landing page se desarrolló y organizó en el repositorio.
+3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
+4. **Despliegue automático**: Cada vez que se realiza un push a la rama `main`, GitHub Pages actualiza automáticamente el sitio web.
 
 <div style="page-break-after: always;"></div>
 
