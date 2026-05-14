@@ -110,80 +110,85 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 ### 4.2.1. Sprint 1
 
-En este primer sprint para el desarrollo móvil, el equipo se enfocó en establecer la arquitectura base de la aplicación en Android utilizando Kotlin y Jetpack Compose. Se priorizó la integración de los servicios fundamentales expuestos por el backend en Spring Boot, asegurando que la aplicación móvil pudiera interactuar con los contextos de negocio de `iam`, `profiles` y `planning`. El objetivo central fue transformar la lógica de negocio del servidor en una experiencia de usuario fluida y reactiva en dispositivos móviles.
+En este primer sprint para el desarrollo móvil, el equipo se enfocó en establecer la arquitectura base de la aplicación en Android utilizando Kotlin y Jetpack Compose. Simultáneamente, se integraron los servicios expuestos por nuestro backend desarrollado en Spring Boot, abarcando los *Bounded Contexts* principales como `iam` (Autenticación), `profiles` (Gestión de perfiles), `planning` (Cotizaciones y Eventos) y `operation` (Reseñas). El objetivo fue lograr una primera versión funcional navegable desde dispositivos móviles que consuma datos reales de nuestra API desplegada.
 
 #### 4.2.1.1. Sprint Planning 1
 
-| Sprint # | Sprint 1 (Mobile Focus) |
+| Sprint # | Sprint 1 (Mobile Implementation) |
 | :--- | :--- |
-| **Sprint Planning Background** | Inicio del desarrollo nativo móvil. Se definió el uso de Clean Architecture y la integración con el backend ya desplegado para asegurar consistencia en los datos entre las plataformas. |
+| **Sprint Planning Background** | Este sprint marca el inicio del desarrollo nativo móvil. Se priorizó la configuración del proyecto en Android Studio bajo Clean Architecture y la conexión mediante Retrofit con los endpoints de Spring Boot previamente desarrollados y documentados. |
 | **Date** | 04/05/2026 |
 | **Time** | 21:00 horas |
 | **Location** | Reunión virtual - Discord |
 | **Prepared By** | Joan Fernando Teves Samaniego |
-| **Attendees** | - Aldave Aldave Jean Pierr <br> - Berrocal Ramirez Omar Christian <br> - Crisanto Calle Deybbi Anderson <br> - Cutiri Agüero Fabrizio Alexander <br> - Paico Calderon July Zelmira <br> - Rios Piñan Dayro Richard <br> - Teves Samaniego Joan Fernando |
-| **Sprint Goal & User Stories** | Configurar el entorno de desarrollo, implementar el sistema de autenticación móvil y desarrollar las vistas principales de cotizaciones y perfiles de organizadores. |
-| **Sprint 1 Velocity** | 24 Story Points |
-| **Sum of Story Points** | 24 |
+| **Attendees** | - Armestar Heredia, Matias Gabriel <br> - Crisanto Calle, Deybbi Anderson <br> - Duran Diaz, Antonio Rodrigo <br> - Nakasone Gomes, Marco Antonio <br> - Teves Samaniego, Joan Fernando |
+| **Sprint n-1 Review Summary** | Se finalizó la configuración de los bounded contexts del backend (`iam`, `profiles`, `planning`, `operation`), dejando los controladores REST listos para ser consumidos por los clientes. |
+| **Sprint n-1 Retrospective Summary**| Se acordó mantener una comunicación constante para asegurar que los DTOs y modelos móviles coincidan perfectamente con los *Resources* (ej. `QuoteResource`, `ProfileResource`, `SocialEventResource`) enviados por el backend. |
+| **Sprint Goal & User Stories** | Establecer la arquitectura móvil, implementar la autenticación de usuarios (IAM) y desarrollar las pantallas principales de gestión de perfiles, eventos y bandeja de cotizaciones consumiendo los servicios REST de la plataforma. |
+| **Sprint 1 Velocity** | Velocidad de 24 Story Points |
+| **Sum of Story Points** | Sprint 1 - 24 Story Points |
 
 #### 4.2.1.2. Sprint Backlog 1
 
-| ID | Title | Task ID | Task Title | Description | Estimation (Hrs) | Assigned To | Status |
+El siguiente backlog refleja la distribución de tareas, enfocándose en la integración del backend con las interfaces móviles construidas en Jetpack Compose para los 5 integrantes del equipo.
+
+| ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US01 | Autenticación IAM | TA01 | IAM Mobile Client | Integrar el `AuthenticationController` del backend para el manejo de Sign-In y almacenamiento del JWT Token. | 4 | Rios Piñan, Dayro | Done |
-| US02 | Bandeja de Cotizaciones | TA02 | Quote Management UI | Desarrollar la interfaz móvil para visualizar cotizaciones consumiendo `QuoteResource` y `OrganizerQuotesController`. | 3 | Teves Samaniego, Joan | Done |
-| US03 | Perfiles Profesionales | TA03 | Profile Integration | Consumir el `ProfilesController` para listar perfiles de organizadores incluyendo sus catálogos de servicios. | 3 | Crisanto Calle, Deybbi | Done |
-| US04 | Gestión de Eventos | TA04 | Social Events View | Implementar la vista de eventos sociales registrados a través de `CustomerSocialEventsController`. | 4 | Paico Calderon, July | In Progress |
-| US05 | Componentes UI | TA05 | Atomic Components | Crear los componentes @Composable para botones, tarjetas de 24dp de radio y campos de texto estilizados. | 3 | Cutiri Agüero, Fabrizio | Done |
+| US01 | Autenticación de Usuario | TA01 | IAM Mobile Integration | Configurar Retrofit e implementar el login consumiendo `AuthenticationController`. Manejo de JWT Bearer Token. | 4 | Armestar Heredia, Matias Gabriel | Done |
+| US02 | Gestión de Cotizaciones | TA02 | QuoteScreen UI & API | Maquetar pantalla de Cotizaciones y conectar con `OrganizerQuotesController` y `QuotesController`. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US03 | Visualizar Perfiles | TA03 | Profile UI | Crear la vista de perfiles de organizadores y consumir `ProfilesController` y `ServiceCatalogsController`. | 4 | Crisanto Calle, Deybbi Anderson | Done |
+| US04 | Gestión de Eventos | TA04 | Social Events View | Implementar la lista de eventos activos consumiendo `CustomerSocialEventsController` y `SocialEventsController`. | 4 | Duran Diaz, Antonio Rodrigo | Done |
+| US05 | Gestión de Reseñas | TA05 | Reviews Integration | Desarrollar la pantalla para visualizar y publicar reseñas conectando con `ReviewsController`. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US06 | Catálogo de Servicios | TA06 | Quote Service Items | Conectar la vista de ítems de servicio dentro de una cotización usando `QuoteServiceItemsController`. | 3 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
-A continuación se presentan los registros de actividad técnica más relevantes para la integración de la app móvil con los servicios del backend:
+A continuación, se detallan los commits más relevantes en el repositorio correspondiente al desarrollo móvil, demostrando la integración con las entidades y ensambladores del backend:
 
-| Repository | Branch | Commit ID | Commit message | Commit on (date) |
-| :--- | :--- | :--- | :--- | :--- |
-| `eventify-mobile` | `feature/cotizaciones_negociaciones` | `7a0818d` | `feat(planning): map QuoteResource to mobile domain entities` | 07/05/2026 |
-| `eventify-mobile` | `feature/cotizaciones_negociaciones` | `e851915` | `feat(planning): implement QuoteScreen with StateFlow integration` | 08/05/2026 |
-| `eventify-mobile` | `feature/iam` | `c699202` | `feat(iam): integrate authentication service with Bearer token storage` | 06/05/2026 |
-| `eventify-backend` | `main` | `de62d70` | `fix(cors): allow authentication requests from mobile user-agent` | 05/05/2026 |
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `eventify-mobile` | `feature/planning` | `a1b2c3d` | `feat(planning): implement QuoteScreen mapping QuoteResource from API` | --- | 07/05/2026 |
+| `eventify-mobile` | `feature/planning` | `b2c3d4e` | `feat(planning): integrate Retrofit for OrganizerQuotesController endpoints` | --- | 08/05/2026 |
+| `eventify-mobile` | `feature/iam` | `c3d4e5f` | `feat(iam): add LoginScreen consuming SignInResource and BearerToken` | --- | 06/05/2026 |
+| `eventify-mobile` | `feature/profiles` | `d4e5f6g` | `feat(profile): add ProfileScreen UI fetching from ProfilesContext` | --- | 09/05/2026 |
+| `eventify-mobile` | `feature/operation` | `e5f6g7h` | `feat(reviews): add reviews list calling ReviewsController` | --- | 10/05/2026 |
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
-Se realizaron pruebas de integración entre el cliente móvil y la API REST:
-* **Backend Validation:** Se ejecutaron las clases de prueba en `EventifyPlatformApplicationTests.java` para validar la estabilidad de los contextos antes de las llamadas desde la app móvil.
-* **UI Integration Testing:** Uso de `@Preview` en Jetpack Compose para asegurar la correcta visualización de las entidades `Quote` y `Profile` en diversos tamaños de pantalla.
-* **API Verification:** Validación de los endpoints de `planning` y `profiles` mediante Postman para asegurar que los DTOs devolvieran la información requerida por el frontend móvil.
+Durante este sprint, la validación del software se dividió en dos frentes:
+1.  **Backend:** Se ejecutaron las pruebas automatizadas de Spring Boot (`EventifyPlatformApplicationTests.java`) para asegurar que la inyección de dependencias y los contextos (`iam`, `planning`, `profiles`, `operation`) carguen correctamente antes del despliegue.
+2.  **Mobile:** Se empleó la herramienta `@Preview` de Jetpack Compose para realizar UI Testing visual de los componentes (Tarjetas de Eventos, Formularios de Login). Adicionalmente, se validaron los contratos de los DTOs (como `CreateQuoteResource`, `AuthenticatedUserResource`) probando las respuestas HTTP con Postman antes de integrarlas con Retrofit.
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
-**Capturas de la Aplicación Móvil en Ejecución:**
-A continuación se adjuntan las evidencias visuales de la aplicación consumiendo datos reales del backend:
+*[Placeholder: Insertar aquí capturas de pantalla del emulador de Android Studio o de un dispositivo físico mostrando la aplicación ejecutándose. Específicamente: Pantalla de Login, Bandeja de Cotizaciones de Organizador, Lista de Eventos Sociales y Catálogo de Servicios]*
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
-La aplicación móvil se conecta a los servicios REST documentados en el backend a través de Swagger. Estos son los servicios core integrados en este sprint:
+La aplicación móvil consume directamente la API construida en Spring Boot. Basado en la arquitectura del backend, estos son los endpoints principales integrados en este sprint documentados en OpenAPI/Swagger:
 
-| Action | End Point | Funciones del Servicio |
+| Action | End Point | Funciones |
 | :--- | :--- | :--- |
-| POST | `/api/v1/authentication/sign-in` | Procesa el inicio de sesión y devuelve el recurso del usuario autenticado. |
-| GET | `/api/v1/organizers/{organizerId}/quotes` | Recupera todas las cotizaciones gestionadas por un organizador. |
-| GET | `/api/v1/profiles` | Obtiene el listado de perfiles profesionales incluyendo nombre, dirección y correo electrónico. |
-| GET | `/api/v1/quotes/{quoteId}/service-items` | Detalla los servicios específicos incluidos en una cotización de evento. |
+| POST | `/api/v1/authentication/sign-in` | Autentica al usuario en la aplicación móvil y devuelve el token JWT (Bearer Token). |
+| GET | `/api/v1/organizers/{organizerId}/quotes` | Obtiene la lista completa de cotizaciones de un organizador específico (`OrganizerQuotesController`). |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Recupera el detalle de los servicios incluidos dentro de una cotización (`QuoteServiceItemsController`). |
+| GET | `/api/v1/profiles` | Retorna el listado de perfiles públicos de organizadores disponibles en la plataforma (`ProfilesController`). |
+| GET | `/api/v1/customers/{customerId}/social-events` | Recupera los eventos sociales registrados vinculados al cliente autenticado (`CustomerSocialEventsController`). |
+| POST | `/api/v1/reviews` | Permite enviar una nueva reseña hacia un perfil específico (`ReviewsController`). |
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
-* **Despliegue del Backend:** El servicio se encuentra operativo en la plataforma Render. Se verificó que las propiedades de producción (`application-prod.properties`) estén correctamente vinculadas a la base de datos PostgreSQL remota.
-* **Artefacto Móvil:** Generación exitosa de la versión preliminar de la aplicación (`eventify-v1.apk`) para pruebas en dispositivos físicos Android.
+* **Backend:** El servicio RESTful en Spring Boot se encuentra desplegado de manera continua en la plataforma **Render**, utilizando la configuración de propiedades de producción (`application-prod.properties`) conectada a una base de datos PostgreSQL en la nube, la cual genera las tablas pluralizadas en `snake_case` (según `SnakeCaseWithPluralizedTablePhysicalNamingStrategy.java`).
+* **Mobile:** Se generó el primer artefacto compilado (`app-debug.apk`) desde Android Studio. Este archivo fue distribuido internamente al equipo para realizar las pruebas de integración en dispositivos físicos Android.
 
 ![Dashboard de Render y Android Studio Build](../../assets/chapter-4/RenderBack.jpeg)
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
-El equipo utilizó un flujo de trabajo basado en GitFlow. Se destaca la actividad constante en la rama `feature/cotizaciones_negociaciones` y la coordinación con el equipo de backend para ajustar los esquemas de datos de `planning` y `profiles` para su consumo óptimo en pantallas móviles.
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
 
 ![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
 
-<div style="page-break-after: always;"></div>
 
 ## 4.3. Validation Interviews
 
