@@ -104,6 +104,8 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 3. **Configuración de GitHub Pages**: En la configuración del repositorio, se habilitó GitHub Pages seleccionando la rama `main` como fuente.
 4. **Despliegue automático**: Cada vez que se realiza un push a la rama `main`, GitHub Pages actualiza automáticamente el sitio web.
 
+**URL de la Landing Page desplegada**: https://aplicaciones-moviles-equipo-4.github.io/eventify-landing-page-realtec/
+
 <div style="page-break-after: always;"></div>
 
 ## 4.2. Landing Page & Mobile Application Implementation
@@ -182,6 +184,8 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 * **Mobile:** Se generó el primer artefacto compilado (`app-debug.apk`) desde Android Studio. Este archivo fue distribuido internamente al equipo para realizar las pruebas de integración en dispositivos físicos Android.
 
 ![Dashboard de Render y Android Studio Build](../../assets/chapter-4/RenderBack.jpeg)
+
+**URL del Backend desplegado**: https://eventify-platform.onrender.com/swagger-ui/index.html#/
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
