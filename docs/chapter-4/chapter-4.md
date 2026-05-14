@@ -132,9 +132,59 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 ### 4.3.1. Diseño de Entrevistas
 
+A continuación se presentan las preguntas de validación utilizadas para las entrevistas con usuarios. El objetivo es evaluar tanto la landing page como la aplicación móvil de Eventify para asegurar que la experiencia de navegación sea clara, coherente y útil para quienes organizan y gestionan eventos desde sus dispositivos.
+
+**Preguntas sobre la Landing Page**
+*   ¿Al ingresar a la landing page, entiendes rápidamente qué es Eventify y a quién está dirigido?
+*   ¿La información sobre las funcionalidades de la plataforma te resulta clara y atractiva?
+*   ¿El diseño visual (colores, imágenes, tipografías) te transmite confianza y profesionalismo?
+*   ¿Consideras que la estructura de la landing page está bien organizada y fácil de navegar?
+*   ¿Te motivaría registrarte o saber más sobre Eventify luego de explorar la landing page?
+
+**Preguntas sobre la Aplicación Móvil**
+*   ¿Nota coherencia visual y funcional entre las distintas secciones (perfil, eventos, cotizaciones) desde la pantalla de su dispositivo móvil?
+*   ¿El proceso de revisión y gestión de las cotizaciones le resulta intuitivo con la interacción táctil?
+*   ¿Cómo evalúa la longitud y distribución de la información en las pantallas (ej. mucho *scroll*)?
+*   ¿El tablero de tareas (Kanban) le ayuda a organizar su flujo de trabajo? ¿Es fácil cambiar el estado de las tareas?
+*   ¿La velocidad de carga y transición entre las pantallas de la aplicación cumple sus expectativas?
+*   ¿Qué funcionalidades adicionales agregaría para mejorar la experiencia general al usar la aplicación móvil?
+
 ### 4.3.2. Registro de Entrevistas
 
+Para validar la usabilidad y la experiencia de usuario (UX) de la aplicación móvil de Eventify, se realizó una sesión de pruebas con un usuario representativo del público objetivo (perfil de anfitriona/organizadora junior). A continuación, se presenta el registro formal de la entrevista, omitiendo la transcripción coloquial para enfocarnos en los hallazgos técnicos.
+
+**Ficha Técnica del Usuario**
+*   **Nombre:** Camila Pérez
+*   **Edad:** 25 años
+*   **Ocupación:** Estudiante de Negocios Internacionales (USIL).
+*   **Rol en la prueba:** Usuario de prueba (Tester UX/UI).
+*   **Dispositivo utilizado:** Smartphone Android (Pantalla de 6.1 pulgadas).
+*   **Fecha de la sesión:** 13 de mayo de 2026.
+
+**Evidencia de la Entrevista**
+A continuación se adjunta la captura de la sesión de validación y el enlace a la grabación correspondiente:
+
+*   **Enlace de la grabación:** [https://tinyurl.com/Entrevista1Camila]
+
+![Captura de la Entrevista con Camila Pérez](../../assets/chapter-4/Entrevista1Camila.png)
+
+**Resumen de Hallazgos y Respuestas Obtenidas**
+El usuario interactuó con la versión móvil de Eventify durante 15 minutos, enfocándose en las vistas de Mis Eventos, Estado Financiero (Cotizaciones) y el tablero de Tareas. 
+
+1.  **Impresión visual y coherencia:** La usuaria destacó que la aplicación tiene una apariencia profesional, formal y moderna. Los colores y el diseño le transmitieron la sensación de ser una herramienta de negocios seria, ideal para la organización de eventos corporativos.
+2.  **Gestión de Cotizaciones (Navegación y Scroll):** Encontró que las tarjetas de montos y los botones de acción ("Pagar", "Revisar") tienen un tamaño adecuado. Sin embargo, observó que cuando una cotización incluye múltiples servicios, la pantalla exige un exceso de desplazamiento (*scroll*). Sugirió agrupar los gastos por categorías (ej. catering, logística) para compactar la vista.
+3.  **Tablero Kanban y Ergonomía Táctil:** Aunque el concepto visual del tablero le resultó muy útil para organizar el flujo de trabajo, reportó dificultades en la interacción táctil. Los botones/flechas para mover una tarea de "Pendiente" a "En progreso" resultaron demasiado pequeños (touch target deficiente), requiriendo varios toques. Sugirió implementar gestos de deslizamiento (*swipe*) para cambiar los estados de manera más natural.
+4.  **Funcionalidades adicionales:** Solicitó la inclusión de notificaciones emergentes (*push notifications*) dentro de la app para avisos en tiempo real (ej. cuando se aprueba una cotización). Además, recomendó añadir un botón de contacto directo a WhatsApp en el perfil del organizador para agilizar la comunicación.
+5.  **Rendimiento:** Destacó positivamente la velocidad de carga y la fluidez de las transiciones entre pantallas, sin experimentar bloqueos.
+
 ### 4.3.3. Evaluaciones según heurísticas
+
+A partir del registro de la entrevista con Camila Pérez, se realizó una evaluación aplicando las Heurísticas de Usabilidad de Jakob Nielsen enfocadas en entornos móviles:
+
+*   **Heurística 8: Diseño estético y minimalista (Aprobado):** La interfaz cumple satisfactoriamente con esta heurística. El usuario percibió un diseño limpio, profesional y sin información irrelevante que compita por su atención.
+*   **Heurística 7: Flexibilidad y eficiencia de uso (Oportunidad de Mejora):** La necesidad de hacer un *scroll* excesivo en cotizaciones largas afecta la eficiencia. Se tomará la recomendación del usuario de agrupar los ítems por categorías (Acordeones o *Collapsibles*) para mejorar la navegación de usuarios expertos.
+*   **Heurística 4: Consistencia y estándares (Aprobado / Observación táctil):** Aunque visualmente es consistente, el estándar de aplicaciones móviles dicta que las acciones de mover elementos en un tablero (Kanban) se realicen mediante gestos táctiles (*Drag and Drop* o *Swipe*). Los botones direccionales pequeños violan los principios de diseño de interacción táctil (Touch Targets de al menos 48x48 dp), por lo que este componente será rediseñado.
+*   **Heurística 1: Visibilidad del estado del sistema (Oportunidad de Mejora):** La falta de notificaciones en tiempo real al aprobarse una cotización deja al usuario sin retroalimentación inmediata si se encuentra en otra pantalla. Se planificará la integración de notificaciones *Push* o *Snackbars* globales.
 
 <div style="page-break-after: always;"></div>
 
