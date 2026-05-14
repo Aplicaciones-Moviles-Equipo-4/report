@@ -461,12 +461,68 @@ Esta sección describe los apartados específicos que detallan la propuesta visu
 
 Esta sección presenta el diseño de los wireframes para **Eventify**, los cuales permiten planificar la estructura de la interfaz y la navegación antes de comenzar el desarrollo de la aplicación móvil. Los wireframes fueron creados utilizando la herramienta **Figma**, lo que facilitó una elaboración colaborativa y eficiente, permitiendo iterar rápidamente sobre las ideas y estructuras.
 
-#### Segmento Organizadores de Eventos
+**Login**
+![home_wireframe_app.png](../../assets/chapter-3/home_wireframe_app.png)
+![inicio_sesion_wireframe_app.png](../../assets/chapter-3/inicio_sesion_wireframe_app.png)
+![wireframe_app_type_user.png](../../assets/chapter-3/wireframe_app_type_user.png)
 
+
+**Anfitrion**
+![image.png](../../assets/chapter-3/image.png)
+![image (1).png](../../assets/chapter-3/image%20%281%29.png)
+![image (2).png](../../assets/chapter-3/image%20%282%29.png)
+![image (3).png](../../assets/chapter-3/image%20%283%29.png)
+![image (4).png](../../assets/chapter-3/image%20%284%29.png)
+
+**Organizador**
+![image (6).png](../../assets/chapter-3/image%20%286%29.png)
+![image (7).png](../../assets/chapter-3/image%20%287%29.png)
+![image (8).png](../../assets/chapter-3/image%20%288%29.png)
+![image (9).png](../../assets/chapter-3/image%20%289%29.png)
+![image (10).png](../../assets/chapter-3/image%20%2810%29.png)
+![image (11).png](../../assets/chapter-3/image%20%2811%29.png)
+
+#### Segmento Organizadores de Eventos
 Para el **Segmento Organizadores de Eventos**, los wireframes se diseñaron con el objetivo de facilitar una experiencia fluida y eficiente, permitiendo a los organizadores gestionar sus eventos y tareas de manera intuitiva.
+
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
+**Flujo de Usuario: Inicio de Sesión o Registro**
+
+Este flujo describe el proceso de **Inicio de sesión o Registro** dentro de la **Aplicación Móvil** de **Eventify**, basado en la estructura presentada en los wireframes. A continuación, se detallan los pasos que el usuario sigue para acceder a su cuenta o crear una nueva.
+
+![wireflow_inicio_de_sesion.png](../../assets/chapter-3/wireflow_inicio_de_sesion.png)
+
+
+**Wireflow del Anfitrión**
+
+El **wireflow del anfitrión** muestra el flujo principal de navegación y cotizaciones dentro de la **Aplicación Móvil** de **Eventify**.
+
+1. **Pantalla de Inicio**: El usuario puede explorar categorías de eventos y destacados.
+2. **Pantalla de Explorar**: Se presentan opciones para comparar diferentes eventos.
+3. **Pantalla de Solicitar Cotización**: El anfitrión puede completar un formulario para enviar una solicitud de cotización.
+4. **Pantalla de Mis Cotizaciones**: El usuario puede ver las cotizaciones recibidas o en proceso.
+5. **Pantalla de Detalle de Cotización**: Se muestra un desglose detallado de una cotización seleccionada, con opciones para confirmar o rechazar.
+
+Este flujo está diseñado para ser intuitivo y permite al anfitrión gestionar de manera eficiente las cotizaciones y opciones de eventos.
+![wireflow_anfitrion.png](../../assets/chapter-3/wireflow_anfitrion.png)
+
+# Wireflow del Organizador
+
+Este **wireflow** ilustra el flujo principal de navegación dentro de la **Aplicación Móvil** de **Eventify** para el **Organizador de Eventos**. El flujo abarca las siguientes pantallas clave:
+
+1. **Panel**: El organizador comienza en el panel principal, que muestra un resumen y accesos rápidos.
+2. **Kanban**: Visualización de las tareas en columnas (Kanban) para una gestión ágil.
+3. **Crear Tarea**: El organizador puede crear nuevas tareas asignando responsable, fecha, prioridad y descripción.
+4. **Detalle Tarea**: Se consultan los detalles de cada tarea, incluyendo sub-tareas, progreso y comentarios.
+5. **Perfil del Organizador**: El organizador puede revisar su perfil, estadísticas y especialidades.
+6. **Reseñas**: Visualización de calificaciones y comentarios de los eventos organizados.
+7. **Mis Organizaciones**: Listado de los eventos y organizaciones bajo su responsabilidad.
+8. **Detalle Organización**: Acceso a la información detallada sobre los eventos, incluyendo proveedores y progreso.
+
+Este flujo está diseñado para facilitar una gestión eficiente de los eventos, tareas y la información del organizador.
+![wireflow_organicer.png](../../assets/chapter-3/wireflow_organicer.png)
 
 
 #### 3.1.4.3. Mobile Applications Mock-ups
