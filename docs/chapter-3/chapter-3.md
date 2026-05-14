@@ -47,7 +47,33 @@ Usado en áreas que requieren énfasis, como barras laterales o cuadros de infor
 Ideal para el texto principal y fondos secundarios, este color otorga un contraste fuerte que mejora la legibilidad y otorga un aire de sofisticación y profesionalismo. Es perfecto para contenidos y secciones donde se desea claridad sin distracciones.
 
 
+#### Tono de Comunicación:
+
+* Profesional y confiable, dirigido a anfitriones de eventos que buscan servicios de calidad.
+* Accesible y amigable, para proporcionar simpleza a la vez que profundidad.
+* Orientado al servicio, enfocado en resolver problemas y brindar comodidad.
+
+#### Tipografía:
+
+* **Inter:** Fuente legible y cuidadosamente elaborada, diseñada por Rasmus Andersson, ideal para interfaces digitales.
+
+#### Paleta de Colores: 
+
+- Primary: ![#4F46E5](https://img.shields.io/badge/-4F46E5-4F46E5?style=flat-square)
+- Secondary: ![#F59E0B](https://img.shields.io/badge/-F59E0B-F59E0B?style=flat-square)
+- Tertiary: ![#A54100](https://img.shields.io/badge/-A54100-A54100?style=flat-square)
+- Neutral: ![#111827](https://img.shields.io/badge/-111827-111827?style=flat-square)
+
 ### 3.1.2. Information Architecture
+
+Se realizó la landing page teniendo en mente el comunicar el valor de la solución de manera simplificada para organizadores y anfitriones de eventos.
+
+Orden vertical de las secciones:
+* Hero: Primer impacto visual con propuesta de valor clara.
+* Presentación del equipo: Construcción de confianza a través de perfiles profesionales.
+* Misión y visión: Establecimiento de credibilidad y valores.
+* Beneficios: Refuerzo de la propuesta de valor.
+* Contacto: Información para establecer comunicación.
 
 #### 3.1.2.1. Organization Systems
 **Arquitectura de la Información de Eventify**
@@ -106,6 +132,10 @@ La **Aplicación Móvil** de **Eventify** está pensada para ofrecer una experie
 
 - La interfaz móvil está diseñada para ser completamente intuitiva, adaptándose a la experiencia de navegación táctil, permitiendo a los usuarios completar sus tareas con el menor esfuerzo posible.
 - Cada sección dentro de la aplicación está claramente identificada y utiliza una combinación de texto, íconos y ayudas visuales, mejorando la experiencia de usuario y facilitando la comprensión de las opciones.
+
+* Jerárquico: El contenido se organiza desde el impacto inicial hasta el detalle de servicios.
+* Centrado en personas: La presentación del equipo es prominente para generar confianza.
+* Orientado a beneficios: El mensaje está adaptado a organizadores y anfitriones de eventos que necesitan entablar negociaciones de manera ordenada y confiable.
 
 #### 3.1.2.2. Labelling Systems
 
