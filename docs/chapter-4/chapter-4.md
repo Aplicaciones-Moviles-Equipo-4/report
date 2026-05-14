@@ -108,23 +108,80 @@ La **Landing Page** fue desarrollada utilizando tecnologías web estándar como 
 
 ## 4.2. Landing Page & Mobile Application Implementation
 
-### 4.2.1. Sprint n
+### 4.2.1. Sprint 1
 
-#### 4.2.1.1. Sprint Planning n
+En este primer sprint para el desarrollo móvil, el equipo se enfocó en establecer la arquitectura base de la aplicación en Android utilizando Kotlin y Jetpack Compose. Se priorizó la integración de los servicios fundamentales expuestos por el backend en Spring Boot, asegurando que la aplicación móvil pudiera interactuar con los contextos de negocio de `iam`, `profiles` y `planning`. El objetivo central fue transformar la lógica de negocio del servidor en una experiencia de usuario fluida y reactiva en dispositivos móviles.
 
-#### 4.2.1.2. Sprint Backlog n
+#### 4.2.1.1. Sprint Planning 1
+
+| Sprint # | Sprint 1 (Mobile Focus) |
+| :--- | :--- |
+| **Sprint Planning Background** | Inicio del desarrollo nativo móvil. Se definió el uso de Clean Architecture y la integración con el backend ya desplegado para asegurar consistencia en los datos entre las plataformas. |
+| **Date** | 04/05/2026 |
+| **Time** | 21:00 horas |
+| **Location** | Reunión virtual - Discord |
+| **Prepared By** | Joan Fernando Teves Samaniego |
+| **Attendees** | - Aldave Aldave Jean Pierr <br> - Berrocal Ramirez Omar Christian <br> - Crisanto Calle Deybbi Anderson <br> - Cutiri Agüero Fabrizio Alexander <br> - Paico Calderon July Zelmira <br> - Rios Piñan Dayro Richard <br> - Teves Samaniego Joan Fernando |
+| **Sprint Goal & User Stories** | Configurar el entorno de desarrollo, implementar el sistema de autenticación móvil y desarrollar las vistas principales de cotizaciones y perfiles de organizadores. |
+| **Sprint 1 Velocity** | 24 Story Points |
+| **Sum of Story Points** | 24 |
+
+#### 4.2.1.2. Sprint Backlog 1
+
+| ID | Title | Task ID | Task Title | Description | Estimation (Hrs) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US01 | Autenticación IAM | TA01 | IAM Mobile Client | Integrar el `AuthenticationController` del backend para el manejo de Sign-In y almacenamiento del JWT Token. | 4 | Rios Piñan, Dayro | Done |
+| US02 | Bandeja de Cotizaciones | TA02 | Quote Management UI | Desarrollar la interfaz móvil para visualizar cotizaciones consumiendo `QuoteResource` y `OrganizerQuotesController`. | 3 | Teves Samaniego, Joan | Done |
+| US03 | Perfiles Profesionales | TA03 | Profile Integration | Consumir el `ProfilesController` para listar perfiles de organizadores incluyendo sus catálogos de servicios. | 3 | Crisanto Calle, Deybbi | Done |
+| US04 | Gestión de Eventos | TA04 | Social Events View | Implementar la vista de eventos sociales registrados a través de `CustomerSocialEventsController`. | 4 | Paico Calderon, July | In Progress |
+| US05 | Componentes UI | TA05 | Atomic Components | Crear los componentes @Composable para botones, tarjetas de 24dp de radio y campos de texto estilizados. | 3 | Cutiri Agüero, Fabrizio | Done |
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
+A continuación se presentan los registros de actividad técnica más relevantes para la integración de la app móvil con los servicios del backend:
+
+| Repository | Branch | Commit ID | Commit message | Commit on (date) |
+| :--- | :--- | :--- | :--- | :--- |
+| `eventify-mobile` | `feature/cotizaciones_negociaciones` | `7a0818d` | `feat(planning): map QuoteResource to mobile domain entities` | 07/05/2026 |
+| `eventify-mobile` | `feature/cotizaciones_negociaciones` | `e851915` | `feat(planning): implement QuoteScreen with StateFlow integration` | 08/05/2026 |
+| `eventify-mobile` | `feature/iam` | `c699202` | `feat(iam): integrate authentication service with Bearer token storage` | 06/05/2026 |
+| `eventify-backend` | `main` | `de62d70` | `fix(cors): allow authentication requests from mobile user-agent` | 05/05/2026 |
+
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron pruebas de integración entre el cliente móvil y la API REST:
+* **Backend Validation:** Se ejecutaron las clases de prueba en `EventifyPlatformApplicationTests.java` para validar la estabilidad de los contextos antes de las llamadas desde la app móvil.
+* **UI Integration Testing:** Uso de `@Preview` en Jetpack Compose para asegurar la correcta visualización de las entidades `Quote` y `Profile` en diversos tamaños de pantalla.
+* **API Verification:** Validación de los endpoints de `planning` y `profiles` mediante Postman para asegurar que los DTOs devolvieran la información requerida por el frontend móvil.
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
+**Capturas de la Aplicación Móvil en Ejecución:**
+A continuación se adjuntan las evidencias visuales de la aplicación consumiendo datos reales del backend:
+
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+La aplicación móvil se conecta a los servicios REST documentados en el backend a través de Swagger. Estos son los servicios core integrados en este sprint:
+
+| Action | End Point | Funciones del Servicio |
+| :--- | :--- | :--- |
+| POST | `/api/v1/authentication/sign-in` | Procesa el inicio de sesión y devuelve el recurso del usuario autenticado. |
+| GET | `/api/v1/organizers/{organizerId}/quotes` | Recupera todas las cotizaciones gestionadas por un organizador. |
+| GET | `/api/v1/profiles` | Obtiene el listado de perfiles profesionales incluyendo nombre, dirección y correo electrónico. |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Detalla los servicios específicos incluidos en una cotización de evento. |
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
+* **Despliegue del Backend:** El servicio se encuentra operativo en la plataforma Render. Se verificó que las propiedades de producción (`application-prod.properties`) estén correctamente vinculadas a la base de datos PostgreSQL remota.
+* **Artefacto Móvil:** Generación exitosa de la versión preliminar de la aplicación (`eventify-v1.apk`) para pruebas en dispositivos físicos Android.
+
+![Dashboard de Render y Android Studio Build](../../assets/chapter-4/RenderBack.jpeg)
+
 #### 4.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo utilizó un flujo de trabajo basado en GitFlow. Se destaca la actividad constante en la rama `feature/cotizaciones_negociaciones` y la coordinación con el equipo de backend para ajustar los esquemas de datos de `planning` y `profiles` para su consumo óptimo en pantallas móviles.
+
+![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
 
 <div style="page-break-after: always;"></div>
 
