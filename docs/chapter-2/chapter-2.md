@@ -962,11 +962,11 @@ Regla: Permite eliminar cuentas.
   </tr>
   <tr>
     <td colspan="4">
-      <b>Escenario 1:</b><br>
+      <b>Escenario 1 - Búsqueda de información de uso:</b><br>
       Dado que el visitante accede al sitio<br>
       Cuando busca información de uso<br>
       Entonces el sistema muestra la sección correspondiente<br><br>
-      <b>Escenario 2:</b><br>
+      <b>Escenario 2 - Búsqueda de funcionalidades:</b><br>
       Dado que el visitante accede al sitio<br>
       Cuando busca funcionalidades<br>
       Entonces el sistema muestra la información correspondiente
@@ -1005,12 +1005,12 @@ para determinar si es relevante.
 <tr>
 <td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de Propuesta de valor</b><br>
 Dado que el visitante accede al sitio<br>
 Cuando revisa el contenido principal<br>
 Entonces identifica la propuesta de valor<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Percepción de lenguaje</b><br>
 Dado que el visitante navega el sitio<br>
 Cuando revisa la información<br>
 Entonces percibe lenguaje claro y comprensible
@@ -1035,12 +1035,12 @@ para identificar cómo la aplicación puede ayudarle.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de Beneficios</b><br>
 Dado que el visitante accede al sitio<br>
 Cuando revisa beneficios<br>
 Entonces visualiza información segmentada<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de funcionalidades según tipo de usuario</b><br>
 Dado que el visitante accede al sitio<br>
 Cuando revisa funcionalidades<br>
 Entonces visualiza contenido según su tipo de usuario
@@ -1063,12 +1063,12 @@ para validar si cubren sus necesidades.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de Funcionalidades ordenadas según relevancia</b><br>
 Dado que el visitante accede<br>
 Cuando revisa funcionalidades<br>
 Entonces observa funcionalidades relevantes<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de Funcionalidades organizadas por criterio</b><br>
 Dado que el visitante accede<br>
 Cuando revisa contenido<br>
 Entonces la información se presenta de forma organizada
@@ -1091,17 +1091,17 @@ para comenzar a utilizarla.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Acceso a la aplicación</b><br>
 Dado que el visitante conoce la información<br>
 Cuando decide continuar<br>
 Entonces accede directamente<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Análisis previo acceso a la aplicación</b><br>
 Dado que el visitante analiza contenido<br>
 Cuando finaliza<br>
 Entonces el sistema ofrece acceso<br><br>
 
-<b>Escenario 3</b><br>
+<b>Escenario 3 - Presencia de interés en el usuario</b><br>
 Dado que el visitante interactúa<br>
 Cuando muestra interés<br>
 Entonces se le presentan accesos disponibles
@@ -1124,12 +1124,12 @@ para entender su uso.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de demo</b><br>
 Dado que el visitante accede<br>
 Cuando revisa contenido<br>
 Entonces visualiza una demostración<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Control de contenido multimedia de la demo</b><br>
 Dado que el visitante reproduce contenido<br>
 Cuando interactúa<br>
 Entonces puede controlar la reproducción
@@ -1152,12 +1152,12 @@ para validar confianza.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización del Equipo de Desarrollo</b><br>
 Dado que el visitante accede<br>
 Cuando revisa equipo<br>
 Entonces visualiza información detallada<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Interés en detalles del Equipo de Desarrollo</b><br>
 Dado que el visitante consulta perfiles<br>
 Cuando selecciona uno<br>
 Entonces accede a información externa
@@ -1180,12 +1180,12 @@ para no perder interés.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Acceso a contenido multimedia</b><br>
 Dado que el visitante accede<br>
 Cuando solicita contenido<br>
 Entonces carga en máximo 3 segundos<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Priorización de contenido según conexión a internet</b><br>
 Dado que hay conexión limitada<br>
 Cuando accede<br>
 Entonces el sistema optimiza carga
@@ -1208,7 +1208,7 @@ para evaluar opciones.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de precios detallados</b><br>
 Dado que accede<br>
 Cuando revisa planes<br>
 Entonces visualiza precios claramente
@@ -1231,40 +1231,12 @@ para tener buena experiencia.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Adaptación de contenido en PC</b><br>
 Dado que accede desde PC<br>
 Cuando visualiza<br>
 Entonces se adapta correctamente<br><br>
 
-<b>Escenario 2</b><br>
-Dado que accede desde móvil<br>
-Cuando visualiza<br>
-Entonces se adapta sin errores
-</td></tr>
-</table>
-
-<br>
-
-<table border="1" style="border-collapse: collapse; width:100%;">
-<tr><th>Story ID</th><th>User</th><th>Priority</th><th>Epic</th></tr>
-<tr><td>US10</td><td>Visitante</td><td>High</td><td>EP01</td></tr>
-
-<tr><th>Title</th><td colspan="3">Diseño responsive</td></tr>
-
-<tr><th colspan="4">Description</th></tr>
-<tr><td colspan="4">
-Como visitante quiere usar el sitio en cualquier dispositivo  
-para tener buena experiencia.
-</td></tr>
-
-<tr><th colspan="4">Acceptance Criteria</th></tr>
-<tr><td colspan="4">
-<b>Escenario 1</b><br>
-Dado que accede desde PC<br>
-Cuando visualiza<br>
-Entonces se adapta correctamente<br><br>
-
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Adaptación de contenido en dispositivos móviles</b><br>
 Dado que accede desde móvil<br>
 Cuando visualiza<br>
 Entonces se adapta sin errores
@@ -1281,18 +1253,18 @@ Entonces se adapta sin errores
 
 <tr><th colspan="4">Description</th></tr>
 <tr><td colspan="4">
-Como usuario quiere comunicarse mediante chat  
+Como usuario quiero comunicarme mediante chat  
 para coordinar eventos dentro de la plataforma.
 </td></tr>
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Comunicación mediante chat</b><br>
 Dado que el usuario accede a un perfil<br>
 Cuando inicia comunicación<br>
 Entonces el sistema habilita un chat asociado<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Listado de conversaciones</b><br>
 Dado que el usuario accede a su cuenta<br>
 Cuando revisa mensajes<br>
 Entonces visualiza conversaciones activas
@@ -1315,12 +1287,12 @@ para recordar acuerdos importantes.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de mensajes previos</b><br>
 Dado que el usuario accede al chat<br>
 Cuando existen mensajes previos<br>
 Entonces visualiza el historial completo<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización automática de historial de mensajes</b><br>
 Dado que el usuario accede al chat<br>
 Cuando carga la conversación<br>
 Entonces el historial se muestra automáticamente
@@ -1343,12 +1315,12 @@ para estar al tanto de nuevos mensajes.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de notificaciones de chat</b><br>
 Dado que el usuario está activo<br>
 Cuando recibe un mensaje<br>
 Entonces visualiza una notificación<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de aviso de nuevo mensaje</b><br>
 Dado que el usuario está conectado<br>
 Cuando llega un mensaje<br>
 Entonces recibe una alerta visual
@@ -1372,17 +1344,17 @@ para compartir información relevante del evento.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Adjunto de archivo mediante chat</b><br>
 Dado que el usuario accede al chat<br>
 Cuando adjunta un archivo<br>
 Entonces el sistema lo envía correctamente<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Previsualización y descarga de archivos mediante chat</b><br>
 Dado que el usuario recibe un archivo<br>
 Cuando accede al chat<br>
 Entonces puede visualizarlo o descargarlo<br><br>
 
-<b>Escenario 3</b><br>
+<b>Escenario 3 - Adjunto de documentos optimizado</b><br>
 Dado que el usuario desea compartir información<br>
 Cuando adjunta documentos<br>
 Entonces estos se envían correctamente
@@ -1405,12 +1377,12 @@ para saber si fueron leídos.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Confirmación de envío de mensajes</b><br>
 Dado que el usuario envía un mensaje<br>
 Cuando se procesa<br>
 Entonces se marca como enviado<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Confirmación de lectura de mensajes</b><br>
 Dado que el mensaje es recibido<br>
 Cuando el destinatario lo visualiza<br>
 Entonces el estado se actualiza
@@ -1433,12 +1405,12 @@ para no perder mensajes importantes.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Constancia de notificiones por correo</b><br>
 Dado que el usuario no está conectado<br>
 Cuando recibe un mensaje<br>
 Entonces recibe un correo<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de notificación por correo</b><br>
 Dado que el usuario recibe el correo<br>
 Cuando lo revisa<br>
 Entonces identifica el mensaje pendiente
@@ -1461,12 +1433,12 @@ para iniciar su planificación.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Guardado de datos en registro de evento</b><br>
 Dado que el organizador accede<br>
 Cuando registra datos<br>
 Entonces el evento se guarda<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Registro de evento</b><br>
 Dado que completa datos<br>
 Cuando confirma<br>
 Entonces se registra correctamente
@@ -1489,12 +1461,12 @@ para no olvidar actividades importantes.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Actualización de evento</b><br>
 Dado que gestiona evento<br>
 Cuando agrega tarea<br>
 Entonces se registra<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Actualización de estado de tarea</b><br>
 Dado que completa tarea<br>
 Cuando actualiza estado<br>
 Entonces se refleja el cambio
@@ -1517,12 +1489,12 @@ para gestionar gastos.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Guardado de monto de presupuesto</b><br>
 Dado que define presupuesto<br>
 Cuando registra monto<br>
 Entonces se guarda<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Recalculación de gastos por modificación</b><br>
 Dado que registra gasto<br>
 Cuando actualiza datos<br>
 Entonces se calcula saldo
@@ -1545,12 +1517,12 @@ para delegar tareas.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Notificación por invitación de colaboración</b><br>
 Dado que invita colaborador<br>
 Cuando envía invitación<br>
 Entonces el sistema notifica<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Notificación por definición de responsable</b><br>
 Dado que asigna tarea<br>
 Cuando define responsable<br>
 Entonces se notifica
@@ -1573,12 +1545,12 @@ para entender la secuencia del evento.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Generación de cronograma</b><br>
 Dado que planifica<br>
 Cuando agrega actividades<br>
 Entonces se genera cronograma<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Reajuste de cronograma por modificación</b><br>
 Dado que modifica actividad<br>
 Cuando actualiza horario<br>
 Entonces el cronograma se ajusta
@@ -1601,12 +1573,12 @@ para conocer el estado general.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visulización de progreso y estado de evento</b><br>
 Dado que accede al panel<br>
 Cuando visualiza información<br>
 Entonces observa progreso y estado<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de alertas por incidencia en el evento</b><br>
 Dado que hay incidencias<br>
 Cuando revisa<br>
 Entonces visualiza alertas
@@ -1630,12 +1602,12 @@ para evaluar su experiencia antes de contratarlos.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Visualización de perfil de organizador</b><br>
 Dado que el anfitrión busca organizadores<br>
 Cuando selecciona uno<br>
 Entonces visualiza su perfil con información relevante<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Filtro en la búsqueda de organizadores</b><br>
 Dado que el anfitrión desea filtrar<br>
 Cuando aplica criterios<br>
 Entonces el sistema muestra resultados acordes
@@ -1660,12 +1632,12 @@ para comparar opciones disponibles.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Envío de solicitud de cotización</b><br>
 Dado que el anfitrión encuentra un organizador<br>
 Cuando solicita cotización<br>
 Entonces el sistema envía la solicitud<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de ofertas recibidas</b><br>
 Dado que el organizador responde<br>
 Cuando el anfitrión revisa<br>
 Entonces visualiza las ofertas recibidas
@@ -1690,12 +1662,12 @@ para formalizar el servicio del evento.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Registro de contratación de organizador</b><br>
 Dado que el anfitrión recibe una cotización<br>
 Cuando decide contratar<br>
 Entonces el sistema registra la contratación<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de datos de organizador contratado</b><br>
 Dado que el anfitrión accede a su panel<br>
 Cuando revisa el evento<br>
 Entonces visualiza los datos del organizador contratado
@@ -1720,12 +1692,12 @@ para aportar información a otros usuarios.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Registro de calificaciones según experiencia del anfitrión</b><br>
 Dado que el evento finaliza<br>
 Cuando el anfitrión califica<br>
 Entonces el sistema registra la calificación<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Visualización de calificaciones según experiencia del anfitrión</b><br>
 Dado que otros usuarios consultan perfiles<br>
 Cuando revisan reseñas<br>
 Entonces visualizan las calificaciones publicadas
@@ -1750,12 +1722,12 @@ para actualizar su opinión.
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
 
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Edición de reseña ya enviadas</b><br>
 Dado que el anfitrión tiene una reseña<br>
 Cuando accede a editar<br>
 Entonces puede modificarla<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Actualización de reseña postmodificación</b><br>
 Dado que guarda cambios<br>
 Cuando se actualiza<br>
 Entonces la reseña se refleja en el perfil
@@ -1779,12 +1751,12 @@ para registrar eventos en el sistema.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe una solicitud válida<br>
 Entonces responde con código 201 y el recurso creado<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe datos duplicados<br>
 Entonces responde con código 400
@@ -1807,12 +1779,12 @@ para recuperar información del sistema.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe un ID válido<br>
 Entonces responde con código 200 y el recurso<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe un ID inválido<br>
 Entonces responde con código 404
@@ -1835,12 +1807,12 @@ para modificar información existente.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe datos válidos<br>
 Entonces responde con código 200<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe un ID inválido<br>
 Entonces responde con código 404
@@ -1863,12 +1835,12 @@ para mantener actualizado el sistema.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe ID válido<br>
 Entonces responde con código 200<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe ID inválido<br>
 Entonces responde con código 404
@@ -1891,12 +1863,12 @@ para registrar cuentas en el sistema.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe datos válidos<br>
 Entonces responde con 201<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que recibe datos duplicados<br>
 Cuando procesa<br>
 Entonces responde con 400
@@ -1919,12 +1891,12 @@ para obtener información del sistema.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que el endpoint está disponible<br>
 Cuando recibe ID válido<br>
 Entonces responde con 200<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que recibe ID inválido<br>
 Cuando procesa<br>
 Entonces responde con 404
@@ -1947,12 +1919,12 @@ para modificar información.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que recibe datos válidos<br>
 Cuando procesa<br>
 Entonces responde con 200<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que ID no existe<br>
 Cuando procesa<br>
 Entonces responde con 404
@@ -1975,12 +1947,12 @@ para gestionar cuentas.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que recibe ID válido<br>
 Cuando procesa<br>
 Entonces responde con 200<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que ID no existe<br>
 Cuando procesa<br>
 Entonces responde con 404
@@ -2003,12 +1975,12 @@ para facilitar la visualización.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que recibe estado válido<br>
 Cuando consulta<br>
 Entonces responde con lista de eventos<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que estado no existe<br>
 Cuando consulta<br>
 Entonces responde con 404
@@ -2031,12 +2003,12 @@ para facilitar la búsqueda.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Búsqueda de eventos por título</b><br>
 Dado que recibe título exacto<br>
 Cuando consulta<br>
 Entonces responde con coincidencias<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Búsqueda de eventos por título mediante coincidencias</b><br>
 Dado que recibe título parcial<br>
 Cuando consulta<br>
 Entonces responde con coincidencias
@@ -2059,12 +2031,12 @@ para consultas personalizadas.
 
 <tr><th colspan="4">Acceptance Criteria</th></tr>
 <tr><td colspan="4">
-<b>Escenario 1</b><br>
+<b>Escenario 1 - Identificación de éxito de petición</b><br>
 Dado que recibe nombre válido<br>
 Cuando consulta<br>
 Entonces responde con eventos asociados<br><br>
 
-<b>Escenario 2</b><br>
+<b>Escenario 2 - Identificación de error de petición</b><br>
 Dado que cliente no existe<br>
 Cuando consulta<br>
 Entonces responde con 404
