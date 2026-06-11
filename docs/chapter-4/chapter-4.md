@@ -37,33 +37,29 @@ Para la documentación de la arquitectura y datos se emplearon:
 
 ### 4.1.2. Source Code Management
 
-La gestión del código fuente es fundamental en el desarrollo colaborativo. Se describe el sistema de control de versiones implementado utilizando GitHub, detallando el modelo GitFlow y las convenciones de commit mediante Conventional Commits.
+Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git.
+Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
+El repositorio se estructuró de la siguiente manera:
 
-**Estructura de Ramas:**
-Para mantener un flujo organizado, se ha implementado el modelo GitFlow:
-- **Main / Master Branch:** Rama principal que contiene las versiones estables de la aplicación móvil.
-- **Develop:** Rama secundaria donde se integran todas las características nuevas antes de fusionarse a la rama main.
-- **Feature Branches:** Ramas dedicadas a cada funcionalidad del proyecto móvil (ej. `feature/cotizaciones_negociaciones`, `feature/gestion_eventos`).
-- **Release Branches:** Ramas creadas cuando `develop` está lista para ser convertida en una nueva versión estable (APK/AAB).
-
-**Convenciones de commits (Conventional Commits):**
-Formato estándar para facilitar la lectura del historial de cambios:
-```text
-<type>[optional scope]: <description>
-
-[optional body]
+* Organización en Github: [https://github.com/Aplicaciones-Moviles-Equipo-4](https://github.com/Aplicaciones-Moviles-Equipo-4)
+* Repositorio de el informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
+* Repositorio de la Landing Page: [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec)
+* Repositorio del Frontend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend](https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend)
+* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Backend](https://github.com/WASwarm1/Backend)
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
 ### 4.1.4. Software Deployment Configuration
 
+<div style="page-break-after: always;"></div>
+
 ## 4.2. Landing Page & Mobile Application Implementation
 
-### 4.2.1. Sprint n
+### 4.2.1. Sprint 1
 
-#### 4.2.1.1. Sprint Planning n
+#### 4.2.1.1. Sprint Planning 1
 
-#### 4.2.1.2. Sprint Backlog n
+#### 4.2.1.2. Sprint Backlog 1
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
@@ -77,6 +73,8 @@ Formato estándar para facilitar la lectura del historial de cambios:
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
+<div style="page-break-after: always;"></div>
+
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
@@ -85,17 +83,23 @@ Formato estándar para facilitar la lectura del historial de cambios:
 
 ### 4.3.3. Evaluaciones según heurísticas
 
+<div style="page-break-after: always;"></div>
+
 ## Conclusiones
 
 ### Conclusiones Y Recomendaciones
 
 ### Video App Validation
 
-### Video Abput the product
+### Video About the product
 
 ### Video About the team
 
+<div style="page-break-after: always;"></div>
+
 ## Glosario
+
+<div style="page-break-after: always;"></div>
 
 ## Bibliografia
 
