@@ -96,8 +96,7 @@ En esta segunda entrega se desarrolló y desplegó la Landing Page así como el 
 
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este segundo hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
 
-![contributors-TB1](../../assets/cover/contributors-3.png)
-![contributors-TB1](../../assets/cover/contributors-4.png)
+![contributors-TB1](../../assets/cover/contributors-3.jpg)
 
 ### Tercer Hito: AV2
 
