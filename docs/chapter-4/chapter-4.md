@@ -193,7 +193,6 @@ El trabajo en equipo se gestionó utilizando ramas de características (*feature
 
 ![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
 
-
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
