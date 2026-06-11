@@ -2,50 +2,9 @@
 
 ## 4.1. Software Configuration Management
 
-Con el fin de garantizar la consistencia, trazabilidad y calidad a lo largo del ciclo de vida de Eventify, el equipo ha definido un conjunto de decisiones y convenciones orientadas a la gestión de configuraciones. Esta sección describe los mecanismos adoptados para controlar el código fuente, configurar los entornos de desarrollo y definir el proceso de despliegue de la aplicación móvil y la landing page.
-
-Estas prácticas permiten asegurar que las versiones del software se mantengan estables, que el trabajo colaborativo sea eficiente y que las implementaciones sean controladas y reproducibles.
-
 ### 4.1.1. Software Development Environment Configuration
 
-Para asegurar una colaboración eficiente y mantener la calidad en el desarrollo móvil de Eventify, se ha definido un entorno de desarrollo común para todos los miembros del equipo. A continuación, se listan los productos de software utilizados, indicando su propósito y su enlace de referencia o descarga correspondiente.
-
-**Product UX/UI Design**
-Para el diseño de la experiencia de usuario y la interfaz de la aplicación móvil y Landing page, se utilizaron las siguientes herramientas:
-- **Figma:** Se empleó para la creación de wireframes, mock-ups y prototipos interactivos de la aplicación móvil. [https://www.figma.com/](https://www.figma.com/)
-- **UXPressia:** Utilizada para elaborar User Personas, Empathy Maps, Journey Maps e Impact Maps. [https://uxpressia.com/](https://uxpressia.com/)
-- **Miro:** Se utilizó para la creación de los mapas de escenarios As-Is y To-Be. [https://miro.com/es/](https://miro.com/es/)
-
-**Software Development**
-Para el desarrollo del software móvil, se adoptaron los siguientes productos:
-- **Android Studio (Instalación local):** Entorno de desarrollo integrado (IDE) oficial utilizado para programar la aplicación móvil utilizando Kotlin y Jetpack Compose. [https://developer.android.com/studio](https://developer.android.com/studio)
-- **Git (Instalación local):** Empleado para gestionar los cambios de código de manera local mediante commits y ramas. [https://git-scm.com/](https://git-scm.com/)
-- **GitHub:** Plataforma de repositorio remoto para la gestión de versiones del código, implementando el flujo GitFlow para garantizar un desarrollo organizado. [https://github.com/](https://github.com/)
-
-**Project Management and Collaboration**
-En la gestión de proyectos y colaboración del equipo se utilizaron:
-- **Trello:** Utilizado para la planificación y seguimiento de tareas, distribuidas en listas de "por hacer", "en progreso" y "hecho".
-- **WhatsApp:** Medio de comunicación instantánea para coordinar avances, resolver dudas rápidas y hacer recordatorios. [https://web.whatsapp.com/](https://web.whatsapp.com/)
-- **Discord:** Utilizado como plataforma de comunicación por voz y chat, facilitando reuniones rápidas y discusiones técnicas. [https://discord.com/](https://discord.com/)
-- **Zoom:** Herramienta utilizada para realizar reuniones virtuales formales, presentaciones de avances y coordinación general. [https://www.zoom.com/es](https://www.zoom.com/es)
-
-**Software Documentation**
-Para la documentación de la arquitectura y datos se emplearon:
-- **Vertabelo:** Herramienta utilizada para el diseño y documentación de bases de datos. [https://vertabelo.com/](https://vertabelo.com/)
-- **PlantUML Editor:** Utilizada para la creación del diagrama de clases. [https://plantuml.com/](https://plantuml.com/)
-- **Structurizr:** Herramienta usada para modelar la arquitectura de software mediante diagramas C4. [https://structurizr.com/](https://structurizr.com/)
-
 ### 4.1.2. Source Code Management
-
-Para la gestion del código fuente se utilizó GitHub, una plataforma de alojamiento de código fuente y control de versiones utilizando Git.
-Se creó un repositorio en la organización de GitHub, donde se almacenó todo el código fuente del proyecto. 
-El repositorio se estructuró de la siguiente manera:
-
-* Organización en Github: [https://github.com/Aplicaciones-Moviles-Equipo-4](https://github.com/Aplicaciones-Moviles-Equipo-4)
-* Repositorio de el informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
-* Repositorio de la Landing Page: [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec)
-* Repositorio del Frontend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend](https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend)
-* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Backend](https://github.com/WASwarm1/Backend)
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
