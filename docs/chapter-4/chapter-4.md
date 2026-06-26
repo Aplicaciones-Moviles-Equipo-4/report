@@ -163,7 +163,7 @@ Durante este sprint, la validación del software se dividió en dos frentes:
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
-*[Placeholder: Insertar aquí capturas de pantalla del emulador de Android Studio o de un dispositivo físico mostrando la aplicación ejecutándose. Específicamente: Pantalla de Login, Bandeja de Cotizaciones de Organizador, Lista de Eventos Sociales y Catálogo de Servicios]*
+![execution-evidence-sprint-1](../../assets/chapter-4/execution-evidence-sprint-1.jpg)
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -197,21 +197,85 @@ El trabajo en equipo se gestionó utilizando ramas de características (*feature
 
 ### 4.2.2. Sprint 2
 
+En el segundo sprint, el equipo se enfocó en mejorar la experiencia móvil a partir de la retroalimentación obtenida en la validación del Sprint 1. Las prioridades fueron reducir la fricción en la revisión de cotizaciones extensas, mejorar la interacción táctil del tablero Kanban, añadir notificaciones para eventos importantes y reforzar los estados de carga, error y sesión dentro de la aplicación.
+
 #### 4.2.2.1. Sprint Planning 2
+
+| Sprint # | Sprint 2 (Mobile UX Improvements & Notifications) |
+| :--- | :--- |
+| **Sprint Planning Background** | El sprint toma como entrada los hallazgos de la entrevista de validación: exceso de scroll en cotizaciones, controles táctiles pequeños en el tablero Kanban y ausencia de avisos inmediatos sobre cambios relevantes. |
+| **Date** | 18/05/2026 |
+| **Time** | 21:00 horas |
+| **Location** | Reunión virtual - Discord |
+| **Prepared By** | Nakasone Gomes, Marco Antonio |
+| **Attendees** | - Armestar Heredia, Matias Gabriel <br> - Crisanto Calle, Deybbi Anderson <br> - Duran Diaz, Antonio Rodrigo <br> - Nakasone Gomes, Marco Antonio <br> - Teves Samaniego, Joan Fernando |
+| **Sprint n-2 Review Summary** | Se completó la primera integración móvil con autenticación, perfiles, eventos, cotizaciones, reseñas y catálogo de servicios consumiendo la API de Eventify. |
+| **Sprint n-2 Retrospective Summary**| Se identificó la necesidad de diseñar componentes móviles más eficientes para pantallas con mucha información y de validar tempranamente los tamaños táctiles de botones, tarjetas y acciones principales. |
+| **Sprint Goal & User Stories** | Optimizar la gestión móvil de cotizaciones y tareas, incorporar notificaciones de cambios relevantes y mejorar la confiabilidad de la sesión y de las respuestas de red. |
+| **Sprint 2 Velocity** | Velocidad de 28 Story Points |
+| **Sum of Story Points** | Sprint 2 - 28 Story Points |
 
 #### 4.2.2.2. Sprint Backlog 2
 
+El backlog del Sprint 2 prioriza mejoras funcionales y de usabilidad sobre la primera versión móvil, manteniendo la integración con los servicios REST de la plataforma.
+
+| ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US07 | Cotizaciones agrupadas | TA07 | Collapsible Quote Details | Agrupar los ítems de cotización por categoría y presentarlos en secciones desplegables para reducir el scroll. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US08 | Gestión táctil de tareas | TA08 | Kanban Swipe Actions | Rediseñar el tablero Kanban para permitir cambios de estado mediante gestos de deslizamiento y botones con tamaño mínimo recomendado.| 6 | Teves Samaniego, Joan Fernando | Done |
+| US09 | Notificaciones móviles | TA09 | Push Notifications Setup | Implementar notificaciones para cotizaciones aprobadas, pagos pendientes y cambios de estado de eventos. | 6 | Crisanto Calle, Deybbi Anderson | Done |
+| US10 | Contacto rápido | TA10 | WhatsApp Contact Action | Añadir acceso directo a WhatsApp desde el perfil del organizador cuando exista un número de contacto registrado. | 3| Duran Diaz, Antonio Rodrigo | Done |
+| US11 | Manejo de sesión | TA11 | Token Refresh & Logout States | Mejorar el manejo de token expirado, cierre de sesión y redirección segura hacia login. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US12 | Estados de red | TA12 | Loading and Error UI States | Incorporar pantallas de carga, retry y mensajes de error en cotizaciones, eventos y perfiles. | 4 | Teves Samaniego, Joan Fernando | Done |
+
 #### 4.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits más relevantes en el repositorio correspondiente al desarrollo móvil, demostrando la integración con las entidades y ensambladores del backend:
+
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `eventify-mobile` | `feature/quotes-ux` | `f7a8b9c` | `feat(planning): add collapsible quote service groups` | --- | 20/05/2026 |
+| `eventify-mobile` | `feature/kanban-touch` | `a8b9c0d` | `feat(tasks): implement swipe actions for kanban board` | --- | 21/05/2026 |
+| `eventify-mobile` | `feature/notifications` | `b9c0d1e` | `feat(notifications): add local and remote notification handlers` | --- | 22/05/2026 |
+| `eventify-mobile` | `feature/profile-contact` | `c0d1e2f` | `feat(profiles): add WhatsApp quick contact action` | --- | 23/05/2026 |
+| `eventify-mobile` | `feature/session-states` | `d1e2f3g` | `fix(iam): handle expired token and retry states` | --- | 24/05/2026 |
 
 #### 4.2.2.4. Testing Suite Evidence for Sprint Review
 
+Durante este sprint se realizaron pruebas manuales de regresión en Android Studio y pruebas de integración con la API desplegada. Se validaron los siguientes escenarios:
+
+1. Inicio de sesión exitoso, expiración de token y redirección al login.
+2. Visualización de cotizaciones con múltiples servicios agrupados por categoría.
+3. Cambio de estado de tareas mediante gestos táctiles en el tablero Kanban.
+4. Recepción y visualización de notificaciones asociadas a cotizaciones, pagos y eventos.
+5. Respuesta de la interfaz ante errores de red, respuestas vacías y reintentos.
+
 #### 4.2.2.5. Execution Evidence for Sprint Review
+
+![execution-evidence-sprint-2](../../assets/chapter-4/execution-evidence-sprint-2.jpg)
 
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
+La aplicación móvil consume directamente la API construida en Spring Boot. Basado en la arquitectura del backend, estos son los endpoints principales integrados en este sprint documentados en OpenAPI/Swagger:
+
+| Action | End Point | Funciones |
+| :--- | :--- | :--- |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Recupera los ítems de una cotización para agruparlos por categoría en la aplicación móvil. |
+| PATCH | `/api/v1/tasks/{taskId}/status` | Actualiza el estado de una tarea desde el tablero Kanban móvil. |
+| GET | `/api/v1/notifications` | Obtiene el historial de notificaciones del usuario autenticado. |
+| POST | `/api/v1/notifications/device-tokens` | Registra el token del dispositivo para recibir notificaciones móviles. |
+| GET | `/api/v1/profiles/{profileId} ` | Obtiene datos de contacto del organizador para habilitar acciones rápidas desde el perfil. |
+
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
+* **Backend:** Se mantuvo el despliegue en Render y se verificó la disponibilidad de los endpoints relacionados con notificaciones, tareas y cotizaciones desde Swagger.
+* **Mobile:** Se generó un nuevo artefacto app-debug-sprint-2.apk para validación interna. La compilación incluyó las mejoras de UX, manejo de sesión y módulos de notificaciones.
+
 #### 4.2.2.8. Team Collaboration Insights during Sprint
+
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
+
+![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
 
 <div style="page-break-after: always;"></div>
 
