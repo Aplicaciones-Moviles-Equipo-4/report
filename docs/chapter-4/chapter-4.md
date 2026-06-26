@@ -381,6 +381,6 @@ Se recomienda continuar con procesos de validación constante con usuarios reale
 
 <div style="page-break-after: always;"></div>
 
-## Bibliografia
+## Bibliografía
 
 ## Anexos
