@@ -36,10 +36,11 @@ Se creó un repositorio en la organización de GitHub, donde se almacenó todo e
 El repositorio se estructuró de la siguiente manera:
 
 * Organización en Github: [https://github.com/Aplicaciones-Moviles-Equipo-4](https://github.com/Aplicaciones-Moviles-Equipo-4)
-* Repositorio de el informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
+* Repositorio del Informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
 * Repositorio de la Landing Page: [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec)
-* Repositorio del Frontend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend](https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend)
-* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Backend](https://github.com/WASwarm1/Backend)
+* Repositorio del Frontend (Kotlin): [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin)
+* Repositorio del Frontend (Flutter): [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-flutter](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-flutter)
+* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/backend](https://github.com/Aplicaciones-Moviles-Equipo-4/backend)
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
@@ -127,8 +128,8 @@ En este primer sprint para el desarrollo móvil, el equipo se enfocó en estable
 | **Sprint n-1 Review Summary** | Se finalizó la configuración de los bounded contexts del backend (`iam`, `profiles`, `planning`, `operation`), dejando los controladores REST listos para ser consumidos por los clientes. |
 | **Sprint n-1 Retrospective Summary**| Se acordó mantener una comunicación constante para asegurar que los DTOs y modelos móviles coincidan perfectamente con los *Resources* (ej. `QuoteResource`, `ProfileResource`, `SocialEventResource`) enviados por el backend. |
 | **Sprint Goal & User Stories** | Establecer la arquitectura móvil, implementar la autenticación de usuarios (IAM) y desarrollar las pantallas principales de gestión de perfiles, eventos y bandeja de cotizaciones consumiendo los servicios REST de la plataforma. |
-| **Sprint 1 Velocity** | Velocidad de 24 Story Points |
-| **Sum of Story Points** | Sprint 1 - 24 Story Points |
+| **Sprint 1 Velocity** | Velocidad de 11 Story Points |
+| **Sum of Story Points** | Sprint 1 - 11 Story Points |
 
 #### 4.2.1.2. Sprint Backlog 1
 
@@ -136,12 +137,12 @@ El siguiente backlog refleja la distribución de tareas, enfocándose en la inte
 
 | ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US01 | Autenticación de Usuario | TA01 | IAM Mobile Integration | Configurar Retrofit e implementar el login consumiendo `AuthenticationController`. Manejo de JWT Bearer Token. | 4 | Armestar Heredia, Matias Gabriel | Done |
-| US02 | Gestión de Cotizaciones | TA02 | QuoteScreen UI & API | Maquetar pantalla de Cotizaciones y conectar con `OrganizerQuotesController` y `QuotesController`. | 5 | Teves Samaniego, Joan Fernando | Done |
-| US03 | Visualizar Perfiles | TA03 | Profile UI | Crear la vista de perfiles de organizadores y consumir `ProfilesController` y `ServiceCatalogsController`. | 4 | Crisanto Calle, Deybbi Anderson | Done |
-| US04 | Gestión de Eventos | TA04 | Social Events View | Implementar la lista de eventos activos consumiendo `CustomerSocialEventsController` y `SocialEventsController`. | 4 | Duran Diaz, Antonio Rodrigo | Done |
-| US05 | Gestión de Reseñas | TA05 | Reviews Integration | Desarrollar la pantalla para visualizar y publicar reseñas conectando con `ReviewsController`. | 4 | Nakasone Gomes, Marco Antonio | Done |
-| US06 | Catálogo de Servicios | TA06 | Quote Service Items | Conectar la vista de ítems de servicio dentro de una cotización usando `QuoteServiceItemsController`. | 3 | Teves Samaniego, Joan Fernando | Done |
+| US01 | Navegar sencillamente | TA01 | IAM Mobile Integration | Como visitante quiero navegar fácilmente entre secciones para acceder rápidamente a la información relevante. | 4 | Armestar Heredia, Matias Gabriel | Done |
+| US02 | Visualizar claramente propuesta de valor | TA02 | QuoteScreen UI & API | Como visitante quiere entender rápidamente el valor del producto para determinar si es relevante. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US03 | Visualizar información segmentada | TA03 | Profile UI | Como visitante quiere ver información según su rol para identificar cómo la aplicación puede ayudarle. | 4 | Crisanto Calle, Deybbi Anderson | Done |
+| US04 | Conocer las funcionalidades de la aplicación | TA04 | Social Events View | Como visitante quiere conocer las funcionalidades para validar si cubren sus necesidades. | 4 | Duran Diaz, Antonio Rodrigo | Done |
+| US05 | Gestión de Reseñas | TA05 | Reviews Integration | Como visitante quiere acceder a la aplicación para comenzar a utilizarla. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US06 | Catálogo de Servicios | TA06 | Quote Service Items | Como visitante quiere ver cómo funciona la aplicación para entender su uso. | 3 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
@@ -212,8 +213,8 @@ En el segundo sprint, el equipo se enfocó en mejorar la experiencia móvil a pa
 | **Sprint n-2 Review Summary** | Se completó la primera integración móvil con autenticación, perfiles, eventos, cotizaciones, reseñas y catálogo de servicios consumiendo la API de Eventify. |
 | **Sprint n-2 Retrospective Summary**| Se identificó la necesidad de diseñar componentes móviles más eficientes para pantallas con mucha información y de validar tempranamente los tamaños táctiles de botones, tarjetas y acciones principales. |
 | **Sprint Goal & User Stories** | Optimizar la gestión móvil de cotizaciones y tareas, incorporar notificaciones de cambios relevantes y mejorar la confiabilidad de la sesión y de las respuestas de red. |
-| **Sprint 2 Velocity** | Velocidad de 28 Story Points |
-| **Sum of Story Points** | Sprint 2 - 28 Story Points |
+| **Sprint 2 Velocity** | Velocidad de 24 Story Points |
+| **Sum of Story Points** | Sprint 2 - 24 Story Points |
 
 #### 4.2.2.2. Sprint Backlog 2
 
@@ -221,12 +222,12 @@ El backlog del Sprint 2 prioriza mejoras funcionales y de usabilidad sobre la pr
 
 | ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US07 | Cotizaciones agrupadas | TA07 | Collapsible Quote Details | Agrupar los ítems de cotización por categoría y presentarlos en secciones desplegables para reducir el scroll. | 5 | Armestar Heredia, Matias Gabriel | Done |
-| US08 | Gestión táctil de tareas | TA08 | Kanban Swipe Actions | Rediseñar el tablero Kanban para permitir cambios de estado mediante gestos de deslizamiento y botones con tamaño mínimo recomendado.| 6 | Teves Samaniego, Joan Fernando | Done |
-| US09 | Notificaciones móviles | TA09 | Push Notifications Setup | Implementar notificaciones para cotizaciones aprobadas, pagos pendientes y cambios de estado de eventos. | 6 | Crisanto Calle, Deybbi Anderson | Done |
-| US10 | Contacto rápido | TA10 | WhatsApp Contact Action | Añadir acceso directo a WhatsApp desde el perfil del organizador cuando exista un número de contacto registrado. | 3| Duran Diaz, Antonio Rodrigo | Done |
-| US11 | Manejo de sesión | TA11 | Token Refresh & Logout States | Mejorar el manejo de token expirado, cierre de sesión y redirección segura hacia login. | 4 | Nakasone Gomes, Marco Antonio | Done |
-| US12 | Estados de red | TA12 | Loading and Error UI States | Incorporar pantallas de carga, retry y mensajes de error en cotizaciones, eventos y perfiles. | 4 | Teves Samaniego, Joan Fernando | Done |
+| US07 | Percibir confianza y seguridad | TA07 | Collapsible Quote Details | AComo visitante quiere conocer al equipo para validar confianza. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US08 | Percibir velocidad de carga | TA08 | Kanban Swipe Actions | Como visitante quiere que el sitio cargue rápido para no perder interés. | 6 | Teves Samaniego, Joan Fernando | Done |
+| US09 | Visualizar los precios | TA09 | Push Notifications Setup | Como visitante quiere ver precios para evaluar opciones. | 6 | Crisanto Calle, Deybbi Anderson | Done |
+| US10 | Contar con diseño responsive | TA10 | WhatsApp Contact Action | Como visitante quiere usar el sitio en cualquier dispositivo para tener buena experiencia. | 3| Duran Diaz, Antonio Rodrigo | Done |
+| US11 | Contar con un chat integrado | TA11 | Token Refresh & Logout States | Como usuario quiero comunicarme mediante chat para coordinar eventos dentro de la plataforma. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US12 | Contar con un historial de mensajes | TS06 | Loading and Error UI States | Como usuario quiere revisar conversaciones anteriores para recordar acuerdos importantes. | 4 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.2.3. Development Evidence for Sprint Review
 
