@@ -282,19 +282,90 @@ El trabajo en equipo se gestionó utilizando ramas de características (*feature
 
 ### 4.2.3. Sprint 3
 
+En el tercer sprint, el equipo se enfocó en concretar la conclusión del desarrollo de la experiencia móvil a partir de la retroalimentación obtenida en la validación del Sprint 2.
+
 #### 4.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 (Mobile Integration) |
+| :--- | :--- |
+| **Sprint Planning Background** | Este sprint marca el inicio del desarrollo nativo móvil. Se priorizó la configuración del proyecto en Android Studio bajo Clean Architecture y la conexión mediante Retrofit con los endpoints de Spring Boot previamente desarrollados y documentados. |
+| **Date** | 17/06/2026 |
+| **Time** | 21:00 horas |
+| **Location** | Reunión virtual - Discord |
+| **Prepared By** | Joan Fernando Teves Samaniego |
+| **Attendees** | - Armestar Heredia, Matias Gabriel <br> - Crisanto Calle, Deybbi Anderson <br> - Duran Diaz, Antonio Rodrigo <br> - Nakasone Gomes, Marco Antonio <br> - Teves Samaniego, Joan Fernando |
+| **Sprint n-3 Review Summary** | Se finalizó la configuración de los bounded contexts del backend (`iam`, `profiles`, `planning`, `operation`), dejando los controladores REST listos para ser consumidos por los clientes. |
+| **Sprint n-3 Retrospective Summary**| Se acordaron las actividades a desarrollar entre los integrantes del grupo priorizando la comunicación constante para la correcta integración entre archivos y componentes de código. |
+| **Sprint Goal & User Stories** | Concretar la implementación completa del apartado Frontend mobile así como su integración con el apartado Backend anteriormente desarrollado y desplegado. |
+| **Sprint 3 Velocity** | Velocidad de 69 Story Points |
+| **Sum of Story Points** | Sprint 3 - 69 Story Points |
 
 #### 4.2.3.2. Sprint Backlog 3
 
+El backlog del Sprint 3 prioriza mejoras funcionales y de usabilidad sobre la segunda versión móvil, apuntando a la conclusión y entrega final de la solución.
+
+| ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US13 | Recibir notificaciones de mensajes | TA07 | Collapsible Quote Details | Como usuario (organizador o anfitrión), quiero recibir notificaciones cuando tengo un nuevo mensaje, para mantenerme al tanto de la conversación sin retrasos. mí. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US14 | Enviar archivos (PDF, imágenes, etc.) | TA08 | Kanban Swipe Actions | Como organizador o anfitrión, quiero poder enviar y recibir archivos dentro del chat, para compartir cotizaciones, formularios, referencias visuales o documentos importantes. | 8 | Teves Samaniego, Joan Fernando | Done |
+| US15 | Conocer el estado de los mensajes (enviado, recibido, leído) | TA09 | Push Notifications Setup | Como organizador o anfitrión, quiero ver el estado de mis mensajes enviados, para saber si han sido leídos por la otra persona. | 8 | Crisanto Calle, Deybbi Anderson | Done |
+| US16 | Recibir notificaciones por email | TA10 | WhatsApp Contact Action | Como organizador o anfitrión, quiero recibir notificaciones fuera de la app si tengo mensajes sin leer, para no perderme nada importante cuando no estoy conectado. | 5 | Duran Diaz, Antonio Rodrigo | Done |
+| US17 | Registrar eventos | TA11 | Token Refresh & Logout States | Como organizador, quiero registrar un nuevo evento con sus detalles básicos, para iniciar su planificación dentro de la plataforma. | 5 | Nakasone Gomes, Marco Antonio | Done |
+| US18 | Gestionar lista de tareas | TS06 | Loading and Error UI States | Como organizador o anfitrión, quiero crear y seguir una lista de tareas para cada evento para asegurarme de no olvidar nada importante. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US19 | Gestionar presupuestos | TA07 | Collapsible Quote Details | Como organizador, quiero definir un presupuesto y registrar los gastos del evento, para mantener el control financiero. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US20 | Asignar roles | TA08 | Kanban Swipe Actions | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US21 | Visualizar cronograma del evento | TA09 | Push Notifications Setup | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento. | 5 | Crisanto Calle, Deybbi Anderson | Done |
+| US22 | Visualizar resumen del evento | TA10 | WhatsApp Contact Action | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US23 | Visualizar perfiles de organizadores | TA11 | Token Refresh & Logout States | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos. | 3 | Nakasone Gomes, Marco Antonio | Done |
+| US24 | Solicitar cotización | TS06 | Loading and Error UI States | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades. | 3 | Teves Samaniego, Joan Fernando | Done |
+| US25 | Contratar organizador | TA10 | WhatsApp Contact Action | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US26 | Calificar organizador | TA10 | WhatsApp Contact Action | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US27 | Editar reseña | TA11 | Token Refresh & Logout States | Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador para corregir o actualizar mi opinión si es necesario. | 3 | Nakasone Gomes, Marco Antonio | Done |
+
 #### 4.2.3.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits más relevantes en el repositorio correspondiente al desarrollo móvil, demostrando la integración con las entidades y ensambladores del backend:
+
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `eventify-mobile` | `feature/quotes-ux` | `f7a8b9c` | `feat(planning): add collapsible quote service groups` | --- | 28/06/2026 |
+| `eventify-mobile` | `feature/kanban-touch` | `a8b9c0d` | `feat(tasks): implement swipe actions for kanban board` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/notifications` | `b9c0d1e` | `feat(notifications): add local and remote notification handlers` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/profile-contact` | `c0d1e2f` | `feat(profiles): add WhatsApp quick contact action` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/session-states` | `d1e2f3g` | `fix(iam): handle expired token and retry states` | --- | 29/06/2026 |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
+Durante este sprint se realizaron pruebas manuales de regresión en Android Studio y pruebas de integración con la API desplegada. Se validaron los siguientes escenarios:
+
+1. Inicio de sesión exitoso, expiración de token y redirección al login.
+2. Visualización de cotizaciones con múltiples servicios agrupados por categoría.
+3. Cambio de estado de tareas mediante gestos táctiles en el tablero Kanban.
+4. Recepción y visualización de notificaciones asociadas a cotizaciones, pagos y eventos.
+5. Respuesta de la interfaz ante errores de red, respuestas vacías y reintentos.
+
 #### 4.2.3.5. Execution Evidence for Sprint Review
+
+![execution-evidence-sprint-2](../../assets/chapter-4/execution-evidence-sprint-3.jpg)
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
+La aplicación móvil consume directamente la API construida en Spring Boot. Basado en la arquitectura del backend, estos son los endpoints principales integrados en este sprint documentados en OpenAPI/Swagger:
+
+| Action | End Point | Funciones |
+| :--- | :--- | :--- |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Recupera los ítems de una cotización para agruparlos por categoría en la aplicación móvil. |
+| PATCH | `/api/v1/tasks/{taskId}/status` | Actualiza el estado de una tarea desde el tablero Kanban móvil. |
+| GET | `/api/v1/notifications` | Obtiene el historial de notificaciones del usuario autenticado. |
+| POST | `/api/v1/notifications/device-tokens` | Registra el token del dispositivo para recibir notificaciones móviles. |
+| GET | `/api/v1/profiles/{profileId} ` | Obtiene datos de contacto del organizador para habilitar acciones rápidas desde el perfil. |
+
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+* **Backend:** Se mantuvo el despliegue en Render y se verificó la disponibilidad de los endpoints relacionados con notificaciones, tareas y cotizaciones desde Swagger.
+* **Mobile:** Se generó un nuevo artefacto app-debug-sprint-3.apk para validación interna, la versión finalizada de la solución lista para su uso.
+
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android y `Widget` en Flutter.
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
