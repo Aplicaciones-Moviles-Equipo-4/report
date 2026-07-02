@@ -141,8 +141,8 @@ El siguiente backlog refleja la distribución de tareas, enfocándose en la inte
 | US02 | Visualizar claramente propuesta de valor | TA02 | QuoteScreen UI & API | Como visitante quiere entender rápidamente el valor del producto para determinar si es relevante. | 5 | Teves Samaniego, Joan Fernando | Done |
 | US03 | Visualizar información segmentada | TA03 | Profile UI | Como visitante quiere ver información según su rol para identificar cómo la aplicación puede ayudarle. | 4 | Crisanto Calle, Deybbi Anderson | Done |
 | US04 | Conocer las funcionalidades de la aplicación | TA04 | Social Events View | Como visitante quiere conocer las funcionalidades para validar si cubren sus necesidades. | 4 | Duran Diaz, Antonio Rodrigo | Done |
-| US05 | Gestión de Reseñas | TA05 | Reviews Integration | Como visitante quiere acceder a la aplicación para comenzar a utilizarla. | 4 | Nakasone Gomes, Marco Antonio | Done |
-| US06 | Catálogo de Servicios | TA06 | Quote Service Items | Como visitante quiere ver cómo funciona la aplicación para entender su uso. | 3 | Teves Samaniego, Joan Fernando | Done |
+| US05 | Interactuar con la aplicación | TA05 | Reviews Integration | Como visitante quiere acceder a la aplicación para comenzar a utilizarla. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US06 | Visualizar el tutorial | TA06 | Quote Service Items | Como visitante quiere ver cómo funciona la aplicación para entender su uso. | 3 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
