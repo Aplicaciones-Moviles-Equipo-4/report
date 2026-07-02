@@ -445,6 +445,10 @@ Se recomienda continuar con procesos de validación constante con usuarios reale
 
 ### Video About the product
 
+Con el objetivo de informar a través de un enfoque promocional, se ha desarrolla un video a modo de resumen del modelo de negocio, las características y beneficios de la solución de software desarrollada.
+
+**Video en YouTube:** https://youtu.be/rdZ3_zhgae4
+
 ### Video About the team
 
 <div style="page-break-after: always;"></div>
