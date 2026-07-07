@@ -455,6 +455,8 @@ Finalmente, el desarrollo evidenció la importancia de una adecuada planificaci�
 
 ### Video App Validation
 
+**Video en YouTube:** https://www.youtube.com/watch?v=m-yXgT5bi7Y
+
 ### Video About the product
 
 Con el objetivo de informar a través de un enfoque promocional, se ha desarrolla un video a modo de resumen del modelo de negocio, las características y beneficios de la solución de software desarrollada.
