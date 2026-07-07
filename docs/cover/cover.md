@@ -77,7 +77,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 **URL del Repositorio del Informe:**  https://github.com/Aplicaciones-Moviles-Equipo-4/report  
 **URL del Repositorio de la Landing Page:** https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec  
 **URL del Repositorio del Backend:** https://github.com/Aplicaciones-Moviles-Equipo-4/backend  
-**URL del Repositorio del Frontend (Jetpack Compose):** https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin 
+**URL del Repositorio del Frontend (Jetpack Compose):** https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin  
 **URL del Repositorio del Frontend (Flutter):** https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-flutter  
 
 ### Primer Hito: AV1
