@@ -320,13 +320,9 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ![plans-section-wireframe-desktop](../../assets/chapter-3/plans-section-wireframe.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
-
-![about-us-section-wireframe-desktop](../../assets/chapter-3/about-us-section-wireframe.png)
-
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
-![about-team-section-wireframe-desktop](../../assets/chapter-3/about-the-team-section-wireframe.png)
+![about-us-section-wireframe-desktop](../../assets/chapter-3/about-us-section-wireframe.png)
 
 **Footer Section** : Pie de página de la landing page
 
@@ -360,13 +356,9 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ![plans-section-wireframe-desktop](/assets/chapter-3/plans-section-mobile-wireframe.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
-
-![about-us-section-wireframe-desktop](/assets/chapter-3/about-us-section-mobile-wireframe.png)
-
 **About the Team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
-![about-team-section-wireframe-desktop](/assets/chapter-3/about-the-team-section-mobile-wireframe.png)
+![about-us-section-wireframe-desktop](/assets/chapter-3/about-us-section-mobile-wireframe.png)
 
 **Footer Section**: Pie de página de la landing page
 
