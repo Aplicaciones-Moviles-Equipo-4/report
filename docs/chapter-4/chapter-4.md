@@ -451,6 +451,8 @@ Con el objetivo de informar a través de un enfoque promocional, se ha desarroll
 
 ### Video About the team
 
+**Video en YouTube:** https://www.youtube.com/watch?v=GXeCTr87mrI
+
 <div style="page-break-after: always;"></div>
 
 ## Glosario
