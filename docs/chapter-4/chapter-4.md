@@ -346,7 +346,7 @@ Durante este sprint se realizaron pruebas manuales de regresión en Android Stud
 
 #### 4.2.3.5. Execution Evidence for Sprint Review
 
-![execution-evidence-sprint-2](../../assets/chapter-4/execution-evidence-sprint-3.jpg)
+![execution-evidence-sprint-3](../../assets/chapter-4/execution-evidence-sprint-3.jpg)
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
