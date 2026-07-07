@@ -199,7 +199,7 @@ We believe that [business outcome] will be achieved if [user] attains [benefit] 
 
 #### 1.2.2.4. Lean UX Canvas
 
-El Lean UX Canvas de OrganiX identifica los problemas de los clientes para encontrar organizadores de eventos adecuados y de los organizadores para gestionar eficientemente sus tareas y calendarios. Propone soluciones como la implementación de filtros avanzados, un sistema de mensajería en tiempo real, y herramientas integradas de gestión de eventos para mejorar la experiencia del usuario, validando su efectividad mediante hipótesis específicas y métricas claras.
+El Lean UX Canvas de Eventify identifica los problemas de los clientes para encontrar organizadores de eventos adecuados y de los organizadores para gestionar eficientemente sus tareas y calendarios. Propone soluciones como la implementación de filtros avanzados, un sistema de mensajería en tiempo real, y herramientas integradas de gestión de eventos para mejorar la experiencia del usuario, validando su efectividad mediante hipótesis específicas y métricas claras.
 
 | **Business Problem** | **Solutions** | **Business Outcomes** |
 |-----------------------|---------------|------------------------|

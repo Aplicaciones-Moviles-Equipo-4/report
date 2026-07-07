@@ -14,7 +14,7 @@ La identidad visual de Eventify transmite claridad, organización y confianza de
 
 El color principal del logo es un tono azul intenso y moderno que destaca claramente sobre el fondo, transmitiendo confianza, seguridad y tecnología. Su diseño está compuesto por líneas gruesas y redondeadas que forman una figura hexagonal, lo que aporta una sensación de estructura, orden y protección. En el centro se observa un ícono similar a un documento o formulario con un check, acompañado de un pequeño destello amarillo, lo cual transmite validación, eficiencia, calidad y cumplimiento de procesos. En conjunto, el logo proyecta una imagen profesional, digital y confiable, ideal para representar soluciones tecnológicas, gestión documental, automatización o servicios de verificación.
 
-![eventifylogo_cap3.jpg](../../assets/chapter-3/eventifylogo_cap3.jpg)
+![eventify-logo.jpg](../../assets/chapter-3/eventify-logo.png)
 
 **Typography**
 
@@ -320,13 +320,9 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ![plans-section-wireframe-desktop](../../assets/chapter-3/plans-section-wireframe.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
-
-![about-us-section-wireframe-desktop](../../assets/chapter-3/about-us-section-wireframe.png)
-
 **About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
-![about-team-section-wireframe-desktop](../../assets/chapter-3/about-the-team-section-wireframe.png)
+![about-us-section-wireframe-desktop](../../assets/chapter-3/about-us-section-wireframe.png)
 
 **Footer Section** : Pie de página de la landing page
 
@@ -344,7 +340,7 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ![hero-section-wireframe-desktop](/assets/chapter-3/hero-section-mobile-wireframe.png)
 
-**About the product Section**: Sección donde se presentará información del producto.
+**About the Product Section**: Sección donde se presentará información del producto.
 
 ![about-product-section-wireframe-desktop](/assets/chapter-3/about-the-product-section-mobile-wireframe.png)
 
@@ -360,13 +356,9 @@ En esta sección se presentan las representaciones de bajo nivel **(wireframes)*
 
 ![plans-section-wireframe-desktop](/assets/chapter-3/plans-section-mobile-wireframe.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
+**About the Team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
 ![about-us-section-wireframe-desktop](/assets/chapter-3/about-us-section-mobile-wireframe.png)
-
-**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
-
-![about-team-section-wireframe-desktop](/assets/chapter-3/about-the-team-section-mobile-wireframe.png)
 
 **Footer Section**: Pie de página de la landing page
 
@@ -386,13 +378,13 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ![hero-section-mockup](/assets/chapter-3/hero-section-mockup-desktop.png)
 
-**About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
+**About the Product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 
-![about-product-section-mockup](/assets/chapter-3/about-product-section-mockup-desktop.png)
+![about-the-product-section-mockup](/assets/chapter-3/about-the-product-section-mockup-desktop.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
-![functionalities-section-mockup](/assets/chapter-3/functionality-section-mockup-desktop.png)
+![functionalities-section-mockup](/assets/chapter-3/functionalities-section-mockup-desktop.png)
 
 **Benefits Section**: Se mostrarán los beneficios de usar Eventify.
 
@@ -402,11 +394,9 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ![plans-section-mockup](/assets/chapter-3/plans-section-mockup-desktop.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
+**About the Team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
-**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
-
-![about-team-section-mockup](/assets/chapter-3/about-team-section-mockup-desktop.png)
+![about-the-team-section-mockup](/assets/chapter-3/about-the-team-section-mockup-desktop.png)
 
 **Footer Section**: Pie de página de la landing page
 
@@ -425,9 +415,9 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ![hero-section-mockup-mobile](/assets/chapter-3/hero-section-mockup-mobile.png)
 
-**About the product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
+**About the Product Section**: Sección donde se presentará información del producto. Cuenta con un video informativo.
 
-![about-product-section-mockup-mobile](/assets/chapter-3/about-the-product-section-mockup-mobile.png)
+![about-the-product-section-mockup-mobile](/assets/chapter-3/about-the-product-section-mockup-mobile.png)
 
 **Functionalities Section**: Sección donde se mostrarán las funcionalidades ofrecidas.
 
@@ -441,13 +431,9 @@ En esta sección se muestran los mock-ups del landing page, que sirven como una 
 
 ![plans-section-mockup-mobile](/assets/chapter-3/plans-section-mockup-mobile.png)
 
-**About us Section**: Sección donde se presentan a los integrantes que desarrollaron Eventify.
+**About the Team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
 
-![about-us-section-mobile.png](../../assets/chapter-3/about-us-section-mobile.png)
-
-**About the team Section**: Sección que contiene un video donde se resume el proceso del trabajo realizado por el equipo.
-
-![about-team-section-mockup-mobile](/assets/chapter-3/about-the-team-section-mockup-mobile.png)
+![about-the-team-section-mockup-mobile](/assets/chapter-3/about-the-team-section-mockup-mobile.png)
 
 **Footer Section**: Pie de página de la landing page
 

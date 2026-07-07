@@ -2016,7 +2016,7 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 
 ### 2.4.3. Product Backlog
 
-En este segmento del informe otorgaremos a las historias de usuario un peso basándonos en la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario. <b>Enlace a Trello: </b>https://trello.com/b/NknfxMfU/product-backlog
+En este segmento del informe otorgaremos a las historias de usuario un peso basándonos en la complejidad, riesgo y esfuerzo. Utilizaremos este método para darle la relevancia adecuada a cada historia de usuario. <b> Enlace a Trello: https://trello.com/b/U7tvsN6C/eventifys-product-backlog </b>
 
 | #Orden | User Story Id | Titulo                                                       | Descripción                                                                                                                                                                                       | StoryPoints (1 / 2 / 3 / 5/ 8) |
 |--------|---------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|

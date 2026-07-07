@@ -36,10 +36,11 @@ Se creó un repositorio en la organización de GitHub, donde se almacenó todo e
 El repositorio se estructuró de la siguiente manera:
 
 * Organización en Github: [https://github.com/Aplicaciones-Moviles-Equipo-4](https://github.com/Aplicaciones-Moviles-Equipo-4)
-* Repositorio de el informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
+* Repositorio del Informe: [https://github.com/Aplicaciones-Moviles-Equipo-4/report](https://github.com/Aplicaciones-Moviles-Equipo-4/report)  
 * Repositorio de la Landing Page: [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-landing-page-realtec)
-* Repositorio del Frontend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend](https://github.com/Aplicaciones-Moviles-Equipo-4/Frontend)
-* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/Backend](https://github.com/WASwarm1/Backend)
+* Repositorio del Frontend (Kotlin): [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-kotlin)
+* Repositorio del Frontend (Flutter): [https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-flutter](https://github.com/Aplicaciones-Moviles-Equipo-4/eventify-mobile-flutter)
+* Repositorio del Backend: [https://github.com/Aplicaciones-Moviles-Equipo-4/backend](https://github.com/Aplicaciones-Moviles-Equipo-4/backend)
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
@@ -127,8 +128,8 @@ En este primer sprint para el desarrollo móvil, el equipo se enfocó en estable
 | **Sprint n-1 Review Summary** | Se finalizó la configuración de los bounded contexts del backend (`iam`, `profiles`, `planning`, `operation`), dejando los controladores REST listos para ser consumidos por los clientes. |
 | **Sprint n-1 Retrospective Summary**| Se acordó mantener una comunicación constante para asegurar que los DTOs y modelos móviles coincidan perfectamente con los *Resources* (ej. `QuoteResource`, `ProfileResource`, `SocialEventResource`) enviados por el backend. |
 | **Sprint Goal & User Stories** | Establecer la arquitectura móvil, implementar la autenticación de usuarios (IAM) y desarrollar las pantallas principales de gestión de perfiles, eventos y bandeja de cotizaciones consumiendo los servicios REST de la plataforma. |
-| **Sprint 1 Velocity** | Velocidad de 24 Story Points |
-| **Sum of Story Points** | Sprint 1 - 24 Story Points |
+| **Sprint 1 Velocity** | Velocidad de 11 Story Points |
+| **Sum of Story Points** | Sprint 1 - 11 Story Points |
 
 #### 4.2.1.2. Sprint Backlog 1
 
@@ -136,12 +137,12 @@ El siguiente backlog refleja la distribución de tareas, enfocándose en la inte
 
 | ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US01 | Autenticación de Usuario | TA01 | IAM Mobile Integration | Configurar Retrofit e implementar el login consumiendo `AuthenticationController`. Manejo de JWT Bearer Token. | 4 | Armestar Heredia, Matias Gabriel | Done |
-| US02 | Gestión de Cotizaciones | TA02 | QuoteScreen UI & API | Maquetar pantalla de Cotizaciones y conectar con `OrganizerQuotesController` y `QuotesController`. | 5 | Teves Samaniego, Joan Fernando | Done |
-| US03 | Visualizar Perfiles | TA03 | Profile UI | Crear la vista de perfiles de organizadores y consumir `ProfilesController` y `ServiceCatalogsController`. | 4 | Crisanto Calle, Deybbi Anderson | Done |
-| US04 | Gestión de Eventos | TA04 | Social Events View | Implementar la lista de eventos activos consumiendo `CustomerSocialEventsController` y `SocialEventsController`. | 4 | Duran Diaz, Antonio Rodrigo | Done |
-| US05 | Gestión de Reseñas | TA05 | Reviews Integration | Desarrollar la pantalla para visualizar y publicar reseñas conectando con `ReviewsController`. | 4 | Nakasone Gomes, Marco Antonio | Done |
-| US06 | Catálogo de Servicios | TA06 | Quote Service Items | Conectar la vista de ítems de servicio dentro de una cotización usando `QuoteServiceItemsController`. | 3 | Teves Samaniego, Joan Fernando | Done |
+| US01 | Navegar sencillamente | TA01 | IAM Mobile Integration | Como visitante quiero navegar fácilmente entre secciones para acceder rápidamente a la información relevante. | 4 | Armestar Heredia, Matias Gabriel | Done |
+| US02 | Visualizar claramente propuesta de valor | TA02 | QuoteScreen UI & API | Como visitante quiere entender rápidamente el valor del producto para determinar si es relevante. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US03 | Visualizar información segmentada | TA03 | Profile UI | Como visitante quiere ver información según su rol para identificar cómo la aplicación puede ayudarle. | 4 | Crisanto Calle, Deybbi Anderson | Done |
+| US04 | Conocer las funcionalidades de la aplicación | TA04 | Social Events View | Como visitante quiere conocer las funcionalidades para validar si cubren sus necesidades. | 4 | Duran Diaz, Antonio Rodrigo | Done |
+| US05 | Interactuar con la aplicación | TA05 | Reviews Integration | Como visitante quiere acceder a la aplicación para comenzar a utilizarla. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US06 | Visualizar el tutorial | TA06 | Quote Service Items | Como visitante quiere ver cómo funciona la aplicación para entender su uso. | 3 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 
@@ -191,7 +192,7 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 
 El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
 
-![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
+![insights.during-sprint-1](../../assets/chapter-4/insights-during-sprint-1.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -212,8 +213,8 @@ En el segundo sprint, el equipo se enfocó en mejorar la experiencia móvil a pa
 | **Sprint n-2 Review Summary** | Se completó la primera integración móvil con autenticación, perfiles, eventos, cotizaciones, reseñas y catálogo de servicios consumiendo la API de Eventify. |
 | **Sprint n-2 Retrospective Summary**| Se identificó la necesidad de diseñar componentes móviles más eficientes para pantallas con mucha información y de validar tempranamente los tamaños táctiles de botones, tarjetas y acciones principales. |
 | **Sprint Goal & User Stories** | Optimizar la gestión móvil de cotizaciones y tareas, incorporar notificaciones de cambios relevantes y mejorar la confiabilidad de la sesión y de las respuestas de red. |
-| **Sprint 2 Velocity** | Velocidad de 28 Story Points |
-| **Sum of Story Points** | Sprint 2 - 28 Story Points |
+| **Sprint 2 Velocity** | Velocidad de 24 Story Points |
+| **Sum of Story Points** | Sprint 2 - 24 Story Points |
 
 #### 4.2.2.2. Sprint Backlog 2
 
@@ -221,12 +222,12 @@ El backlog del Sprint 2 prioriza mejoras funcionales y de usabilidad sobre la pr
 
 | ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US07 | Cotizaciones agrupadas | TA07 | Collapsible Quote Details | Agrupar los ítems de cotización por categoría y presentarlos en secciones desplegables para reducir el scroll. | 5 | Armestar Heredia, Matias Gabriel | Done |
-| US08 | Gestión táctil de tareas | TA08 | Kanban Swipe Actions | Rediseñar el tablero Kanban para permitir cambios de estado mediante gestos de deslizamiento y botones con tamaño mínimo recomendado.| 6 | Teves Samaniego, Joan Fernando | Done |
-| US09 | Notificaciones móviles | TA09 | Push Notifications Setup | Implementar notificaciones para cotizaciones aprobadas, pagos pendientes y cambios de estado de eventos. | 6 | Crisanto Calle, Deybbi Anderson | Done |
-| US10 | Contacto rápido | TA10 | WhatsApp Contact Action | Añadir acceso directo a WhatsApp desde el perfil del organizador cuando exista un número de contacto registrado. | 3| Duran Diaz, Antonio Rodrigo | Done |
-| US11 | Manejo de sesión | TA11 | Token Refresh & Logout States | Mejorar el manejo de token expirado, cierre de sesión y redirección segura hacia login. | 4 | Nakasone Gomes, Marco Antonio | Done |
-| US12 | Estados de red | TA12 | Loading and Error UI States | Incorporar pantallas de carga, retry y mensajes de error en cotizaciones, eventos y perfiles. | 4 | Teves Samaniego, Joan Fernando | Done |
+| US07 | Percibir confianza y seguridad | TA07 | Collapsible Quote Details | AComo visitante quiere conocer al equipo para validar confianza. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US08 | Percibir velocidad de carga | TA08 | Kanban Swipe Actions | Como visitante quiere que el sitio cargue rápido para no perder interés. | 6 | Teves Samaniego, Joan Fernando | Done |
+| US09 | Visualizar los precios | TA09 | Push Notifications Setup | Como visitante quiere ver precios para evaluar opciones. | 6 | Crisanto Calle, Deybbi Anderson | Done |
+| US10 | Contar con diseño responsive | TA10 | WhatsApp Contact Action | Como visitante quiere usar el sitio en cualquier dispositivo para tener buena experiencia. | 3| Duran Diaz, Antonio Rodrigo | Done |
+| US11 | Contar con un chat integrado | TA11 | Token Refresh & Logout States | Como usuario quiero comunicarme mediante chat para coordinar eventos dentro de la plataforma. | 4 | Nakasone Gomes, Marco Antonio | Done |
+| US12 | Contar con un historial de mensajes | TS06 | Loading and Error UI States | Como usuario quiere revisar conversaciones anteriores para recordar acuerdos importantes. | 4 | Teves Samaniego, Joan Fernando | Done |
 
 #### 4.2.2.3. Development Evidence for Sprint Review
 
@@ -275,27 +276,102 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 
 El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
 
-![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
+![insights.during-sprint-2](../../assets/chapter-4/insights-during-sprint-2.png)
 
 <div style="page-break-after: always;"></div>
 
 ### 4.2.3. Sprint 3
 
+En el tercer sprint, el equipo se enfocó en concretar la conclusión del desarrollo de la experiencia móvil a partir de la retroalimentación obtenida en la validación del Sprint 2.
+
 #### 4.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 (Mobile Integration) |
+| :--- | :--- |
+| **Sprint Planning Background** | Este sprint marca el inicio del desarrollo nativo móvil. Se priorizó la configuración del proyecto en Android Studio bajo Clean Architecture y la conexión mediante Retrofit con los endpoints de Spring Boot previamente desarrollados y documentados. |
+| **Date** | 17/06/2026 |
+| **Time** | 21:00 horas |
+| **Location** | Reunión virtual - Discord |
+| **Prepared By** | Joan Fernando Teves Samaniego |
+| **Attendees** | - Armestar Heredia, Matias Gabriel <br> - Crisanto Calle, Deybbi Anderson <br> - Duran Diaz, Antonio Rodrigo <br> - Nakasone Gomes, Marco Antonio <br> - Teves Samaniego, Joan Fernando |
+| **Sprint n-3 Review Summary** | Se finalizó la configuración de los bounded contexts del backend (`iam`, `profiles`, `planning`, `operation`), dejando los controladores REST listos para ser consumidos por los clientes. |
+| **Sprint n-3 Retrospective Summary**| Se acordaron las actividades a desarrollar entre los integrantes del grupo priorizando la comunicación constante para la correcta integración entre archivos y componentes de código. |
+| **Sprint Goal & User Stories** | Concretar la implementación completa del apartado Frontend mobile así como su integración con el apartado Backend anteriormente desarrollado y desplegado. |
+| **Sprint 3 Velocity** | Velocidad de 69 Story Points |
+| **Sum of Story Points** | Sprint 3 - 69 Story Points |
 
 #### 4.2.3.2. Sprint Backlog 3
 
+El backlog del Sprint 3 prioriza mejoras funcionales y de usabilidad sobre la segunda versión móvil, apuntando a la conclusión y entrega final de la solución.
+
+| ID | Title | Task ID | Task Title | Description | Estimation (Hours) | Assigned To | Status |
+| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
+| US13 | Recibir notificaciones de mensajes | TA07 | Collapsible Quote Details | Como usuario (organizador o anfitrión), quiero recibir notificaciones cuando tengo un nuevo mensaje, para mantenerme al tanto de la conversación sin retrasos. mí. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US14 | Enviar archivos (PDF, imágenes, etc.) | TA08 | Kanban Swipe Actions | Como organizador o anfitrión, quiero poder enviar y recibir archivos dentro del chat, para compartir cotizaciones, formularios, referencias visuales o documentos importantes. | 8 | Teves Samaniego, Joan Fernando | Done |
+| US15 | Conocer el estado de los mensajes (enviado, recibido, leído) | TA09 | Push Notifications Setup | Como organizador o anfitrión, quiero ver el estado de mis mensajes enviados, para saber si han sido leídos por la otra persona. | 8 | Crisanto Calle, Deybbi Anderson | Done |
+| US16 | Recibir notificaciones por email | TA10 | WhatsApp Contact Action | Como organizador o anfitrión, quiero recibir notificaciones fuera de la app si tengo mensajes sin leer, para no perderme nada importante cuando no estoy conectado. | 5 | Duran Diaz, Antonio Rodrigo | Done |
+| US17 | Registrar eventos | TA11 | Token Refresh & Logout States | Como organizador, quiero registrar un nuevo evento con sus detalles básicos, para iniciar su planificación dentro de la plataforma. | 5 | Nakasone Gomes, Marco Antonio | Done |
+| US18 | Gestionar lista de tareas | TS06 | Loading and Error UI States | Como organizador o anfitrión, quiero crear y seguir una lista de tareas para cada evento para asegurarme de no olvidar nada importante. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US19 | Gestionar presupuestos | TA07 | Collapsible Quote Details | Como organizador, quiero definir un presupuesto y registrar los gastos del evento, para mantener el control financiero. | 5 | Armestar Heredia, Matias Gabriel | Done |
+| US20 | Asignar roles | TA08 | Kanban Swipe Actions | Como organizador, quiero asignar tareas o funciones a otros colaboradores, para delegar responsabilidades específicas. | 5 | Teves Samaniego, Joan Fernando | Done |
+| US21 | Visualizar cronograma del evento | TA09 | Push Notifications Setup | Como organizador o anfitrión, quiero visualizar un cronograma con las actividades programadas, para tener una visión clara de la secuencia del evento. | 5 | Crisanto Calle, Deybbi Anderson | Done |
+| US22 | Visualizar resumen del evento | TA10 | WhatsApp Contact Action | Como organizador o anfitrión, quiero tener acceso a un resumen del evento, para revisar el estado general de la planificación. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US23 | Visualizar perfiles de organizadores | TA11 | Token Refresh & Logout States | Como anfitrión, quiero poder ver los perfiles detallados de los organizadores, para evaluar su experiencia y servicios antes de contratarlos. | 3 | Nakasone Gomes, Marco Antonio | Done |
+| US24 | Solicitar cotización | TS06 | Loading and Error UI States | Como anfitrión, quiero poder solicitar cotizaciones a diferentes organizadores, para comparar opciones y seleccionar la que mejor se adapte a mi presupuesto y necesidades. | 3 | Teves Samaniego, Joan Fernando | Done |
+| US25 | Contratar organizador | TA10 | WhatsApp Contact Action | Como anfitrión, quiero poder contratar a un organizador directamente desde la plataforma, para formalizar el acuerdo y garantizar que mi evento esté cubierto. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US26 | Calificar organizador | TA10 | WhatsApp Contact Action | Como anfitrión, quiero calificar el desempeño del organizador una vez terminado el evento, para ayudar a otros anfitriones a tomar decisiones informadas. | 3 | Duran Diaz, Antonio Rodrigo | Done |
+| US27 | Editar reseña | TA11 | Token Refresh & Logout States | Como anfitrión, quiero poder editar una reseña que haya dejado sobre un organizador para corregir o actualizar mi opinión si es necesario. | 3 | Nakasone Gomes, Marco Antonio | Done |
+
 #### 4.2.3.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits más relevantes en el repositorio correspondiente al desarrollo móvil, demostrando la integración con las entidades y ensambladores del backend:
+
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `eventify-mobile` | `feature/quotes-ux` | `f7a8b9c` | `feat(planning): add collapsible quote service groups` | --- | 28/06/2026 |
+| `eventify-mobile` | `feature/kanban-touch` | `a8b9c0d` | `feat(tasks): implement swipe actions for kanban board` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/notifications` | `b9c0d1e` | `feat(notifications): add local and remote notification handlers` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/profile-contact` | `c0d1e2f` | `feat(profiles): add WhatsApp quick contact action` | --- | 29/06/2026 |
+| `eventify-mobile` | `feature/session-states` | `d1e2f3g` | `fix(iam): handle expired token and retry states` | --- | 29/06/2026 |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
+Durante este sprint se realizaron pruebas manuales de regresión en Android Studio y pruebas de integración con la API desplegada. Se validaron los siguientes escenarios:
+
+1. Inicio de sesión exitoso, expiración de token y redirección al login.
+2. Visualización de cotizaciones con múltiples servicios agrupados por categoría.
+3. Cambio de estado de tareas mediante gestos táctiles en el tablero Kanban.
+4. Recepción y visualización de notificaciones asociadas a cotizaciones, pagos y eventos.
+5. Respuesta de la interfaz ante errores de red, respuestas vacías y reintentos.
+
 #### 4.2.3.5. Execution Evidence for Sprint Review
+
+![execution-evidence-sprint-3](../../assets/chapter-4/execution-evidence-sprint-3.jpg)
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
+La aplicación móvil consume directamente la API construida en Spring Boot. Basado en la arquitectura del backend, estos son los endpoints principales integrados en este sprint documentados en OpenAPI/Swagger:
+
+| Action | End Point | Funciones |
+| :--- | :--- | :--- |
+| GET | `/api/v1/quotes/{quoteId}/service-items` | Recupera los ítems de una cotización para agruparlos por categoría en la aplicación móvil. |
+| PATCH | `/api/v1/tasks/{taskId}/status` | Actualiza el estado de una tarea desde el tablero Kanban móvil. |
+| GET | `/api/v1/notifications` | Obtiene el historial de notificaciones del usuario autenticado. |
+| POST | `/api/v1/notifications/device-tokens` | Registra el token del dispositivo para recibir notificaciones móviles. |
+| GET | `/api/v1/profiles/{profileId} ` | Obtiene datos de contacto del organizador para habilitar acciones rápidas desde el perfil. |
+
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
+* **Backend:** Se mantuvo el despliegue en Render y se verificó la disponibilidad de los endpoints relacionados con notificaciones, tareas y cotizaciones desde Swagger.
+* **Mobile:** Se generó un nuevo artefacto app-debug-sprint-3.apk para validación interna, la versión finalizada de la solución lista para su uso.
+
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android y `Widget` en Flutter.
+
 #### 4.2.3.8. Team Collaboration Insights during Sprint
+
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
+
+![insights.during-sprint-3](../../assets/chapter-4/insights-during-sprint-3.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -369,11 +445,27 @@ Asimismo, la aplicación del enfoque Lean UX permitió estructurar hipótesis, s
 
 Se recomienda continuar con procesos de validación constante con usuarios reales, de manera que las hipótesis planteadas en Lean UX puedan confirmarse o ajustarse oportunamente. Esto permitirá mejorar la calidad del producto y su adecuación al mercado.
 
+El desarrollo del proyecto utilizando Dart con Flutter y Kotlin con Jetpack Compose permitió adquirir experiencia práctica en el desarrollo moderno de aplicaciones móviles. Ambas tecnologías demostraron ser herramientas eficientes para crear interfaces intuitivas, dinámicas y con un alto nivel de rendimiento, facilitando además el mantenimiento y la escalabilidad del código.
+
+Durante la implementación se comprobó que Flutter ofrece una gran ventaja al permitir el desarrollo multiplataforma con una sola base de código, mientras que Jetpack Compose simplifica la creación de interfaces nativas para Android mediante un enfoque declarativo, mejorando la productividad y la organización del proyecto.
+
+Asimismo, el proyecto permitió fortalecer conocimientos en arquitectura de software, gestión del estado, navegación entre pantallas, consumo de servicios, manejo de datos y aplicación de buenas prácticas de programación. Estos aspectos contribuyeron a obtener una aplicación funcional, estable y alineada con los objetivos planteados desde el inicio.
+
+Finalmente, el desarrollo evidenció la importancia de una adecuada planificación, pruebas continuas y documentación durante todo el ciclo de vida del software. Como trabajo futuro, el proyecto puede ampliarse mediante la incorporación de nuevas funcionalidades, mejoras en la experiencia de usuario, optimización del rendimiento y la integración con servicios en la nube para ofrecer una solución más completa y escalable.
+
 ### Video App Validation
+
+**Video en YouTube:** https://www.youtube.com/watch?v=m-yXgT5bi7Y
 
 ### Video About the product
 
+Con el objetivo de informar a través de un enfoque promocional, se ha desarrolla un video a modo de resumen del modelo de negocio, las características y beneficios de la solución de software desarrollada.
+
+**Video en YouTube:** https://youtu.be/rdZ3_zhgae4
+
 ### Video About the team
+
+**Video en YouTube:** https://www.youtube.com/watch?v=GXeCTr87mrI
 
 <div style="page-break-after: always;"></div>
 
