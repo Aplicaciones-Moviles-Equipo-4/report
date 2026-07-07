@@ -445,6 +445,14 @@ Asimismo, la aplicación del enfoque Lean UX permitió estructurar hipótesis, s
 
 Se recomienda continuar con procesos de validación constante con usuarios reales, de manera que las hipótesis planteadas en Lean UX puedan confirmarse o ajustarse oportunamente. Esto permitirá mejorar la calidad del producto y su adecuación al mercado.
 
+El desarrollo del proyecto utilizando Dart con Flutter y Kotlin con Jetpack Compose permitió adquirir experiencia práctica en el desarrollo moderno de aplicaciones móviles. Ambas tecnologías demostraron ser herramientas eficientes para crear interfaces intuitivas, dinámicas y con un alto nivel de rendimiento, facilitando además el mantenimiento y la escalabilidad del código.
+
+Durante la implementación se comprobó que Flutter ofrece una gran ventaja al permitir el desarrollo multiplataforma con una sola base de código, mientras que Jetpack Compose simplifica la creación de interfaces nativas para Android mediante un enfoque declarativo, mejorando la productividad y la organización del proyecto.
+
+Asimismo, el proyecto permitió fortalecer conocimientos en arquitectura de software, gestión del estado, navegación entre pantallas, consumo de servicios, manejo de datos y aplicación de buenas prácticas de programación. Estos aspectos contribuyeron a obtener una aplicación funcional, estable y alineada con los objetivos planteados desde el inicio.
+
+Finalmente, el desarrollo evidenció la importancia de una adecuada planificación, pruebas continuas y documentación durante todo el ciclo de vida del software. Como trabajo futuro, el proyecto puede ampliarse mediante la incorporación de nuevas funcionalidades, mejoras en la experiencia de usuario, optimización del rendimiento y la integración con servicios en la nube para ofrecer una solución más completa y escalable.
+
 ### Video App Validation
 
 ### Video About the product
