@@ -107,7 +107,7 @@ En la sección de Contributors se puede visualizar la participación individual 
 
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este tercer hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
 
-![contributors-AV2](../../assets/cover/contributors-4.jpg)
+![contributors-AV2](../../assets/cover/contributors-4.png)
 
 ### Cuarto Hito: TB2
 
@@ -115,7 +115,7 @@ En la sección de Contributors se puede visualizar la participación individual 
 
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este tercer hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
 
-![contributors-TB2](../../assets/cover/contributors-5.jpg)
+![contributors-TB2](../../assets/cover/contributors-4.png)
 
 <div style="page-break-after: always;"></div>
 
