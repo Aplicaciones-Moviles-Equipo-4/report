@@ -103,6 +103,8 @@ En la sección de Contributors se puede visualizar la participación individual 
 
 ### Tercer Hito: AV2
 
+En esta tercera entrega se desarrollaron parcialmente los apartados Frontend desarrollados en Dart y Klotin, haciendo uso de Flutter y Jetpack Compose respectivamente. Con el fin de evidenciar los avances realizados y demostrar la participación activa de todos los miembros del equipo en la elaboración del informe, se presentan a continuación las capturas obtenidas desde los analíticos de colaboración del repositorio GitHub del proyecto.
+
 ## Contributors
 
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a este tercer hito. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del equipo.
@@ -110,6 +112,8 @@ En la sección de Contributors se puede visualizar la participación individual 
 ![contributors-AV2](../../assets/cover/contributors-4.png)
 
 ### Cuarto Hito: TB2
+
+En esta cuarta y última entrega se culminó el desarrollo de los apartados Frontend y se integraron con el apartado Backend, para posteriormente la publicación y distribución de la solución mediante Google Firebase. Con el fin de evidenciar los avances realizados y demostrar la participación activa de todos los miembros del equipo en la elaboración del informe, se presentan a continuación las capturas obtenidas desde los analíticos de colaboración del repositorio GitHub del proyecto.
 
 ## Contributors
 
