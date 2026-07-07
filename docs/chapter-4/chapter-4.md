@@ -192,7 +192,7 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 
 El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
 
-![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
+![insights.during-sprint-1](../../assets/chapter-4/insights-during-sprint-1.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -276,7 +276,7 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 
 El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
 
-![Gráfico de red y colaboradores en GitHub](../../assets/chapter-4/ContributorsSprint1.png)
+![insights.during-sprint-2](../../assets/chapter-4/insights-during-sprint-2.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -368,6 +368,10 @@ La aplicación móvil consume directamente la API construida en Spring Boot. Bas
 El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android y `Widget` en Flutter.
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
+
+El trabajo en equipo se gestionó utilizando ramas de características (*feature branches*) en GitHub para evitar conflictos en el código base. La asignación equitativa de los *Bounded Contexts* garantizó que cada desarrollador fuera dueño de una integración vertical desde el endpoint de Spring Boot hasta el `@Composable` en Android.
+
+![insights.during-sprint-3](../../assets/chapter-4/insights-during-sprint-3.png)
 
 <div style="page-break-after: always;"></div>
 
